@@ -1,13 +1,14 @@
-# Quantum Mechanics with Julia
+# Quantum Mechanics
 
 [![LGPL 3.0 License](https://github.com/ConAntares/About/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![Made by C++](https://github.com/ConAntares/About/blob/master/Attachments/MadebyCpp.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Made by Julia](https://github.com/ConAntares/About/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
-[![Made by Jupyter](https://github.com/ConAntares/About/blob/master/Attachments/MadebyJupyter.svg)](https://jupyter.org/)
+[![Made by Python](https://github.com/ConAntares/About/blob/master/Attachments/MadebyPython.svg)](https://www.python.org/)
 [![Anti 996](https://github.com/ConAntares/About/blob/master/Attachments/LinkNPL.svg)](https://996.icu)
 
-![Opensource](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
+![Open Source](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
 
-A lecture on Quantum Mechanics with the application of the Julia programming language.  
+A lecture on Quantum Mechanics with the application of the C++, Python and Julia programming language.  
 This is a long-term plan I want to do.
 
 Sincerely,  

@@ -8,7 +8,7 @@
 
 ![Open Source](https://github.com/ConAntares/About/blob/master/Attachments/OpenSource.svg)
 
-A lecture on Quantum Mechanics with the application of the C++, Python, and Julia.  
+A lecture on Quantum Mechanics with the applications of C++, Python, and Julia.  
 This is a long-term plan I want to do.
 
 Sincerely,  

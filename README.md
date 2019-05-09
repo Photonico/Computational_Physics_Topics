@@ -7,8 +7,17 @@
 
 ![Open Source](https://github.com/ConAntares/Temples/blob/master/Attachments/OpenSource.svg)
 
+## About this repository
+
 A lecture on Quantum Mechanics with the applications with Python and Julia.  
 This is a long-term plan I want to do.
+
+## How to use
+
+Please [clone this repository](https://github.com/ConAntares/Quantum_Mechanics.git) to your computer and use [Typora](https://www.typora.io/) or [VSCode](https://code.visualstudio.com/) with [Extension Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) or other Markdown Editors to read this lecture.
+
+Enjoy it!  
+✿✿ヽ(°▽°)ノ✿✿
 
 Sincerely,  
 Luke Niu

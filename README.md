@@ -9,7 +9,7 @@
 
 ## About this repository
 
-A lecture on Quantum Mechanics with the applications with Python and Julia.  
+A lecture on Quantum Mechanics and Quantum Optics with the applications with Python and Julia.  
 This is a long-term plan I want to do.
 
 ## How to use

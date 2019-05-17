@@ -10,5 +10,6 @@ cc
 
 dd
 
+$E = mc^2$
 
 </font>

@@ -1,4 +1,4 @@
-<font face="CMU Serif">
+<font face = "CMU Serif">
 
 # Quantum Mechanics
 

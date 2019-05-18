@@ -14,8 +14,7 @@ This is a long-term plan I want to do.
 
 ## How to use
 
-Please [clone this repository](https://github.com/ConAntares/Quantum_Mechanics.git) to your computer and use [Typora](https://www.typora.io/) or [VSCode](https://code.visualstudio.com/) with [Extension Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) or other Markdown Editors to read this lecture.
-
+Please [clone this repository](https://github.com/ConAntares/Quantum_Mechanics.git) to your computer and use [Typora](https://www.typora.io/) or [VSCode](https://code.visualstudio.com/) with Extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one), or other Markdown Editors to read this lecture.
 Enjoy it!  
 ✿✿ヽ(°▽°)ノ✿✿
 

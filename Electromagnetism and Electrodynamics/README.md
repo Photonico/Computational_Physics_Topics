@@ -1,4 +1,6 @@
-# Statistical Mechanics
+# Electromagnetism and Electrodynamics
+
+My lecture on Electrodynamics including Electromagnetism and Quantum Electrodynamics with applications with Julia.
 
 [![LGPL 3.0 License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Made by Julia](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
@@ -7,14 +9,8 @@
 
 ![Open Source](https://github.com/ConAntares/Temples/blob/master/Attachments/OpenSource.svg)
 
-## About this repository
-
-A lecture on Statistical Mechanics including Thermodynamics with the applications by Julia Language.  
-
 ## Reference
 
-Franz Schwabl, Statistical Mechanics, Springer, 2006.
+David J. Griffiths, Introduction to Electrodynamics 4rd Edition, Cambridge University Press, 2017.
 
-Mehran Kardar, Statistical Physics of Particles, Cambridge University Press, 2007.
-
-Mehran Kardar, Statistical Physics of Fields, Cambridge University Press, 2007.
+Richard P. Feynman, Robert B. Leighton, Matthew Sands, The Feynman Lectures on Physics Volume 2.

@@ -9,7 +9,7 @@
 
 ## About this repository
 
-A lecture on Quantum Mechanics including Quantum Optics, Quantum Information, and Quantum Computation with the applications by Julia Language.  
+A lecture on Quantum Mechanics including Quantum Optics with the applications by Julia Language.  
 This is a long-term plan I want to do.
 
 ## Reference

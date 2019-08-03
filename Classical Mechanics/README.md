@@ -1,4 +1,4 @@
-# Quantum Mechanics and Quantum Optics
+# Classical Mechanics
 
 [![LGPL 3.0 License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Made by Julia](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
@@ -7,13 +7,6 @@
 
 ![Open Source](https://github.com/ConAntares/Temples/blob/master/Attachments/OpenSource.svg)
 
-## About this repository
+## Reference
 
-A lecture on Physics including Quantum Theory with the applications by Julia Language.  
-This is a long-term plan I want to do.
-
-Enjoy it!  
-✿✿ヽ(°▽°)ノ✿✿
-
-Sincerely,  
-Luke Niu
+Tom W.B. Kibble, Frank H. Berkshire, Classical Mechanics, Imperial College Press, 2004.

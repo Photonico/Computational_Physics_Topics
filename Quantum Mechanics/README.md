@@ -9,8 +9,14 @@
 
 ## About this repository
 
-A lecture on Physics including Quantum Theory with the applications by Julia Language.  
+A lecture on Quantum Mechanics including Quantum Optics, Quantum Information, and Quantum Computation with the applications by Julia Language.  
 This is a long-term plan I want to do.
+
+## Reference
+
+D.F. Walls, Gerard J, Milburn, Quantum Optics, Springer, 2008.
+
+Michael A. Nielsen, Isaac L. Chuang, Quantum Computation and Quantum Information, Cambridge University Press, 2000.
 
 Enjoy it!  
 ✿✿ヽ(°▽°)ノ✿✿

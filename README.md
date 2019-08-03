@@ -1,4 +1,4 @@
-# Quantum Mechanics and Quantum Optics
+# Quantum Physics
 
 [![LGPL 3.0 License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Made by Julia](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
@@ -9,7 +9,7 @@
 
 ## About this repository
 
-A lecture on Physics including Quantum Theory with the applications by Julia Language.  
+A lecture on Quantum Physics including some Classical Physics with the applications by Julia Language.  
 This is a long-term plan I want to do.
 
 Enjoy it!  

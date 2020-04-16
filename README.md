@@ -9,7 +9,7 @@
 
 ## About this repository
 
-A lecture on Quantum Physics including some Classical Physics with the applications by Julia Language.  
+A lecture on Quantum Physics including some Classical Physics with the applications by Python Language.  
 This is a long-term plan I want to do.
 
 Enjoy it!  

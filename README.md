@@ -12,8 +12,21 @@
 A lecture on Quantum Physics including some Classical Physics with the applications by Python Language.  
 This is a long-term plan I want to do.
 
-Enjoy it!  
-✿✿ヽ(°▽°)ノ✿✿
+## How to use
+
+Please [clone this repository](https://github.com/Photonico/USyd_CMP.git) to your computer, and Install [Python](https://www.python.org/), [Jupyter Kernel](https://jupyter.org/), If you want the better studying experience, after the above steps, install [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [LaTeX](https://www.latex-project.org/).
+
+## Contact me
+
+E-mail: LukeNiu@outlook.com  
+
+## Acknowledge
+
+Thank you for your visiting.
 
 Sincerely,  
-Luke Niu
+Lu Niu
+
+---
+Enjoy it!  
+✿✿ヽ(°▽°)ノ✿✿

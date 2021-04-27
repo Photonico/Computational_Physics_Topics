@@ -1,4 +1,4 @@
-# Quantum Physics
+# Computational Physics
 
 [![LGPL 3.0 License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Made by Python](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyPython.svg)](https://www.python.org/)
@@ -9,7 +9,7 @@
 
 ## About this repository
 
-A lecture on Quantum Physics including some Classical Physics with the applications by Python Language.  
+My notes on Computational Physics including fundamental classical physics and quantum physics with the applications by Python Language.  
 This is a long-term plan I want to do.
 
 ## How to use

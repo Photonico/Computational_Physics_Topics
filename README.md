@@ -10,12 +10,12 @@
 ## About this repository
 
 My notes on Computational Physics including both classical physics and quantum physics.  
-Python3.x is the demonstrated language, but algorithms are universal.  
+Python3.x is the demonstrated language in Jupyter Notebook, however, the algorithms are universal.  
 This is a long-term plan.
 
 ## How to use
 
-Please [clone this repository](https://github.com/Photonico/USyd_CMP.git) to your computer, and Install [Python](https://www.python.org/), [Jupyter Kernel](https://jupyter.org/), If you want the better studying experience, after the above steps, install [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [LaTeX](https://www.latex-project.org/).
+Please [clone this repository](https://github.com/Photonico/Computational_Physics.git) to your computer, and Install [Python](https://www.python.org/), [Jupyter Kernel](https://jupyter.org/), If you want the better studying experience, after the above steps, install [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [LaTeX](https://www.latex-project.org/).
 
 ## Contact me
 

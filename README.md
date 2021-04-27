@@ -9,8 +9,8 @@
 
 ## About this repository
 
-My notes on Computational Physics including both classical physics and quantum physics. 
-The Applications are made by Python Language.  
+My notes on Computational Physics including both classical physics and quantum physics.  
+Python3.x is the demonstrated language, but algorithms are universal.  
 This is a long-term plan.
 
 ## How to use

@@ -2,7 +2,7 @@
 
 ## About
 
-A lecture on Statistical Mechanics including Thermodynamics with the applications by Python Language.  
+Classical Statistical Mechanics
 
 ## Reference
 

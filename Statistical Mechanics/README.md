@@ -1,8 +1,8 @@
-# Classical Statistical Mechanics
+# Statistical Mechanics
 
 ## About
 
-Classical Statistical Mechanics
+Statistical Mechanics including Classical and Quantum
 
 ## Reference
 

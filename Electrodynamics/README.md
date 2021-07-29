@@ -1,4 +1,4 @@
-# Electromagnetism and Electrodynamics
+# Electrodynamics
 
 ## About
 

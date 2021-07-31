@@ -16,7 +16,7 @@ This is a long-term plan.
 
 Please [clone this repository](https://github.com/Photonico/Computational_Physics.git) to your computer, and Install [Python](https://www.python.org/), [Jupyter Kernel](https://jupyter.org/), If you want the better studying experience, after the above steps, install [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [LaTeX](https://www.latex-project.org/).
 
-## Index for local repository
+## Index
 
 * [Classical Mechanics](Classical%20Mechanics)  
 

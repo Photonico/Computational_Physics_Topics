@@ -23,7 +23,7 @@ Please [clone this repository](https://github.com/Photonico/Computational_Physic
 * [Electrodynamics](Electrodynamics)  
 
 * [Quantum Mechanics](Quantum%20Mechanics)  
-  * [Quantum Mechanics](Quantum%20Mechanics/Interatomic%20potential.ipynb)  
+  * [Interatomic potential](Quantum%20Mechanics/Interatomic%20potential.ipynb)  
 
 * [Statistical Mechanics](Statistical%20Mechanics)  
   * [Kinetic theory of gasses](Statistical%20Mechanics/Kinetic%20theory%20of%20gases.ipynb)  

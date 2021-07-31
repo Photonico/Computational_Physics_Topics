@@ -18,35 +18,19 @@ Please [clone this repository](https://github.com/Photonico/Computational_Physic
 
 ## Index for local repository
 
-* [Classical Mechanics](Classical%20Mechanics/README.md)  
+* [Classical Mechanics](Classical%20Mechanics)  
 
-* [Electrodynamics](Electrodynamics/README.md)  
+* [Electrodynamics](Electrodynamics)  
 
-* [Quantum Mechanics](Quantum%20Mechanics/README.md)  
+* [Quantum Mechanics](Quantum%20Mechanics)  
   * [Quantum Mechanics](Quantum%20Mechanics/Interatomic%20potential.ipynb)  
 
-* [Statistical Mechanics](Statistical%20Mechanics/README.md)  
+* [Statistical Mechanics](Statistical%20Mechanics)  
   * [Kinetic theory of gasses](Statistical%20Mechanics/Kinetic%20theory%20of%20gases.ipynb)  
   * [Fermi-Dirac statistics](Statistical%20Mechanics/Fermi-Dirac%20statistics.ipynb)  
 
-* [Condensed Matter Physics](Condensed%20Matter%20Physics/README.md)  
+* [Condensed Matter Physics](Condensed%20Matter%20Physics)  
   * [Einstein's calculation](Condensed%20Matter%20Physics/Einstein's%20calculation.ipynb)  
-
-## Index for GitHub website
-
-* [Classical Mechanics](https://github.com/Photonico/Computational_Physics/tree/master/Classical%20Mechanics)  
-
-* [Electrodynamics](https://github.com/Photonico/Computational_Physics/tree/master/Electrodynamics)  
-
-* [Quantum Mechanics](https://github.com/Photonico/Computational_Physics/tree/master/Quantum%20Mechanics)  
-  * [Quantum Mechanics](https://github.com/Photonico/Computational_Physics/blob/master/Quantum%20Mechanics/Interatomic%20potential.ipynb)  
-
-* [Statistical Mechanics](https://github.com/Photonico/Computational_Physics/tree/master/Statistical%20Mechanics)  
-  * [Kinetic theory of gasses]([Statistical%20Mechanics/Kinetic%20theory%20of%20gases.ipynb](https://github.com/Photonico/Computational_Physics/blob/master/Statistical%20Mechanics/Kinetic%20theory%20of%20gases.ipynb))  
-  * [Fermi-Dirac statistics](https://github.com/Photonico/Computational_Physics/blob/master/Statistical%20Mechanics/Fermi-Dirac%20statistics.ipynb)  
-
-* [Condensed Matter Physics](https://github.com/Photonico/Computational_Physics/blob/master/Condensed%20Matter%20Physics)  
-  * [Einstein's calculation](https://github.com/Photonico/Computational_Physics/blob/master/Condensed%20Matter%20Physics/Einstein's%20Calculation.ipynb)  
 
 ## Contact me
 

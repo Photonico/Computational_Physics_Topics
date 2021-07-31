@@ -33,6 +33,7 @@ Please [clone this repository](https://github.com/Photonico/Computational_Physic
 * Quantum Optics  
 
 * Condensed Matter Physics  
+  * [Einstein's calculation](Condensed%20Matter%20Physics/Einstein's%20calculation.ipynb)  
 
 * Density Functional Theory  
 

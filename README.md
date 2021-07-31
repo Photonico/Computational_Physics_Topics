@@ -37,30 +37,10 @@ Please [clone this repository](https://github.com/Photonico/Computational_Physic
 
 * [Density Functional Theory](Density%20Functional%20Theory/README.md)  
 
-* [Quantum Information and Quantum Computation](Quantum%20Information%20and%20Quantum%20Computation/README.md)  
-
 ## Github repository web Index
 
 * [Classical Mechanics](Classical%20Mechanics/README.md)  
 
-* [Electrodynamics](Electrodynamics/README.md)  
-
-* [Quantum Mechanics](Quantum%20Mechanics/README.md)  
-
-* Statistical Mechanics  
-  * [Kinetic theory of gasses](Thermodynamics/Kinetic%20theory%20of%20gases.ipynb)  
-  * [Fermi-Dirac statistics](Statistical%20Mechanics/Fermi-Dirac%20statistics.ipynb)  
-
-* [Quantum Electrodynamics](Quantum%20Electrodynamics/README.md)  
-
-* [Quantum Optics](Quantum%20Optics/README.md)  
-
-* [Condensed Matter Physics](Condensed%20Matter%20Physics/README.md)  
-  * [Einstein's calculation](Condensed%20Matter%20Physics/Einstein's%20calculation.ipynb)  
-
-* [Density Functional Theory](Density%20Functional%20Theory/README.md)  
-
-* [Quantum Information and Quantum Computation](Quantum%20Information%20and%20Quantum%20Computation/README.md)  
 
 ## Contact me
 

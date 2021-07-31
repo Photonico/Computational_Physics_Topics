@@ -35,12 +35,9 @@ Please [clone this repository](https://github.com/Photonico/Computational_Physic
 * [Condensed Matter Physics](Condensed%20Matter%20Physics/README.md)  
   * [Einstein's calculation](Condensed%20Matter%20Physics/Einstein's%20calculation.ipynb)  
 
-* [Density Functional Theory](Density%20Functional%20Theory/README.md)  
-
 ## Github repository web Index
 
 * [Classical Mechanics](Classical%20Mechanics/README.md)  
-
 
 ## Contact me
 

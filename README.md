@@ -21,12 +21,14 @@ Please [clone this repository](https://github.com/Photonico/Computational_Physic
 * Classical Mechanics  
 
 * Thermodynamics  
+  * [Kinetic theory of gasses](Thermodynamics/Kinetic%20theory%20of%20gases.ipynb)  
 
 * Electromagnetism and Electrodynamics  
 
 * Quantum Mechanics  
 
 * Statistical Mechanics  
+  * [Fermi-Dirac statistics](Statistical%20Mechanics/Fermi-Dirac%20statistics.ipynb)  
 
 * Quantum Electrodynamics  
 

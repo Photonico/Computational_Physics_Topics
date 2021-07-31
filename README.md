@@ -16,7 +16,7 @@ This is a long-term plan.
 
 Please [clone this repository](https://github.com/Photonico/Computational_Physics.git) to your computer, and Install [Python](https://www.python.org/), [Jupyter Kernel](https://jupyter.org/), If you want the better studying experience, after the above steps, install [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [LaTeX](https://www.latex-project.org/).
 
-## Local Index
+## Index for local repository
 
 * [Classical Mechanics](Classical%20Mechanics/README.md)  
 
@@ -35,7 +35,7 @@ Please [clone this repository](https://github.com/Photonico/Computational_Physic
 * [Condensed Matter Physics](Condensed%20Matter%20Physics/README.md)  
   * [Einstein's calculation](Condensed%20Matter%20Physics/Einstein's%20calculation.ipynb)  
 
-## Github repository web Index
+## Index for GitHub website
 
 * [Classical Mechanics](Classical%20Mechanics/README.md)  
 

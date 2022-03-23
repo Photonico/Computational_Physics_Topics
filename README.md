@@ -39,7 +39,6 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Appendix C: Statistics and Numerical Methods](Appendix%20C%20Statistics%20and%20Numerical%20Methods)  
 
-
 ## Contact me
 
 E-mail: LukeNiu@outlook.com  

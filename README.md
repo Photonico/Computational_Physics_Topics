@@ -1,6 +1,8 @@
 # Computational Physics
 
 [![LGPL 3.0 License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![Made by C/C++](https://github.com/Photonico/Templates/blob/master/Attachments/MadebyCCpp.svg)](https://isocpp.org/)
+[![Made by Julia](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
 [![Made by Python](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyPython.svg)](https://www.python.org/)
 [![Made by Jupyter](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyJupyter.svg)](https://jupyter.org/)
 
@@ -8,13 +10,15 @@
 
 ## About this repository
 
-My notes on Computational Physics including both classical physics and quantum physics.  
-Python3.x is the demonstrated language in Jupyter Notebook, however, the algorithms are universal.  
+My notes on Computational Physics including both Classical Physics, Quantum Physics, and related numerical methods.
+
+Python 3.x is the major demonstrated programming language. Julia Language also deserves a high recommendation. In addition, C and C++ language also presented in some applications as attachments.
+
 This is a long-term plan.
 
 ## How to use
 
-Please [clone this repository](https://github.com/Photonico/Computational_Physics.git) to your computer, and Install [Python](https://www.python.org/), [Jupyter Kernel](https://jupyter.org/), If you want the better studying experience, after the above steps, install [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), and [LaTeX](https://www.latex-project.org/).
+I strongly suggest cloning [this repository](https://github.com/ConAntares/Algorithms.git) to your computer and [VSCode](https://code.visualstudio.com/) with the extension [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) ,extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), extension [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), and extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one). Other Jupyter Editors is also recommended.  
 
 ## Index
 
@@ -31,6 +35,14 @@ Please [clone this repository](https://github.com/Photonico/Computational_Physic
 
 * [Condensed Matter Physics](Condensed%20Matter%20Physics)  
   * [Einstein's calculation](Condensed%20Matter%20Physics/Einstein's%20calculation.ipynb)  
+
+* [Appendix A: Linear Algebra](Appendix%20A%20Linear%20Algebra)  
+
+* [Appendix B: Plotting](Appendix%20C%20Plotting)  
+
+* [Appendix C: Statistics and Numerical Methods](Appendix%20C%20Statistics%20and%20Numerical%20Methods)  
+
+
 
 ## Contact me
 

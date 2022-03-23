@@ -37,7 +37,9 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Appendix B: Plotting](Appendix%20B%20Plotting)  
 
-* [Appendix C: Statistics and Numerical Methods](Appendix%20C%20Statistics%20and%20Numerical%20Methods)  
+* [Appendix C: Algorithms](Appendix%20C%20Algorithms)
+
+* [Appendix D: Statistics and Numerical Methods](Appendix%20D%20Statistics%20and%20Numerical%20Methods)  
 
 ## Contact me
 

@@ -26,8 +26,9 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Electrodynamics](Electrodynamics)  
 
+* [Atom Physics](Atom%20Physics)
+
 * [Quantum Mechanics](Quantum%20Mechanics)  
-  * [Interatomic potential](Quantum%20Mechanics/Interatomic%20potential.ipynb)  
 
 * [Statistical Mechanics](Statistical%20Mechanics)  
 

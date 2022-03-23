@@ -30,18 +30,14 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
   * [Interatomic potential](Quantum%20Mechanics/Interatomic%20potential.ipynb)  
 
 * [Statistical Mechanics](Statistical%20Mechanics)  
-  * [Kinetic theory of gasses](Statistical%20Mechanics/Kinetic%20theory%20of%20gases.ipynb)  
-  * [Fermi-Dirac statistics](Statistical%20Mechanics/Fermi-Dirac%20statistics.ipynb)  
 
 * [Condensed Matter Physics](Condensed%20Matter%20Physics)  
-  * [Einstein's calculation](Condensed%20Matter%20Physics/Einstein's%20calculation.ipynb)  
 
 * [Appendix A: Linear Algebra](Appendix%20A%20Linear%20Algebra)  
 
-* [Appendix B: Plotting](Appendix%20C%20Plotting)  
+* [Appendix B: Plotting](Appendix%20B%20Plotting)  
 
 * [Appendix C: Statistics and Numerical Methods](Appendix%20C%20Statistics%20and%20Numerical%20Methods)  
-
 
 
 ## Contact me

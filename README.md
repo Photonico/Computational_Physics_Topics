@@ -41,6 +41,8 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Appendix D: Statistics and Numerical Methods](Appendix%20D%20Statistics%20and%20Numerical%20Methods)  
 
+* [Appendix E: GPU computing](Appendix%20E%20GPU%20Computing)
+
 ## Contact me
 
 E-mail: LukeNiu@outlook.com  

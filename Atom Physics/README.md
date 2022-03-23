@@ -1,8 +1,8 @@
-# Quantum Mechanics
+# Atom Physics
 
 ## About this repository
 
-A lecture on Quantum Mechanics.
+A lecture on Atom Physics.
 
 ## Index
 

@@ -1,13 +1,13 @@
-#### Coin
+"Coin"
 
 # Readme: https://www.zhihu.com/question/315108379?
 
-import numpy as np
-import time
+import time; import numpy as np
 
 to = time.time()
 
 def coin(tot):
+    "Definition of coins"
     toc      = tot + 1
     category = [1, 5 , 10, 20, 50, 100]
     count    = np.zeros(toc, dtype=int)

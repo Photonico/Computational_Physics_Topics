@@ -22,23 +22,23 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 ## Index
 
-* [Classical Mechanics](Classical%20Mechanics)  
+* [Classical Mechanics](Classical%20Mechanics)
 
-* [Electrodynamics](Electrodynamics)  
+* [Electrodynamics](Electrodynamics)
 
 * [Atom Physics](Atom%20Physics)
 
-* [Quantum Mechanics](Quantum%20Mechanics)  
+* [Quantum Mechanics](Quantum%20Mechanics)
 
-* [Statistical Mechanics](Statistical%20Mechanics)  
+* [Statistical Mechanics](Statistical%20Mechanics)
 
-* [Condensed Matter Physics](Condensed%20Matter%20Physics)  
+* [Condensed Matter Physics](Condensed%20Matter%20Physics)
 
-* [Appendix A: Linear Algebra](Appendix%20A%20Linear%20Algebra)  
+* [Appendix Algorithms and Numerical Methods](Appendix%20Algorithms%20and%20Numerical%20Methods)
 
-* [Appendix B: Plotting](Appendix%20B%20Plotting)  
+* [Appendix Data Manipulation](Appendix%20Data%20Manipulation)
 
-* [Appendix C: Algorithms and Numerical Methods](Appendix%20C%20Algorithms%20and%20Numerical%20Methods)  
+* [Appendix Linear Algebra](Appendix%20Linear%20Algebra)
 
 ## Contact me
 

@@ -23,10 +23,9 @@ def Walk(tot):
 
         x_values.append(x_refresh)
         y_values.append(y_refresh)
-
     return x_values, y_values
 
-re  = Walk(10000)
+re  = Walk(1000)
 num = range(len(re[0]))
 
 plt.rc("font", **{"size":14,"family":"serif","serif":["Computer Modern"]})

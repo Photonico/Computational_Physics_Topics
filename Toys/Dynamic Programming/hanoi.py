@@ -1,9 +1,5 @@
 "Hanoi"
 
-import time
-
-to = time.time()
-
 def hanoi(plate_number,x_set,y_set,z_set):
     "Definition of Hanoi"
     if plate_number == 1:
@@ -15,6 +11,3 @@ def hanoi(plate_number,x_set,y_set,z_set):
 
 n = int(input("Please input the number of oder. \n"))
 hanoi(n,"1st Pin","2nd Pin","3rd Pin")
-
-td = time.time() - to
-print("The time interval is %f s." %td)

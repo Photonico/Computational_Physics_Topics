@@ -2,14 +2,12 @@
 
 # Readme: https://www.zhihu.com/question/315108379?
 
-import time; import numpy as np
-
-to = time.time()
+import numpy as np
 
 def coin(tot):
     "Definition of coins"
     toc      = tot + 1
-    category = [1, 5 , 10, 20, 50, 100]
+    category = [1, 5, 10, 20, 50, 100]
     count    = np.zeros(toc, dtype=int)
     count[0] = 1
     for i in category:
@@ -19,6 +17,3 @@ def coin(tot):
     return count[tot]
 
 print(coin(500))
-
-td = time.time() - to
-print("The time interval is %f s." %td)

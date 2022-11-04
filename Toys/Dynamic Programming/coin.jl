@@ -4,7 +4,7 @@
 
 function coin(tot)
     toc      = tot + 1
-    category = [1, 5 , 10, 20, 50, 100]
+    category = [1, 5, 10, 20, 50, 100]
     count    = zeros(toc)
     count[1] = 1
     for i in category

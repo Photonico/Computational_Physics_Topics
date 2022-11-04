@@ -9,7 +9,7 @@ The algorithm is named after the mathematicians Jorgen Pedersen Gram and Erhard 
 If the vectors are linearly independent, the Gram-Schmidt algorithm produces an orthonormal collection of vectors Q(1),...,Q(k) with the following properties:
 For each i = 1,...,k; A(i) is a linear combination of Q(1),...,Q(i), and Q(i) is a linear combination of A(1),...,A(i).
 If the vectors A(1),...,A(j-1) are linearly independent but A(1),...,A(j) are linearly dependent, the algorithm detects this and terminates.
-Inother words, the Gram-Schmidt algorithm finds the first vector A(j) that is a linear combination of previous vectors A(1),...,A(j-1).
+Inother words, the Gram-Schmidt algorithm finds the first vector A(j) that is a linear combination of previous vectors A(1),...,A(j-1).
 """
 
 # Description for Gram-Schmidt Algorithm

@@ -1,6 +1,6 @@
 #### Mathematical notations clipboard
 
-## Greek Characters
+## Greek characters
 
 Α α Β β Γ γ Δ δ 
 Ε ε Ζ ζ Η η Θ θ 
@@ -8,3 +8,7 @@
 Ξ ξ Ο ο Π π Ρ ρ Σ σ/ς 
 Τ τ Υ υ Φ φ 
 Χ χ Ψ ψ Ω ω
+
+## Calculus notations
+
+∇ ∆ 

@@ -32,6 +32,8 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Appendix: Algorithms and Numerical Methods](Appendix%20Algorithms%20and%20Numerical%20Methods)
 
+* [Appendix: Mathematical Concepts](Appendix%20Mathematical%20Concepts)
+
 * [Appendix: Data Manipulation](Appendix%20Data%20Manipulation)
 
 ## Contact me

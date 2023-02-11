@@ -2,7 +2,7 @@
 
 ## About
 
-This repository stores the notes for algorithms including numerical methods, and some mathematical concepts.
+This repository stores the notes for algorithms including numerical methods.
 
 ## Index
 

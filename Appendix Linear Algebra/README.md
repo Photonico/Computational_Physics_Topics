@@ -1,3 +1,0 @@
-# Linear Algebra
-
-## Reference

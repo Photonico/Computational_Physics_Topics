@@ -1,8 +1,6 @@
 # Computational Physics
 
 [![LGPL 3.0 License](https://github.com/ConAntares/Temples/blob/master/Attachments/LicenseLGPL3.0.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-[![Made by C/C++](https://github.com/Photonico/Templates/blob/master/Attachments/MadebyCCpp.svg)](https://isocpp.org/)
-[![Made by Julia](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyJulia.svg)](https://julialang.org/)
 [![Made by Python](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyPython.svg)](https://www.python.org/)
 [![Made by Jupyter](https://github.com/ConAntares/Temples/blob/master/Attachments/MadebyJupyter.svg)](https://jupyter.org/)
 
@@ -10,15 +8,13 @@
 
 ## About this repository
 
-My notes on Computational Physics including both Classical Physics, Quantum Physics, and related numerical methods.
-
-Python 3.x is the major demonstrated programming language. Julia Language also deserves a high recommendation. In addition, C and C++ language also presented in some applications as attachments.
+My notes on Computational Physics include both Classical Physics, Quantum Physics, and related numerical methods. Python 3.x is the major demonstrated programming language.
 
 This is a long-term plan.
 
 ## How to use
 
-I strongly suggest cloning [this repository](https://github.com/ConAntares/Algorithms.git) to your computer and [VSCode](https://code.visualstudio.com/) with the extension [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) ,extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), extension [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), and extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one). Other Jupyter Editors is also recommended.  
+I strongly suggest cloning [this repository](https://github.com/ConAntares/Algorithms.git) to your computer and [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), extension [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), and extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one). Other Jupyter Editors are also recommended.  
 
 ## Index
 
@@ -34,11 +30,11 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Condensed Matter Physics](Condensed%20Matter%20Physics)
 
-* [Appendix Algorithms and Numerical Methods](Appendix%20Algorithms%20and%20Numerical%20Methods)
+* [Appendix: Algorithms and Numerical Methods](Appendix%20Algorithms%20and%20Numerical%20Methods)
 
-* [Appendix Data Manipulation](Appendix%20Data%20Manipulation)
+* [Appendix: Data Manipulation](Appendix%20Data%20Manipulation)
 
-* [Appendix Algebra](Appendix%20Algebra)
+* [Appendix: Linear Algebra](Appendix%20Linear%20Algebra)
 
 ## Contact me
 

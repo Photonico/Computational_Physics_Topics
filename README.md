@@ -34,8 +34,6 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Appendix: Data Manipulation](Appendix%20Data%20Manipulation)
 
-* [Appendix: Linear Algebra](Appendix%20Linear%20Algebra)
-
 ## Contact me
 
 E-mail: LukeNiu@outlook.com  

@@ -4,6 +4,6 @@
 
 A lecture on Atom Physics.
 
-## Index
+## Contents
 
 ## Reference

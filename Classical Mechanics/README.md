@@ -4,7 +4,7 @@
 
 Classical Mechanics
 
-## Index
+## Contents
 
 ## Reference
 

@@ -16,7 +16,7 @@ This is a long-term plan.
 
 I strongly suggest cloning [this repository](https://github.com/ConAntares/Algorithms.git) to your computer and [VSCode](https://code.visualstudio.com/) with the extension [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), extension [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter), and extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one). Other Jupyter Editors are also recommended.  
 
-## Index
+## Contents
 
 * [Classical Mechanics](Classical%20Mechanics)
 

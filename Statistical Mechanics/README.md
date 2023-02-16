@@ -8,6 +8,8 @@ Thermodynamics deals with heat and temperature, and their relation to energy, wo
 
 ## Contents
 
+* [Kinetic Theory of Gases](Kinetic%20Theory%20of%20Gases.ipynb)
+
 * [Fermi-Dirac Statistics](Fermi-Dirac%20Statistics.ipynb)
 
 ## Reference

@@ -4,7 +4,7 @@
 
 Condensed Matter Physics
 
-## Index
+## Contents
 
 ## Reference
 

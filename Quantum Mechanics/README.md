@@ -4,6 +4,6 @@
 
 A lecture on Quantum Mechanics.
 
-## Index
+## Contents
 
 ## Reference

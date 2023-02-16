@@ -4,7 +4,7 @@
 
 My lecture on Electrodynamics including Electromagnetism and Quantum Electrodynamics with applications with Julia.
 
-## Index
+## Contents
 
 ## Reference
 

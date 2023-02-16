@@ -4,6 +4,6 @@
 
 This repository stores the notes for some mathematical concepts.
 
-## Index
+## Contents
 
 ## Reference

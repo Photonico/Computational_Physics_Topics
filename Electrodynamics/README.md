@@ -6,6 +6,10 @@ My lecture on Electrodynamics including Electromagnetism and Quantum Electrodyna
 
 ## Contents
 
+* [Drude Theory](Drude%20Theory.ipynb)
+
+* [Hall Effect](Hall%20Effect.ipynb)
+
 ## Reference
 
     David J. Griffiths, Introduction to Electrodynamics 4rd Edition, Cambridge University Press, 2017.

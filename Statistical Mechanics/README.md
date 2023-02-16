@@ -8,7 +8,7 @@ Thermodynamics deals with heat and temperature, and their relation to energy, wo
 
 ## Contents
 
-* [Classical Mechanics](Classical%20Mechanics)
+* [Fermi-Dirac Statistics](Fermi-Dirac%20Statistics.ipynb)
 
 ## Reference
 

@@ -6,4 +6,6 @@ A lecture on Atom Physics.
 
 ## Contents
 
+* [Interatomic Potential](Interatomic%20Potential.ipynb)
+
 ## Reference

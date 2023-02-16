@@ -8,4 +8,4 @@ A lecture on Quantum Mechanics.
 
 ## Reference
 
-
+Ramamurti Shankar, Principles of Quantum Mechanics 2nd Edition, Springer, 2014.

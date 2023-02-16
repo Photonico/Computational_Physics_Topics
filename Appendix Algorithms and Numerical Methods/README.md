@@ -4,6 +4,6 @@
 
 This repository stores the notes for algorithms including numerical methods.
 
-## Index
+## Contents
 
 ## Reference

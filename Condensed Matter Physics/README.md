@@ -6,9 +6,9 @@ Condensed Matter Physics
 
 ## Contents
 
-* [Drude Theory](Drude%20Theory.ipynb)
+* [Debye's Calculation](Debye's%20Calculation.ipynb)
 
-* [Hall Effect](Hall%20Effect.ipynb)
+* [Einstein's Calculation](Einstein's%20Calculation.ipynb)
 
 ## Reference
 

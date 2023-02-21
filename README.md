@@ -8,7 +8,7 @@
 
 ## About this repository
 
-My notes on Computational Physics include both Classical Physics, Quantum Physics, and related numerical methods. Python 3.x is the major demonstrated programming language.
+My notes on Computational Physics include both Classical Physics, Quantum Physics, and related numerical methods. Python 3.10 is the major demonstrated programming language.
 
 This is a long-term plan.
 

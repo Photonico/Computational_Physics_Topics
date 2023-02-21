@@ -2,20 +2,20 @@
 
 The contents for the course of Advanced Electrodynamics and Photonics
 
-+ Covariant electrodynamics
++ Introduction to Covariant electrodynamics
 
-+ Radiation by relativistic charges
++ Introduction to Radiation by relativistic charges
 
-+ Light-matter interactions
++ Introduction to Light-matter interactions
 
-+ Metamaterials and fibers
++ Introduction to Metamaterials and fibers
 
-+ Photonic bandgap
++ Introduction to Photonic bandgap
 
-+ Nonlinear processes
++ Introduction to Nonlinear processes
 
-+ Lasers
++ Introduction to Lasers
 
-+ Plasmonics
++ Introduction to Plasmonics
 
-+ Quantum photonics
++ Introduction to Quantum photonics

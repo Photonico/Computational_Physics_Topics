@@ -2,6 +2,7 @@
 
 import numpy as np
 
-Beijing_temp_max = np.array([0,0,0,0,0,0,0,0,0,0,0,0])
-Beijing_temp_min = np.array([0,0,0,0,0,0,0,0,0,0,0,0])
+Beijing_temp_max = np.array([1,4,0,0,0,0,0,0,0,0,0,0])
+Beijing_temp_ave = np.array([1,4,0,0,0,0,0,0,0,0,0,0])
+Beijing_temp_min = np.array([-10,0,0,0,0,0,0,0,0,0,0,0])
 Beijing_precipitation = np.array([0,0,0,0,0,0,0,0,0,0,0,0])

@@ -19,3 +19,5 @@ Sydney_precipitation    = np.array([104,111,129,126,120,132, 85, 89, 68, 83, 80,
 # Edmonton
 
 # Toronto
+
+# LA

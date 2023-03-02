@@ -9,3 +9,9 @@ Beijing_temp_ave        = np.array([ -5, -2,  4, 13, 20, 24, 26, 24, 20, 13,  4,
 Beijing_precipitation   = np.array([  3,  4,  8, 22, 35, 78,170,152, 43, 12,  3,  2])
 
 # Sydney
+
+# Shanghai
+
+# Edmonton
+
+# Toronto

@@ -1,5 +1,7 @@
 # 2D  Plotting in Python: Citys Climate 2023
 
+# Including temperature statistics in °C and precipitation in millimeter
+
 import numpy as np
 
 # Beijing
@@ -20,11 +22,11 @@ Sydney_temp_min         = np.array([ 19.5, 19.7, 18.8, 15.6, 12.2,  9.4,  8.5,  
 Sydney_temp_ave         = np.array([ 23.0, 23.1, 22.0, 19.1, 15.7, 12.9, 12.0, 13.3, 15.3, 17.5, 19.7, 21.8])
 Sydney_precipitation    = np.array([102.0,126.0,122.0,131.0,120.0,128.0, 83.0, 81.0, 71.0, 74.0, 85.0, 90.0])
 
-# Edmonton
-Edmonton_temp_max       = np.array([ 26.6, 26.5, 25.1, 22.6, 19.2, 16.4, 15.6, 17.1, 19.2, 21.5, 23.2, 25.2])
-Edmonton_temp_min       = np.array([ 19.5, 19.7, 18.8, 15.6, 12.2,  9.4,  8.5,  9.4, 11.3, 13.6, 16.2, 18.5])
-Edmonton_temp_ave       = np.array([ 23.0, 23.1, 22.0, 19.1, 15.7, 12.9, 12.0, 13.3, 15.3, 17.5, 19.7, 21.8])
-Edmonton_precipitation  = np.array([102.0,126.0,122.0,131.0,120.0,128.0, 83.0, 81.0, 71.0, 74.0, 85.0, 90.0])
+# Calgary
+Calgary_temp_max        = np.array([ -1.1,  2.3,  9.1, 18.4, 25.0, 30.1, 31.9, 30.8, 26.2, 18.5,  8.3,  0.5])
+Calgary_temp_min        = np.array([-10.0, -7.7, -1.6,  6.4, 13.8, 19.3, 23.1, 22.3, 15.5,  6.9, -2.2, -8.2])
+Calgary_temp_ave        = np.array([ -5.5, -2.8,  3.7, 12.4, 19.4, 24.7, 27.4, 26.5, 20.6, 12.7,  3.1, -3.9])
+Calgary_precipitation   = np.array([  3.0,  4.0,  8.0, 25.0, 44.0, 78.0,185.0,165.0, 37.0, 12.0,  3.0,  2.0])
 
 # Toronto
 

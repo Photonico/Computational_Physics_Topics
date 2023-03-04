@@ -4,6 +4,9 @@
 
 import numpy as np
 
+# Months
+mo = np.array([1,2,3,4,5,6,7,8,9,10,11,12])
+
 # Beijing
 Beijing_temp_max        = np.array([ -1.1,  2.3,  9.1, 18.4, 25.0, 30.1, 31.9, 30.8, 26.2, 18.5,  8.3,  0.5])
 Beijing_temp_min        = np.array([-10.0, -7.7, -1.6,  6.4, 13.8, 19.3, 23.1, 22.3, 15.5,  6.9, -2.2, -8.2])
@@ -40,3 +43,29 @@ LA_temp_min         = np.array([  9.0, 10.0, 11.1, 12.8, 14.4, 17.2, 18.9, 19.4,
 LA_temp_ave         = np.array([ 14.4, 15.0, 16.1, 17.8, 19.4, 22.2, 23.9, 25.0, 23.9, 20.9, 16.0, 12.7])
 LA_precipitation    = np.array([ 79.0, 87.4, 61.7, 23.1,  6.6,  2.3,  0.3,  1.0,  4.8, 15.2, 47.8, 43.2])
 
+import matplotlib; import matplotlib.pyplot as plt
+
+plt.figure(dpi=192); params = {"text.usetex":True, "font.family":"serif", "mathtext.fontset":"cm", "axes.titlesize":16, "axes.labelsize":14, "figure.facecolor":"w"}
+matplotlib.rcParams.update(params)
+plt.tick_params(direction="in",top=True,right=True,bottom=True,left=True)
+plt.title("Citys Climate"); plt.xlabel(r"Months"); plt.ylabel(r"Temperature in °C")
+
+plt.fill_between(mo, Beijing_temp_max, Beijing_temp_min, alpha=0.12, linewidth=0, color="#FF281E")
+plt.plot(mo, Beijing_temp_ave, color="#FF281E", label="Beijing")
+
+plt.fill_between(mo, Shanghai_temp_max, Shanghai_temp_min, alpha=0.12, linewidth=0, color="#FA961E")
+plt.plot(mo, Shanghai_temp_ave, color="#FA961E", label="Shanghai")
+
+plt.fill_between(mo, Sydney_temp_max, Sydney_temp_min, alpha=0.12, linewidth=0, color="#78E132")
+plt.plot(mo, Sydney_temp_ave, color="#78E132", label="Sydney")
+
+plt.fill_between(mo, Toronto_temp_max, Toronto_temp_min, alpha=0.12, linewidth=0, color="#1EB4FF")
+plt.plot(mo, Toronto_temp_ave, color="#1EB4FF", label="Toronto")
+
+plt.fill_between(mo, Calgary_temp_max, Calgary_temp_min, alpha=0.12, linewidth=0, color="#7864E1")
+plt.plot(mo, Calgary_temp_ave, color="#7864E1", label="Calgary")
+
+plt.fill_between(mo, LA_temp_max, LA_temp_min, alpha=0.12, linewidth=0, color="#D7A0FF")
+plt.plot(mo, LA_temp_ave, color="#D7A0FF", label="LA")
+
+plt.show()

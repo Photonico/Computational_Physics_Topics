@@ -2,7 +2,7 @@
 
 ## Nature Science
 
-Anybody who wants to do good physics, should be constantly paying attention to physical phenomena, and not the symbols that stand for physical objects. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
+* Anybody who wants to do good physics, should be constantly paying attention to physical phenomena, and not the symbols that stand for physical objects. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
 
 ## Mathematics
 

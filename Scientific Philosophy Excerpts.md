@@ -4,6 +4,8 @@
 
 * Anybody who wants to do good physics, should be constantly paying attention to physical phenomena, and not the symbols that stand for physical objects. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
 
+* It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong! (Richard Feynman, Cornell University, 1964)
+
 ## Mathematics
 
 * Mathematics is the art of giving the same name to different things. (Henri Poincaré, Science and Hypothesis, 1902)

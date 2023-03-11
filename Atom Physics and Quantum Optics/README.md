@@ -1,8 +1,8 @@
-# Atom Physics
+# Atom Physics and Quantum Optics
 
 ## About this repository
 
-A lecture on Atom Physics.
+A lecture on Atom Physics and Quantum Optics.
 
 ## Contents
 

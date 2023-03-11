@@ -10,6 +10,8 @@
 
 * Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory. (Asher Peres, Quantum Theory: Concepts and Methods, 1993)
 
+* It is said that mathematics is the language of Nature. If so, then physics is its poetry. (Sadri Hassani, Mathematical Physics, 2002)
+
 * Anybody who wants to do good physics, should be constantly paying attention to physical phenomena, and not the symbols that stand for physical objects. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
 
 * We have faith that the underlying laws of nature will have a certain elegance and a certain beauty, and a certain uniformity across all of natural phenomena. That is a faith that we have. It is not a religious issue. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)

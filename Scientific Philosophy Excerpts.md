@@ -10,6 +10,10 @@
 
 * Anybody who wants to do good physics, should be constantly paying attention to physical phenomena, and not the symbols that stand for physical objects. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
 
+* We have faith that the underlying laws of nature will have a certain elegance and a certain beauty, and a certain uniformity across all of natural phenomena. That is a faith that we have. It is not a religious issue. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
+
+* To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
+
 ## Mathematics
 
 * Mathematics is the art of giving the same name to different things. (Henri Poincaré, Science and Hypothesis, 1902)

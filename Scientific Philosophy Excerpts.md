@@ -2,6 +2,8 @@
 
 ## Nature Science
 
+* Modern science, then, has been heir to two different traditions, and, when discussing its evolution, we shall have to bear both in mind. On the one hand that set of ancient beliefs and practices to which, for better or worse, the name of Aristotle is usually attached; on the other, the quite different practices which during the same centuries were developing among the artisans, the craftsmen, and the experimenters in the world of everyday affairs, and whose effects began to penetrate, first into practical mathematics and astronomy, and later into physics, chemistry, and the other ‘sciences of nature.’ (Thomas Kuhn, The Structure of Scientific Revolutions, 1962)
+
 * It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong! (Richard Feynman, Cornell University, 1964)
 
 * Many students enter physics with the impression that it is just a lot of mathematical calculations. Calculations are a part of physics, but they are not the most important part. The most important part of physics is the part that deals with phenomena. Most of physics comes from phenomena. Phenomena are the roots of physics. (Robert R. Wilson, Experiments and the Future of Physics, 1978)

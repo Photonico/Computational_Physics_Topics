@@ -1,0 +1,95 @@
+这是我的理查德外推，Aitken Extrapolation，和香克斯变换的笔记
+```markdown
+### Richardson Extrapolation
+
+Richardson extrapolation is a sequence acceleration technique named after its developer, Lewis Fry Richardson. We introduce a convergent sequence $\{a_n\}_{n \in\mathbb{N}}$, the sum of the first $i$ terms can be described as $ A_i = \sum\limits_{n=0}^{i}a_n $, and forms a series $\{A_i\}_{i \in\mathbb{N}}$. It aims to improve the convergence rate of a sequence or series of estimates of a particular value $A^* = \lim\limits_{n→0} A(n)$. This method is widely used in numerical analysis, specifically in numerical integration, differentiation, and other applications that require accurate approximations.
+
+The core idea behind Richardson extrapolation is to use lower-order approximations to compute a higher-order, more accurate approximation. This recursive algorithm involves combining approximations of various orders to achieve a better estimate of the desired value $A^*$. Although the method may require a relatively larger amount of computation, it can be accelerated through parallel computing or by exploiting the structure of the problem at hand.
+
+The extrapolation process begins with a sequence of approximations $A(n)$ that converges to the desired value $A^*$ as $n$ approaches zero. By using the relationships between the lower-order approximations, we can compute more accurate higher-order approximations.
+
+For the original sequence A(n), the first-order Richardson Extrapolation sequence is given by:
+
+$$ R_{(1)}(n) = \frac{(n+1)A(n+1) - nA(n)}{1!} $$
+
+For the second order, we apply the first-order Richardson extrapolation on R_1(n):
+
+$$ R_{(2)}(n) = \frac{(n+2)^2A(n+2) - 2(n+1)^2A(n+1) + n^2A(n)}{2!} $$
+
+For the third order, we apply the second-order Richardson extrapolation on R_2(n):
+
+$$ R_{(3)}(n) = \frac{(n+3)^3 A(n+3) - 3(n+2)^3 A(n+2) + 3(n+1)^3 A(n+1) - n^3 A(n)}{3!} $$
+
+To extend Richardson extrapolation to higher orders, we can compute additional approximations and use their relationships recursively. This process allows us to obtain increasingly accurate estimates of the desired value $A^*$ as we advance through the extrapolation process. For the general higher-order Richardson extrapolation, the formula is:
+
+$$ R_{(i)}(n) = \frac{1}{i!} \sum\limits_{k=0}^{i} (-1)^{i-k}{\mathrm C}_n^k(n+k)^i A(n+k) $$
+
+where ${\mathrm C}_n^k$ is the combination of selecting $k$ elements from $n$, which can be calculated as:
+
+$$ {\mathrm C}_n^k = \frac{n!}{k!(n-k)!} $$
+
+We can find that each level of the Richardson extrapolation is relatively independent. The Richardson extrapolation calculates higher-order and more accurate approximations by using lower-order approximations. In this process, each level of transformation attempts to eliminate error terms of different orders. Therefore, each level of transformation is relatively independent and does not directly depend on the result of the previous level of transformation.
+
+In summary, Richardson extrapolation is a potent technique for enhancing the accuracy of numerical approximations by targeting convergent sequences. This approach allows Richardson extrapolation to achieve a faster convergence rate when dealing with such sequences. However, its performance may be limited when applied to non-convergent sequences or those with an extremely slow convergence rate. 
+
+### Aitken Extrapolation
+
+Aitken extrapolation, also known as Aitken's delta-squared process, is a series acceleration method used for accelerating the rate of convergence of a sequence. It was introduced by Alexander Aitken in 1926 and is named after him. Its early form was known to Seki Kōwa (end of the 17th century) and was used for the rectification of the circle, i.e., the calculation of $\mathrm \pi$. Aitken extrapolation is most useful for accelerating the convergence of a sequence that converges linearly.
+
+Aitken extrapolation is essentially a first-order acceleration method, which is usually applied only once. For the original sequence $A(n)$, the first-order Aitken's accelerated sequence is given by:
+
+$$ AE_{(1)}(n) = A(n) - \frac{(A(n+1) - A(n))^2}{A(n+2) - 2A(n+1) + A(n)} $$
+
+To obtain higher-order Aitken accelerated sequences, we continue to apply the first-order Aitken's method recursively on the previously accelerated sequences. For the second-order acceleration, we apply the first-order Aitken extrapolation on $AE_{(1)}(n)$:
+
+$$ AE_{(2)}(n) = AE_{(1)}(n) - \frac{(AE_{(1)}(n+1) - AE_{(1)}(n))^2}{AE_{(1)}(n+2) - 2AE_{(1)}(n+1) + AE_{(1)}(n)} $$
+
+For the third-order acceleration, we apply the first-order Aitken extrapolation on $AE_{(2)}(n)$:
+
+$$ AE_{(3)}(n) = AE_{(2)}(n) - \frac{(AE_{(2)}(n+1) - AE_{(2)}(n))^2}{AE_{(2)}(n+2) - 2AE_{(2)}(n+1) + AE_{(2)}(n)} $$
+
+Technically, there are no explicit second-order and third-order formulas, as higher-order acceleration is achieved by recursively applying the first-order Aitken method. The Aitken method can be recursively applied multiple times to achieve higher-order acceleration. For higher-order acceleration, the Aitken method needs to be applied to the accelerated sequence. For example, after applying the Aitken method once, you can apply the Aitken method again to the newly obtained accelerated sequence, and so on.
+
+For higher-order acceleration, the general formula is obtained by iteratively applying the first-order Aitken extrapolation to the accelerated sequence, as shown below:
+
+$$ AE_{(i)}(n) = AE_{(i-1)}(n) - \frac{(AE_{(i-1)}(n+1) - AE_{(i-1)}(n))^2}{AE_{(i-1)}(n+2) - 2AE_{(i-1)}(n+1) + AE_{(i-1)}(n)} $$
+
+where $AE_{(i)}(n)$ represents the $i$-th order accelerated sequence.
+
+It can be noticed that Aitken extrapolation is based on the result of the previous transformation at each level. Specifically, Aitken extrapolation accelerates convergence by eliminating the dominant error term between adjacent terms. In some cases, higher-order Aitken methods may not provide significant performance improvements, or may even lead to performance degradation. Therefore, in practical applications, an appropriate order should be chosen based on the specific problem and the characteristics of the sequence.
+
+### Shanks Transformation
+
+Shanks transformation, also known as the Epsilon algorithm, is a non-linear series acceleration method designed to increase the rate of convergence of a sequence. This method was developed by Daniel Shanks in the 1950s.
+
+The Shanks transformation is based on the idea of creating a new sequence from the original one, which converges more rapidly to the same limit. The transformed sequence is constructed by considering the differences between consecutive terms of the original sequence and applying a specific formula. The process can be applied iteratively to further improve the convergence rate.
+
+This series acceleration method accelerates the convergence of a slowly converging series by transforming it into a more rapidly converging series. It is commonly used for the summation of infinite series. However, it may not be the best choice for series that already exhibit a fast convergence rate.
+
+We introduce a convergent sequence $\{a_n\}_{n \in\mathbb{N}}$, the sum of the first $i$ terms can be described as $ A_i = \sum\limits_{n=0}^{i}a_n $, and forms a new sequence $\{A_i\}_{i \in\mathbb{N}}$.
+
+Provided the series converges, $A_i$ will also converge to $S$ as $n→∞$. The Shanks transformation $L(A_i)$ is defined by:
+
+$$\begin{aligned}
+L(A_i) &= A_{i+1} - \frac{(A_{i+1}-A_i)^2}{(A_{i+1}-A_i)-(A_i-A_{i-1})}; \\ 
+&= \frac{A_{i+1}A_{i-1}-A_i^2}{A_{i+1}-2A_i+A_{i-1}}\end{aligned}$$
+
+It can be noticed that the Shanks transformation is based on the result of the previous transformation at each level. Specifically, the Shanks transformation accelerates convergence by eliminating the dominant error term between adjacent terms. Therefore, each level of transformation depends on the result of the previous level of transformation.
+
+To obtain higher-order Shanks transformations, we can apply the Shanks transformation iteratively on the transformed sequence. For example, the second-order Shanks transformation $L^2(A_i)$ can be obtained by applying the Shanks transformation on the first-order transformed sequence $L(A_i)$, and the third-order Shanks transformation $L^3(A_i)$ can be obtained by applying the Shanks transformation on the second-order transformed sequence $L^2(A_i)$, and so on.
+
+For the second order Shanks transformation, we apply the first order Shanks transformation to the transformed sequence:
+
+$$ L^{(2)}(A_i) = L^{(1)}(L^{(1)}(A_i)) $$
+
+For the third order Shanks transformation, we apply the first order Shanks transformation to the second-order transformed sequence:
+
+$$ L^{(3)}(A_i) = L^{(1)}(L^{(2)}(A_i)) $$
+
+For higher-order Shanks transformations, we can recursively apply the first-order Shanks transformation. The general formula for the $k$-th order Shanks transformation is:
+
+$$ L^{(k)}(A_i) = L^{(1)}(L^{(k-1)}(A_i)) $$
+
+Shanks transformation generally performs well on sequences that exhibit orthogonal convergence, that is when the difference between adjacent terms in the sequence tends towards zero. For such sequences, the Shanks transformation can improve the convergence rate and increase the accuracy of numerical approximations. However, the Shanks transformation may not perform well for non-convergent sequences or sequences with a very slow convergence rate.
+
+```

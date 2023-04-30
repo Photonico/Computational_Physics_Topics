@@ -6,7 +6,6 @@ This is my note for the course Writing in the Science, which is offered by [Cour
 
 ### 1.1 Introduction
 
-* What makes good writing?
++ What makes good writing?
   + Good writing communicates an idea clearly and effectively;
   + Good writing is elegant and stylish
-

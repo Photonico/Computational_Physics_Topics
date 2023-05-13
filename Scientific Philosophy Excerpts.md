@@ -18,6 +18,10 @@
 
 * To Einstein, it was very obvious that nature would not design a system, in which mechanical laws are the same, but laws of electricity are different. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
 
+* Every calculation ever done by physicist is approximate. (R.Shankar, Yale Opencourse on Fundamentals of Physics, 2010)
+
+* One thing we demand of every new theory is that part of coincides with the old theory. If you go back to the old experiments which are explained by the old theory, well your new theory should continue to explain that. In fact the new theory, when it is a good one, will tell you why for hundreds of years people feel for the old theory and then it will also do new stuff.
+
 ## Mathematics
 
 * Mathematics is the art of giving the same name to different things. (Henri Poincaré, Science and Hypothesis, 1902)

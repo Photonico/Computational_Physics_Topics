@@ -8,7 +8,7 @@
 
 ## About this repository
 
-My notes on Computational Physics include both Classical Physics, Quantum Physics, and related numerical methods. Python 3.10 is the major demonstrated programming language.
+My notes on Algorithms and Computational Physics, Python 3.10 is the major demonstrated programming language.
 
 This is a long-term plan.
 
@@ -18,23 +18,25 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 ## Contents
 
-* [Classical Mechanics](Classical%20Mechanics)
+* Computational Physics
 
-* [Electrodynamics](Electrodynamics)
+  * [Classical Mechanics](Computational%20Physics/Classical%20Mechanics.ipynb)
 
-* [Atom Physics](Atom%20Physics)
+  * [Electrodynamics](Computational%20Physics/Electrodynamics.ipynb)
 
-* [Quantum Mechanics](Quantum%20Mechanics)
+  * [Atom and Quantum Optics](Computational%20Physics/Atom%20and%20Quantum%20Optics.ipynb)
 
-* [Statistical Mechanics](Statistical%20Mechanics)
+  * [Quantum Physics](Computational%20Physics/Quantum%20Physics.ipynb)
 
-* [Condensed Matter Physics](Condensed%20Matter%20Physics)
+  * [Statistical Physics](Computational%20Physics/Statistical%20Physics.ipynb)
 
-* [Appendix: Algorithms and Numerical Methods](Appendix%20Algorithms%20and%20Numerical%20Methods)
+  * [Condensed Matter](Computational%20Physics/Condensed%20Matter.ipynb)
 
-* [Appendix: Mathematical Concepts](Appendix%20Mathematical%20Concepts)
+* Data Manipulation
 
-* [Appendix: Data Manipulation](Appendix%20Data%20Manipulation)
+* Computational Statistics
+
+* Deep Learning
 
 ## Contact me
 

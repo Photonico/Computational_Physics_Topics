@@ -18,25 +18,15 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 ## Contents
 
-* Computational Physics
+* [Computational Physics](Computational%20Physics/The%20Contents.ipynb)
 
-  * [Classical Mechanics](Computational%20Physics/Classical%20Mechanics.ipynb)
+* [Data Manipulation](Data%20Manipulation/The%20Contents.ipynb)
 
-  * [Electrodynamics](Computational%20Physics/Electrodynamics.ipynb)
+* [Computational Statistics](Computational%20Statistics/The%20Contents.ipynb)
 
-  * [Atom and Quantum Optics](Computational%20Physics/Atom%20and%20Quantum%20Optics.ipynb)
+* [Deep Learning](Deep%20Learning/The%20Contents.ipynb)
 
-  * [Quantum Physics](Computational%20Physics/Quantum%20Physics.ipynb)
-
-  * [Statistical Physics](Computational%20Physics/Statistical%20Physics.ipynb)
-
-  * [Condensed Matter](Computational%20Physics/Condensed%20Matter.ipynb)
-
-* Data Manipulation
-
-* Computational Statistics
-
-* Deep Learning
+* [Sundries](Sundries/The%20Contents.ipynb)
 
 ## Contact me
 

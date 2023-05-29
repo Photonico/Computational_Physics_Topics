@@ -20,21 +20,23 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Computational Physics](Computational%20Physics/The%20Contents.ipynb)
 
-Introduces the computational methods for various physical models, iencompassing a broad spectrum of fundamental topics.
+  Introduces the computational methods for various physical models, encompassing a broad spectrum of fundamental topics.
 
 * [Data Manipulation and Analysis](Data%20Manipulation%20and%20Analysis/The%20Contents.ipynb)
 
-Showcase the techniques and algorithms for manipulating and analyzing data.
+  Showcase the techniques and algorithms for manipulating and analyzing data.
 
 * [Computational Probability and Statistics](Computational%20Probability%20and%20Statistics/The%20Contents.ipynb)
 
-Shows both the basic principles of probability and statistics along with corresponding practical demonstrations.
+  Shows both the basic principles of probability and statistics along with corresponding practical demonstrations.
 
 * [Deep Learning](Deep%20Learning/The%20Contents.ipynb)
 
-A concise approach to deep learning, achieved by Torch.
+  A concise approach to deep learning, achieved by Torch.
 
 * [Sundries](Sundries/The%20Contents.ipynb)
+
+  More is different!
 
 ## Contact me
 

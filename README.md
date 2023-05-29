@@ -20,9 +20,9 @@ I strongly suggest cloning [this repository](https://github.com/ConAntares/Algor
 
 * [Computational Physics](Computational%20Physics/The%20Contents.ipynb)
 
-* [Data Manipulation](Data%20Manipulation/The%20Contents.ipynb)
+* [Data Manipulation and Analysis](Data%20Manipulation%20and%20Analysis/The%20Contents.ipynb)
 
-* [Computational Statistics](Computational%20Statistics/The%20Contents.ipynb)
+* [Computational Probability and Statistics](Computational%20Probability%20and%20Statistics/The%20Contents.ipynb)
 
 * [Deep Learning](Deep%20Learning/The%20Contents.ipynb)
 

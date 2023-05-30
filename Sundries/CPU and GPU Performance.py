@@ -1,4 +1,4 @@
-#### The numerical performance of CPU and GPU
+#### The numerical performance of CPU and GPU in Python
 
 ## CPU
 

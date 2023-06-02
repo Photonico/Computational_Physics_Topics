@@ -18,3 +18,4 @@ Elegant and stylish part doesn't happen on a first draft. Elegant and stylish wr
   + Having something to say;
   + Logical thinking;
   + A few simple, learnable rules of style;
+

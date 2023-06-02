@@ -16,4 +16,4 @@ Elegant and stylish part doesn't happen on a first draft. Elegant and stylish wr
 
 + What makes a good writer?
  + Having something to say;
- + 
+ + Logical thinking;

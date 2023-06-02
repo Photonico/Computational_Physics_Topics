@@ -8,4 +8,5 @@ This is my personal study note for the 'Writing in the Science' course, which is
 
 + What makes good writing?
   + Good writing communicates an idea clearly and effectively;
+    Claring writing just takes having something to say and clear thinking.
   + Good writing is elegant and stylish

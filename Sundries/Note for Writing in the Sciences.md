@@ -15,5 +15,6 @@ Claring writing just takes having something to say and clear thinking.
 Elegant and stylish part doesn't happen on a first draft. Elegant and stylish writing happens in revision, even for professional writers. Don't want you to even worry about elegant and stylish when you're writing your first draft, just worry about getting that idea across in a clear and logical and efficient way.
 
 + What makes a good writer?
- + Having something to say;
- + Logical thinking;
+  + Having something to say;
+  + Logical thinking;
+  + A few simple, learnable rules of style;

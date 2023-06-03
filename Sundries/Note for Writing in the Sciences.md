@@ -137,4 +137,3 @@ An IQ test measures an individual's verbal, reasoning, or motor and spatial abil
 
 6. As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.  
 Figure 2 shows that a return kinetic energy less than 2.3 U_p yields two electron trajectories.
-

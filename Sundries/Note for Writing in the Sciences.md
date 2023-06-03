@@ -147,8 +147,6 @@ Use strong verbs, avoid turning verbs into nouns, keep the subject and main verb
 + Active voice
   + Subject → verb → object.
 
-
-
-
-
-
++ Passive verb
+  + a form of the verb 'to be' + the past participle of the main verb.
+  + The main verb must be transitive verb.

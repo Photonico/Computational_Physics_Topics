@@ -26,7 +26,7 @@
 
 * [book] Classical Electrodynamics by John Jackson
 
-## Atom Molecular and Optics
+## Classical Optics
 
 * [book] Principle of Optics, Max Born
 
@@ -64,7 +64,11 @@
 
 * [book] Spacetime and Geometry: An Introduction to General Relativity by Sean M. Carroll
 
-## Quantum Optics
+## Particle Physics
+
+* [book] Introduction to Elementary Particles by David Griffiths
+
+## Atom and Quantum Optics
 
 * [book] Quantum Optics by D.F. Walls and Gerard Milburn
 

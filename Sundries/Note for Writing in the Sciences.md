@@ -104,5 +104,3 @@ The secret of good writing is to strip every sentence to its cleanest components
 Some words and phrases are blobs. by William Zinsser, On Writing Well.
 
 I have only made this letter rather long because I have not had time to make it shorter. by Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
-
-

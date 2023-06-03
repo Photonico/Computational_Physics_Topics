@@ -64,8 +64,6 @@
 
 * [book] Spacetime and Geometry: An Introduction to General Relativity by Sean M. Carroll
 
-* [book] 
-
 ## Quantum Optics
 
 * [book] Quantum Optics by D.F. Walls and Gerard Milburn
@@ -109,6 +107,10 @@
 * [book] Geometry Topology and Physics by Mikio Nakahara
 
 * [Lecture] Mathematical Methods in Physics 2021 by Alex Flournoy at Mines
+
+## Computational Physics
+
+* [book] Numerical Methods in Physics with Python by Alex Gezerlis
 
 ## Other
 

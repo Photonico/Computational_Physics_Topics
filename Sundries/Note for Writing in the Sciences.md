@@ -120,14 +120,21 @@ I have only made this letter rather long because I have not had time to make it 
 
 Examples:
 
-1. Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease.
+1. Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease.  
+Anti-inflammatory drugs protect against Alzheimer’s Disease.
 
-2. Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population.
+2. Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population.  
+Clinical seizures occur in 0.5% to 2.3% of newborns.
 
-3. Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility.
+3. Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility.  
+Besides preventing cancer, p53 also works in aging, differentiation, and fertility.
 
-4. Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically.
+4. Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically.  
+Injuries to the brain and spinal cord are among the most devastating and expensive.
 
-5. An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities.
+5. An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities.  
+An IQ test measures an individual's verbal, reasoning, or motor and spatial abilities.
 
-6. As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.
+6. As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.  
+Figure 2 shows that a return kinetic energy less than 2.3 U_p yields two electron trajectories.
+

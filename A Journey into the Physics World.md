@@ -10,6 +10,8 @@
 
 * [lecture] Classical Mechanics by Marco Fabrichesi at ICTP
 
+* [book] Mechanics by Lev D. Landau, Evgeny M. Lifshitz
+
 * [book] Classical Mechanics by Tom Kibble
 
 * [book] A Primer of Analytical Mechanics by Franco Strocchi
@@ -22,6 +24,8 @@
 
 * [book] The Feynman Lecture on Physics vol 2 by Richard Feynman
 
+* [book] Classical Electrodynamics by John Jackson
+
 ## Atom Molecular and Optics
 
 * [book] Principle of Optics, Max Born
@@ -30,7 +34,9 @@
 
 * [book] The Principle of Quantum Mechanics by P.A.M. Dirac
 
-* [book] The Feynman Lecture on Physics vol3 by Richard Feynman
+* [book] The Feynman Lecture on Physics vol 3 by Richard Feynman
+
+* [book] Modern Quantum Mechanics by J.J. Sakurai
 
 * [book] Quantum Mechanics vol 1,2,3 by Claude Cohen-Tannoudji
 
@@ -56,6 +62,10 @@
 
 * [book] General Theory of Relativity by P.A.M. Dirac
 
+* [book] Spacetime and Geometry: An Introduction to General Relativity by Sean M. Carroll
+
+* [book] 
+
 ## Quantum Optics
 
 * [book] Quantum Optics by D.F. Walls and Gerard Milburn
@@ -71,6 +81,18 @@
 * [book] Quantum Field Theory and Condensed Matter - An Introduction by Ramamurti Shankar
 
 * [book] The Oxford Solid State Basics by Steven Simon
+
+## Quantum Field Theory
+
+* Quantum Field Theory by Claude Itzykson, Jean-Bernard Zuber
+
+* Quantum Field Theory, as Simply as Possible by A. Zee
+
+* Quantum Field Theory in a Nutshell by A. Zee
+
+* An Introduction To Quantum Field Theory by Michael E. Peskin
+
+* Quantum Field Theory and the Standard Model by Matthew D. Schwartz
 
 ## Mathematical Methods
 

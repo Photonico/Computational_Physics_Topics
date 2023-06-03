@@ -64,4 +64,3 @@ Really the scientific literature should be enjoyable and interesting to read. Th
 ### 1.4 Cut the clutter
 
 The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what - these are thousand and one adulterants that weaken the strength of a sentence. And they usually occur in proportion to the education and rank. by William Zinsser, On writing well.
-

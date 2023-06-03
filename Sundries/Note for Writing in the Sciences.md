@@ -147,6 +147,21 @@ Use strong verbs, avoid turning verbs into nouns, keep the subject and main verb
 + Active voice
   + Subject → verb → object.
 
-+ Passive verb
-  + a form of the verb 'to be' + the past participle of the main verb.
-  + The main verb must be transitive verb.
++ Passive voice
+  + A form of the verb 'to be' + the past participle of the main verb;
+  + The main verb must be transitive verb;
+  + Passive voice usually takes out the responsible party.
+
++ To turn the passive voice back to the active voice
+  + Who does what to whom? - The agent.
+
++ Advantages of the active voice
+  + Emphasizes author responsibility;
+  + Improves readability;
+  + Reduces ambiguity.
+
++ Is it ever OK to use the passive voice?
+  + Yes! The passive voice exists in the English language for a reason. Just use it sparingly and purposefully. For example, passive voice may be appropriate in the methods section where what was done is more important than who did it.
+
+### 2.2 Is it really OK to use 'We' and 'I'
+ 

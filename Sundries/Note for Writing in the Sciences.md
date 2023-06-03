@@ -104,3 +104,30 @@ The secret of good writing is to strip every sentence to its cleanest components
 Some words and phrases are blobs. by William Zinsser, On Writing Well.
 
 I have only made this letter rather long because I have not had time to make it shorter. by Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
+
+### 1.5 Cut the clutter, more tricks
+
++ A few other small tricks
+  + Eliminate negatives
+  + Eliminate superfluous uses of 'there are / there is'
+  + Omit needless prepositions
+
++ Use an exciting verb rather than a to be werb.
+
+### 1.6 Practicing cutting cluter
+
++ The best way to learn writing is through practice.
+
+Examples:
+
+1. Anti-inflammatory drugs may be protective for the occurrence of Alzheimer’s Disease.
+
+2. Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population.
+
+3. Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility.
+
+4. Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically.
+
+5. An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities.
+
+6. As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.

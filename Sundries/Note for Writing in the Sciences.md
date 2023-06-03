@@ -71,3 +71,24 @@ The secret of good writing is to strip every sentence to its cleanest components
 
 + Try the sentence without the extra words and see how it's better - conveys the same idea with more power.
 
++ Dead weight words and phrases
+  + As it is well known
+  + As it has been shown
+  + It can be regarded that
+  + It should be emphasized that
+
++ Empty words and phrases
+  + basic tenets of
+  + methodologic
+  + important
+
+Some words and phrases are blobs. by William Zinsser, On writing well.
+
+
+
+
+
+
+
+
+

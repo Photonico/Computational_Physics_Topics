@@ -63,7 +63,7 @@ Really the scientific literature should be enjoyable and interesting to read. Th
 
 ### 1.4 Cut the clutter
 
-The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what - these are thousand and one adulterants that weaken the strength of a sentence. And they usually occur in proportion to the education and rank. by William Zinsser, On writing well.
+The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what - these are thousand and one adulterants that weaken the strength of a sentence. And they usually occur in proportion to the education and rank. by William Zinsser, On Writing Well.
 
 + Be vigilant and ruthless
 
@@ -71,24 +71,38 @@ The secret of good writing is to strip every sentence to its cleanest components
 
 + Try the sentence without the extra words and see how it's better - conveys the same idea with more power.
 
-+ Dead weight words and phrases
-  + As it is well known
-  + As it has been shown
-  + It can be regarded that
-  + It should be emphasized that
++ Avoid list
+  + Dead weight words and phrases
+    + As it is well known
+    + As it has been shown
+    + It can be regarded that
+    + It should be emphasized that
+  + Empty words and phrases
+    + basic tenets of
+    + methodologic
+    + important
+  + Long words or phrases that could be short
+  + Unnecessary jargon and acronyms
+  + Repetitive words or phases
+    + Studies / examples
+    + illustrate / demonstrate
+    + challenges / difficulties
+    + successful / solutions
+  + Adverbs
+    + very, really, quite, basically, generally, etc.
 
-+ Empty words and phrases
-  + basic tenets of
-  + methodologic
-  + important
++ Long words and phrases that could be short
+  + a majority of             → most
+  + a number of               → many
+  + are of the same opinion   → agree
+  + less frequently occurring → rare
+  + all three of the          → the three
+  + give rise to              → cause
+  + due to the fact that      → because
+  + Have an effect on         → affect
 
-Some words and phrases are blobs. by William Zinsser, On writing well.
+Some words and phrases are blobs. by William Zinsser, On Writing Well.
 
-
-
-
-
-
-
+I have only made this letter rather long because I have not had time to make it shorter. by Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
 
 

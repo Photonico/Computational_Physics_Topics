@@ -2,6 +2,20 @@
 
 This is my personal study note for the 'Writing in the Science' course, which is provided through [Coursera](https://www.coursera.org/learn/sciwrite).
 
++ Article types
+  + Research Papers: Experimental or theoretical studies on physical phenomena.
+    + Physical Review X
+  + Review Articles: Summaries of existing research in a physics topic.
+    + Reviews of Modern Physics
+  + Letters/Short Communications: Brief reports on significant new findings.
+    + Physical Review Letter
+  + Methods Papers: Descriptions of new experimental techniques or tools.
+  + Conference Papers: Short papers for conferences, focusing on recent results.
+  + Technical Reports: Details on new physics instruments or technology.
+  + Theses and Dissertations: In-depth studies for degree programs.
+  + Commentaries and Perspective Articles: Opinions on current physics issues.
+  + Textbooks and Educational Materials: Books and materials for physics education.
+
 ## Introduction, principles of effective writing
 
 ### 1.1 Introduction
@@ -63,7 +77,7 @@ Really the scientific literature should be enjoyable and interesting to read. Th
 
 ### 1.4 Cut the clutter
 
-The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what - these are thousand and one adulterants that weaken the strength of a sentence. And they usually occur in proportion to the education and rank. by William Zinsser, On Writing Well.
+> The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what - these are thousand and one adulterants that weaken the strength of a sentence. And they usually occur in proportion to the education and rank. William Zinsser, On Writing Well.
 
 + Be vigilant and ruthless
 
@@ -101,9 +115,9 @@ The secret of good writing is to strip every sentence to its cleanest components
   + due to the fact that      → because
   + Have an effect on         → affect
 
-Some words and phrases are blobs. by William Zinsser, On Writing Well.
+> Some words and phrases are blobs. William Zinsser, On Writing Well.
 
-I have only made this letter rather long because I have not had time to make it shorter. by Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
+> I have only made this letter rather long because I have not had time to make it shorter. Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
 
 ### 1.5 Cut the clutter, more tricks
 
@@ -171,3 +185,8 @@ Use strong verbs, avoid turning verbs into nouns, keep the subject and main verb
   + By agreeing to be an author on the paper, you are taking responsibility for its content. 
     Thus, you should also claim responsibility for assertions in the text by using personal pronouns;
   + Journals want this.
+
+An example of an opening sentence in a paper:
+
+> We wish to suggest a structure for the salt of deoxyribose nucleic acid (D.N.A.). This structure has novel features which are of considerable biological interest. April 25, 1953 (2), Nature (3) , 171, 737-738.
+

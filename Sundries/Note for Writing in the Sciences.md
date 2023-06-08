@@ -221,4 +221,3 @@ Use strong verbs, avoid turning verbs into nouns, keep the subject and main verb
 An example of an opening sentence in a paper:
 
 > We wish to suggest a structure for the salt of deoxyribose nucleic acid (D.N.A.). This structure has novel features which are of considerable biological interest. April 25, 1953 (2), Nature (3) , 171, 737-738.
-

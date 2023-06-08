@@ -4,16 +4,30 @@ This is my personal study note for the 'Writing in the Science' course, which is
 
 + Article types
   + Research Papers: Experimental or theoretical studies on physical phenomena.
-    + Physical Review X
+    + Physical Review A
+    + Physical Review B
+    + Physical Review D
   + Review Articles: Summaries of existing research in a physics topic.
+    + Physical Review X
     + Reviews of Modern Physics
   + Letters/Short Communications: Brief reports on significant new findings.
     + Physical Review Letter
   + Methods Papers: Descriptions of new experimental techniques or tools.
+    + Physical Review Applied
+    + Journal of Applied Physics
   + Conference Papers: Short papers for conferences, focusing on recent results.
+    + APS March Meeting and APS April Meeting
+    + SPIE Conferences
   + Technical Reports: Details on new physics instruments or technology.
-  + Theses and Dissertations: In-depth studies for degree programs.
+    + National Technical Reports Library
+    + CERN Document Server
+    + NASA Technical Reports Server
+    + Institutional Repositories
   + Commentaries and Perspective Articles: Opinions on current physics issues.
+    + Nature Physics
+    + Science
+    + Physics Today
+  + Theses and Dissertations: In-depth studies for degree programs.
   + Textbooks and Educational Materials: Books and materials for physics education.
 
 ## Introduction, principles of effective writing

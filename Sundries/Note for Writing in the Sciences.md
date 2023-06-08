@@ -164,4 +164,10 @@ Use strong verbs, avoid turning verbs into nouns, keep the subject and main verb
   + Yes! The passive voice exists in the English language for a reason. Just use it sparingly and purposefully. For example, passive voice may be appropriate in the methods section where what was done is more important than who did it.
 
 ### 2.2 Is it really OK to use 'We' and 'I'
- 
+
++ It's okay to use personal pronouns.
+  + The active voice is livelier and easier to read;
+  + Avoiding personal pronous does not make your science more objective;
+  + By agreeing to be an author on the paper, you are taking responsibility for its content. 
+    Thus, you should also claim responsibility for assertions in the text by using personal pronouns;
+  + Journals want this.

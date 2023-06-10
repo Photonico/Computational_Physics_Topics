@@ -2,24 +2,6 @@
 
 ## Colors
 
-# General Colors
-
-Foreground  #F0F0F0 #0F0F0F
-Background  #FEFEFE #1E1E1E
-White       #FFFFFF #E1E1E1 #C8C8C8
-Grey        #B4B4B4 #828282 #505050
-Black       #282828 #141414 #000000
-
-## Light Theme Colors
-
-Azure       #0050A0 #0064C8 #0078E1 #008CFF #00A0FF #00B4FF #64C8FF
-Orange      #E14B28 #EB5014 #F05F0A #FF7D05 #FF9100 #FFB400 #FFC828
-Violet      #5046A0 #645AC8 #7864E1 #8C78FF #A091FF #B4AAFF #C8B9FF
-
-CodeLens    #82A0E1 #7D9BDC
-
-Create order: Azure - Violet - Orange
-
 # Color Panel: https://www.w3schools.com/colors/colors_picker.asp
 
 # Rainbow

@@ -261,7 +261,7 @@ After
 
 If there is no agent, we can assume it's the authors of that article.
 
-### Write with verbs
+### 2.4 Write with verbs
 
 + Three principles
   + Use strong verbs
@@ -289,4 +289,17 @@ If there is no agent, we can assume it's the authors of that article.
   + Keep the subject and main verb: (Predicate) close together at the start of the sentence.
     + Readers are waiting for the verb.
 
-##
+### 2.5 Practice examples
+
+
+
+
+
+
+
+
+
+
+
+
+

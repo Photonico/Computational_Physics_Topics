@@ -119,6 +119,8 @@ Really the scientific literature should be enjoyable and interesting to read. Th
   + Adverbs
     + very, really, quite, basically, generally, etc.
 
+> Some words and phrases are blobs. William Zinsser, On Writing Well.
+
 + Long words and phrases that could be short
   + a majority of             → most
   + a number of               → many
@@ -130,8 +132,6 @@ Really the scientific literature should be enjoyable and interesting to read. Th
   + Have an effect on         → affect
   + The result of                     → due to
   + In many instances                 → often
-
-> Some words and phrases are blobs. William Zinsser, On Writing Well.
 
 > I have only made this letter rather long because I have not had time to make it shorter. Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
 
@@ -346,4 +346,46 @@ After
 + The word "data" is plural.
   > These data show an unusual trend.
 
-+ 
++ Affect is the verb "to influence".
+  > The class affected her.
+
++ Effect is the noun from of this influence.
+  > The class had an effect on her.
+
++ Affect as a noun, it denotes feeling or emotion shown by facial expression or body language.
+  > The solders seen on television had been care fully chosen for blandness of affect.
+
++ Effect a verb, it means to bring about or to cause.
+  > to effect a change.
+
++ Compared to vs. compared with
+  + Compared to: to point out similarties between different things;
+  + Compared with sth (used more often in science): to point out differences between similar things.
+
++ That vs. which
+  + That: the restrictive (defining) pronoun;
+    > The vial that contained her RNA was lost.
+  + Which: the nonrestrictive (no-defining) pronum.
+    > The vial, which contained her RNA, was lost.
+
++ Key question: Is your clause essential or non-essential?
+  + That: The essential clause cannot be eliminated without changing the meaning of the neaning of the sentence;
+  + Which: The non-essential clause can be eliminated without altering the basic meaning of the sentence (and must be set off by commas).
+
+> Care writers, watchful for small conveniences, go which-hunting, remove the defining whiches, and by doing so improve their work. Strunk and White.
+
+Before
+> Stroke incidence data are obtained from sources, which use the ICD (International Code of Diseases classification system).
+
+After
+> Stroke incidence data are obtained from sources that use the ICD (International Code of Diseases classification system).
+
+From Physicist Richard Feynman:
+> When we say we are a pile of atoms, we do not mean we are merely a pile of atoms beacuse a pile of atoms which is not repeated from one to the other might well have the possibilities which you see before you in the mirror.
+
+After
+> When we say we are a pile of atoms, we do not mean we are merely a pile of atoms beacuse a pile of atoms that is not repeated from one to the other might well have the possibilities that you see before you in the mirror.
+
++ Singular antecedents
+  + Do not use "they" or "their" when the subject is singular.
+  + To avoid gender choice, turn to a plural.

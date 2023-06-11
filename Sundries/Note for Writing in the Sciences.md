@@ -263,3 +263,16 @@ If there is no agent, we can assume it's the authors of that article.
 
 ### Write with verbs
 
++ Three principles
+  + Use strong verbs
+  + Avoid turning verbs into nouns
+  + Do not bury the main verb
+
++ Use strong verbs
+
+
++ Avoid turning verbs into nouns
+
+
++ Do not bury the main verb
+

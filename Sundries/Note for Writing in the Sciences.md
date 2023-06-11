@@ -270,6 +270,7 @@ If there is no agent, we can assume it's the authors of that article.
 
 + Use strong verbs
   + Verbs makes sentences go.
+  + Pick the right verb.
 
 + Avoid turning verbs into nouns
 

@@ -221,3 +221,37 @@ Use strong verbs, avoid turning verbs into nouns, keep the subject and main verb
 An example of an opening sentence in a paper:
 
 > We wish to suggest a structure for the salt of deoxyribose nucleic acid (D.N.A.). This structure has novel features which are of considerable biological interest. April 25, 1953 (2), Nature (3) , 171, 737-738.
+
+### 2.3 Active voice practice
+
++ Text of practice exercises for Module 2.3:
+
+Before
+> A recommendation was made by the DSMB committee that the study be halted.
+
+After
+> The DSMB committee recommended that the study be halted.
+
+Before
+> Major differences in the reaction times of the two study subjects were found.
+
+After
+> We observed major differences in the reaction times of the two study subjects.
+
+Or
+> The two study subjects differed in reaction times.
+
+Before
+> It was concluded by the editors that the data had been falsified by the authors.
+
+After
+
+Before
+> The first visible-light snapshot of a planet circling another star has been taken by NASA’s Hubble Space Telescope.
+
+After
+
+Before
+> Therefore, the hypothesis that the overall kinetics of a double transtibial amputee athlete and an able-bodied sprinter at the same level of performance are not different was rejected.
+
+After

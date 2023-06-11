@@ -257,3 +257,7 @@ Before
 > Therefore, the hypothesis that the overall kinetics of a double transtibial amputee athlete and an able-bodied sprinter at the same level of performance are not different was rejected.
 
 After
+> Therefore, we rejected the hypothesis that the overall kinetics of a double transtibial amputee athlete and an able-bodied sprinter at the same level of performance are comparable.
+
+If there is no agent, we can assume it's the authors of that article.
+

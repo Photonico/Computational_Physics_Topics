@@ -269,8 +269,10 @@ If there is no agent, we can assume it's the authors of that article.
   + Do not bury the main verb
 
 + Use strong verbs
-  + Verbs makes sentences go.
-  + Pick the right verb.
+  + Verbs makes sentences go;
+  + Pick the right verb, avoid the use of adverbs;
+  + Use "to be" verbs purposefully and sparingly: they are overused and boring;
+  + Do not turn verbs into nouns;
 
 + Avoid turning verbs into nouns
 

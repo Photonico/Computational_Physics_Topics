@@ -128,6 +128,8 @@ Really the scientific literature should be enjoyable and interesting to read. Th
   + give rise to              → cause
   + due to the fact that      → because
   + Have an effect on         → affect
+  + The result of                     → due to
+  + In many instances                 → often
 
 > Some words and phrases are blobs. William Zinsser, On Writing Well.
 
@@ -285,6 +287,7 @@ If there is no agent, we can assume it's the authors of that article.
     + Shows a peak                      → peaks
     + Provide a description of          → describe
 
+
 + Do not bury the main verb
   + Keep the subject and main verb: (Predicate) close together at the start of the sentence.
     + Readers are waiting for the verb.
@@ -301,13 +304,13 @@ Before
 > Review of each center’s progress in recruitment is important to ensure that the cost involved in maintaining each center’s participation is worthwhile.
 
 After
->
+> We should review each center's recruitment progress to make sure its continued participation is cost-effective.
 
 Before
 > It should be emphasized that these proportions generally are not the result of significant increases in moderate and severe injuries, but in many instances reflect mildly injured persons not being seen at a hospital.
 
 After
->
+> 
 
 Before
 > Important studies to examine the descriptive epidemiology of autism, including the prevalence and changes in the characteristics of the population over time, have begun.

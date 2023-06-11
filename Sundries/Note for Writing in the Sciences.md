@@ -333,7 +333,16 @@ Before
 > It is suspected that the importance of temperature has more to do with impacting rates of other reactions than being a mechanism of disinfection itself since ponds are rarely hot enough for temperature alone to cause disinfection.
 
 After
->
+> Ponds are rarely hot enough for temperature alone to cause disinfection; thus, the effect of temperature is likely mediated through its impact on the rates of other reactions.
+
+Before
+> It was assumed that due to reduced work at joints of the lower limbs and less energy loss in the prosthetic leg, running with the dedicated prostheses allows for maximum sprinting at lower metabolic costs than in the healthy ankle joint complex.
+
+After
+> The prosthetic leg reduced work and energy loss compared with a healthy ankle joint, which may lead to lower metabolic costs during maximum sprinting.
 
 ### 2.6 A few grammar tips
 
++ The word "data" is plural.
+
++ 

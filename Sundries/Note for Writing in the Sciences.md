@@ -269,7 +269,7 @@ If there is no agent, we can assume it's the authors of that article.
   + Do not bury the main verb
 
 + Use strong verbs
-
+  + Verbs makes sentences go.
 
 + Avoid turning verbs into nouns
 

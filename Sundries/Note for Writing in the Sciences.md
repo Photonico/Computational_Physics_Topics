@@ -261,3 +261,5 @@ After
 
 If there is no agent, we can assume it's the authors of that article.
 
+### Write with verbs
+

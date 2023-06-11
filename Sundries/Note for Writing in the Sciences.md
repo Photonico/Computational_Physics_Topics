@@ -327,6 +327,7 @@ Before
 > After rejecting paths with poor signal-to-noise ratios, we were left with 678 velocity measurements of waves with 7.5 seconds period and 891 measurements of 15 second waves.
 
 After
+> Rejecting path with poor signal-to-noise ratios left 678 velocity measurement of 7.5 second waves amd 891 of15 second waves.
 
-
+### 2.6 A few grammar tips
 

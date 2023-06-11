@@ -344,5 +344,6 @@ After
 ### 2.6 A few grammar tips
 
 + The word "data" is plural.
+  > These data show an unusual trend.
 
 + 

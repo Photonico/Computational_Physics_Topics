@@ -309,13 +309,13 @@ Before
 > It should be emphasized that these proportions generally are not the result of significant increases in moderate and severe injuries, but in many instances reflect mildly injured persons not being seen at a hospital.
 
 After
-> 
+> Shifting proportions in injury severity may reflect stricter hospital admission criteria rather than true increases in moderate and severe injuries.
 
 Before
 > Important studies to examine the descriptive epidemiology of autism, including the prevalence and changes in the characteristics of the population over time, have begun.
 
 After
->
+> 
 
 
 

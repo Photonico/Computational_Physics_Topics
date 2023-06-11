@@ -287,7 +287,6 @@ If there is no agent, we can assume it's the authors of that article.
     + Shows a peak                      → peaks
     + Provide a description of          → describe
 
-
 + Do not bury the main verb
   + Keep the subject and main verb: (Predicate) close together at the start of the sentence.
     + Readers are waiting for the verb.

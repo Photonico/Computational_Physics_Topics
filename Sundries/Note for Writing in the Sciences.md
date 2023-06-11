@@ -245,11 +245,13 @@ Before
 > It was concluded by the editors that the data had been falsified by the authors.
 
 After
+> The editors concluded that the authors falsified their data.
 
 Before
 > The first visible-light snapshot of a planet circling another star has been taken by NASA’s Hubble Space Telescope.
 
 After
+> NASA's Hubble Space Telescope has taken the first visible-light snapshot of a planet circling another star.
 
 Before
 > Therefore, the hypothesis that the overall kinetics of a double transtibial amputee athlete and an able-bodied sprinter at the same level of performance are not different was rejected.

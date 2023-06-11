@@ -329,5 +329,11 @@ Before
 After
 > Rejecting path with poor signal-to-noise ratios left 678 velocity measurement of 7.5 second waves amd 891 of15 second waves.
 
+Before
+> It is suspected that the importance of temperature has more to do with impacting rates of other reactions than being a mechanism of disinfection itself since ponds are rarely hot enough for temperature alone to cause disinfection.
+
+After
+>
+
 ### 2.6 A few grammar tips
 

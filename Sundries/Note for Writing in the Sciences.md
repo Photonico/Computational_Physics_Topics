@@ -273,6 +273,15 @@ If there is no agent, we can assume it's the authors of that article.
   + Pick the right verb, avoid the use of adverbs;
   + Use "to be" verbs purposefully and sparingly: they are overused and boring;
   + Do not turn verbs into nouns;
+    + Obtain estimates of               → estimate
+    + Has seen an expansion in          → has expanded
+    + Provides a methodologic emphasis  → emphasizes methodology
+    + Take an assessment of             → assess
+    + Provide a review of               → review
+    + Offer confirmation of             → confirm
+    + Make a decision                   → decide
+    + Shows a peak                      → peaks
+    + Provide a description of          → describe
 
 + Avoid turning verbs into nouns
 

@@ -271,8 +271,10 @@ If there is no agent, we can assume it's the authors of that article.
 + Use strong verbs
   + Verbs makes sentences go;
   + Pick the right verb, avoid the use of adverbs;
-  + Use "to be" verbs purposefully and sparingly: they are overused and boring;
-  + Do not turn verbs into nouns;
+  + Use "to be" verbs purposefully and sparingly: they are overused and boring,
+
++ Avoid turning verbs into nouns
+  + Examples
     + Obtain estimates of               → estimate
     + Has seen an expansion in          → has expanded
     + Provides a methodologic emphasis  → emphasizes methodology
@@ -282,9 +284,8 @@ If there is no agent, we can assume it's the authors of that article.
     + Make a decision                   → decide
     + Shows a peak                      → peaks
     + Provide a description of          → describe
-
-+ Avoid turning verbs into nouns
-
+  + Keep the subject and main verb: (Predicate) close together at the start of the sentence.
+    + Readers are waiting for the verb.
 
 + Do not bury the main verb
 

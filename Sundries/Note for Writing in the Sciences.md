@@ -315,11 +315,13 @@ Before
 > Important studies to examine the descriptive epidemiology of autism, including the prevalence and changes in the characteristics of the population over time, have begun.
 
 After
-> 
+> Studies have begun to describe the epidemiology of autism, including recent changes in the disorder's prevalence and characteristics.
 
+Before
+> There are multiple other mechanisms that are important, but most of them are suspected to only have a small impact or are only important because of impact on one of the three primary mechanisms.
 
-
-
+After
+> Multiple other mechanisms play only a small role or work by impacting one of the three primary mechanisms.
 
 
 

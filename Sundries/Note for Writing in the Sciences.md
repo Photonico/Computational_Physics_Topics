@@ -323,7 +323,10 @@ Before
 After
 > Multiple other mechanisms play only a small role or work by impacting one of the three primary mechanisms.
 
+Before
+> After rejecting paths with poor signal-to-noise ratios, we were left with 678 velocity measurements of waves with 7.5 seconds period and 891 measurements of 15 second waves.
 
+After
 
 
 

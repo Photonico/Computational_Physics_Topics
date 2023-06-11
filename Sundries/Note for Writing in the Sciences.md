@@ -291,9 +291,29 @@ If there is no agent, we can assume it's the authors of that article.
 
 ### 2.5 Practice examples
 
+Before
+> The fear expressed by some teachers that students would not learn statistics well if they were permitted to use canned computer programs has not been realized in our experience. A careful monitoring of achievement levels before and after the introduction of computers in the teaching of our course revealed no appreciable change in students’ performances.
 
+After
+>
 
+Before
+> Review of each center’s progress in recruitment is important to ensure that the cost involved in maintaining each center’s participation is worthwhile.
 
+After
+>
+
+Before
+> It should be emphasized that these proportions generally are not the result of significant increases in moderate and severe injuries, but in many instances reflect mildly injured persons not being seen at a hospital.
+
+After
+>
+
+Before
+> Important studies to examine the descriptive epidemiology of autism, including the prevalence and changes in the characteristics of the population over time, have begun.
+
+After
+>
 
 
 

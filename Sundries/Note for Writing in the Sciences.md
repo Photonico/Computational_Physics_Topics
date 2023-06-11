@@ -295,7 +295,7 @@ Before
 > The fear expressed by some teachers that students would not learn statistics well if they were permitted to use canned computer programs has not been realized in our experience. A careful monitoring of achievement levels before and after the introduction of computers in the teaching of our course revealed no appreciable change in students’ performances.
 
 After
->
+> Many teachers feared that the use of canned computer programs would prevents students from learning statistics. We monitored student achievement levels before and after the introduction of computers in our course and found detriments in performance.
 
 Before
 > Review of each center’s progress in recruitment is important to ensure that the cost involved in maintaining each center’s participation is worthwhile.

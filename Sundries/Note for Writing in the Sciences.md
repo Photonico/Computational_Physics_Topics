@@ -91,7 +91,7 @@ Really the scientific literature should be enjoyable and interesting to read. Th
 
 ### 1.4 Cut the clutter
 
-> The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what - these are thousand and one adulterants that weaken the strength of a sentence. And they usually occur in proportion to the education and rank. William Zinsser, On Writing Well.
+> The secret of good writing is to strip every sentence to its cleanest components. Every word that serves no function, every long word that could be a short word, every adverb that carries the same meaning that's already in the verb, every passive construction that leaves the reader unsure of who is doing what - these are thousand and one adulterants that weaken the strength of a sentence. And they usually occur in proportion to the education and rank. - William Zinsser, On Writing Well.
 
 + Be vigilant and ruthless
 
@@ -133,7 +133,7 @@ Really the scientific literature should be enjoyable and interesting to read. Th
   + The result of                     → due to
   + In many instances                 → often
 
-> I have only made this letter rather long because I have not had time to make it shorter. Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
+> I have only made this letter rather long because I have not had time to make it shorter. - Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
 
 ### 1.5 Cut the clutter, more tricks
 
@@ -414,3 +414,8 @@ After
 
 + The "rule of three's" for lists and examples
   > It happened bacause people organized and voted for better prospects; because leaders enacted smart, forwardlooking policies; because people's perspectives opened up, and with them, societies did too.
+
++ Dash
+  + Use the dash to add emphasis or to insert an abrupt definition or description almost anywhere in the sentence. Just do not overuse it, or it loses its impact.
+  > A dash is a mark of separation stronger than a comma, less formal than a colon, and more relaxed than paratheses. - Strunk and White
+  > Use a dash only when a more common mark of punctuation seems inadequate. - Strunk and White

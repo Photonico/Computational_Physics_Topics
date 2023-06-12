@@ -445,3 +445,9 @@ Pairs of ideas joined by "and", "or", or "but" should be written in parallel for
   > Locusts denuded fields in Utah, rural Iowa was washed away by torrents, and in Arizona the cotton was shriveled by the placing heat.
   + Parallel
   > Locusts denuded fields in Utah, torrents washed away rural Iowa, and blazing head shriveled Arizona's cotton.
+
+### 3.4 Paragraphs
+
++ Paragraph-level tips
+  + 1 paragraph = 1 idea
+  + 

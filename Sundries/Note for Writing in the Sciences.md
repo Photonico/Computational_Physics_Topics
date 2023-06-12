@@ -22,7 +22,6 @@ This is my personal study note for the 'Writing in the Science' course, which is
     + National Technical Reports Library
     + CERN Document Server
     + NASA Technical Reports Server
-    + Institutional Repositories
   + Commentaries and Perspective Articles: Opinions on current physics issues.
     + Nature Physics
     + Science
@@ -142,7 +141,7 @@ Really the scientific literature should be enjoyable and interesting to read. Th
   + Eliminate superfluous uses of 'there are / there is'
   + Omit needless prepositions
 
-+ Use an exciting verb rather than a to be werb.
++ Use an exciting verb rather than a to be verb.
 
 ### 1.6 Practicing cutting cluter
 
@@ -487,6 +486,16 @@ After
 
 ### 3.6 Paragraph Editing II
 
+Before
+> The concept of chocolate having potential therapeutic benefits for people with diabetes mellitus, especially type 2 diabetes mellitus, presents a number of intellectual challenges, from both clinical and sociological perspectives. It seems almost counterintuitive to suggest an energy-dense food that is high in sugar, and often seen as a treat or a “dietary sin”, could offer such promise. However, a large volume of mechanistic and animal model studies has been undertaken demonstrating the potential benefits of cocoa and chocolate for both glucose regulation and modification of complications associated with diabetes. Cesar Fraga in the American Journal of Clinical Nutrition first proposed the potential of chocolate for people with diabetes in 2005. It was suggested that we should consume more cocoa and chocolate to reduce the burdens of hypertension and diabetes.(1) Grassi and colleagues (2) further reinforced this potential for its antihypertensive and insulin-sensitizing effect with the mechanistic data. However, the hypothesis of chocolate having a beneficial effect remains counterintuitive to the average consumer and has yet to gain support among the wider medical and healthcare community.
 
+After
+>
+
+Before
+> Headache is an extraordinarily common pain symptom that virtually everyone experiences at one time or another. As a pain symptom, headaches have many causes. The full range of these causes were categorized by the International Headache Society (IHS) in 1988. The IHS distinguishes two broad groups of headache disorders: primary headache disorders and secondary headache disorders. Secondary headache disorders are a consequence of an underlying condition, such as a brain tumor, a systemic infection or a head injury. In primary headache disorders, the headache disorder is the fundamental problem; it is not symptomatic of another cause. The two most common types of primary headache disorders are episodic tension-type headache (ETTH) and migraine. Although IHS is the most broadly used/recognized classification system used, a brief comment on others would be appropriate – especially if there are uses that have epidemiologic advantages.
+
+After
+>
 
 ### 3.7 A few more tips

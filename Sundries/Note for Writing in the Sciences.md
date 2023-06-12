@@ -215,7 +215,7 @@ Use strong verbs, avoid turning verbs into nouns, and keep the subject and main 
 + It's okay to use personal pronouns.
   + The active voice is livelier and easier to read;
   + Avoiding personal pronouns does not make your science more objective;
-  + By agreeing to be an author on the paper, you are taking responsibility for its content. 
+  + By agreeing to be an author on the paper, you are taking responsibility for its content.
     Thus, you should also claim responsibility for assertions in the text by using personal pronouns;
   + Journals want this.
 

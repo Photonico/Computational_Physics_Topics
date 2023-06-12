@@ -512,3 +512,10 @@ After
   + In scientific writing, it's actually essential that you repeat a word.
   + Repeat the key words.
     + names of comparison groups, variables, or instruments.
+
++ Needless synonyms
+  + banana          → "the elongated yellow fruit"
+  + beaver          → "the furry, paddle-tailed mammal"
+  + mustache        → "under-nose hair crops"
+  + milk from a cow → "the vitamin-laden liquid from a bovine milk factory"
+  + skis            → "the beatified barrel staves"

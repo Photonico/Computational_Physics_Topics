@@ -577,14 +577,26 @@ After
 + Get organized first
   + Do not try to write and gather information simultaneously;
   + Gather and organize information before writing the first draft!
-
-+ Extract key infirmation when you read literatures.
-
-+ Organizing your thoughts
+  + Extract key infirmation when you read literatures;
+  + Organizing your thoughts.
 
 + Develop a road map
-  + Arrange key facts and citations from the literatures into a crude road map / outline before writing the first draft.
+  + Arrange key facts and citations from the literatures into a crude road map / outline before writing the first draft;
   + Think in paragraphs and sections.
+
++ Brainstorm away from the computer
+  + Write on the go!
+  + Work out take-home messages;
+  + Organize your paper;
+  + Write memorable lines.
+  
++ Compositional organization
+  + Like ideas should be grouped;
+  + Like paragraphs should be grouped;
+  + Do not "Bait-and-Switch" your reader too many times. When discussing a controversy, follow:
+    + Arguments (all);
+    + Counter-arguments (all);
+    + Rebuttals (all).
 
 ## Unit 5
 

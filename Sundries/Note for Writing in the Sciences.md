@@ -483,4 +483,4 @@ After
 
 ### 3.6 Paragraph Editing II
 
-### 3.7 Paragraph Editing II
+### 3.7 A few more tips

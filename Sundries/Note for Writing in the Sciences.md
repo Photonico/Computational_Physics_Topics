@@ -496,6 +496,6 @@ Before
 > Headache is an extraordinarily common pain symptom that virtually everyone experiences at one time or another. As a pain symptom, headaches have many causes. The full range of these causes were categorized by the International Headache Society (IHS) in 1988. The IHS distinguishes two broad groups of headache disorders: primary headache disorders and secondary headache disorders. Secondary headache disorders are a consequence of an underlying condition, such as a brain tumor, a systemic infection or a head injury. In primary headache disorders, the headache disorder is the fundamental problem; it is not symptomatic of another cause. The two most common types of primary headache disorders are episodic tension-type headache (ETTH) and migraine. Although IHS is the most broadly used/recognized classification system used, a brief comment on others would be appropriate – especially if there are uses that have epidemiologic advantages.
 
 After
->
+> 
 
 ### 3.7 A few more tips

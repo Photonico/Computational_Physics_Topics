@@ -439,3 +439,9 @@ After
 ### 3.3 Parallelism
 
 Pairs of ideas joined by "and", "or", or "but" should be written in parallel form.
+
++ List of ideas should be written in parallel form:
+  + Unparallel
+  > Locusts denuded fields in Utah, rural Iowa was washed away by torrents, and in Arizona the cotton was shriveled by the placing heat.
+  + Parallel
+  > Locusts denuded fields in Utah, torrents washed away rural Iowa, and blazing head shriveled Arizona's cotton.

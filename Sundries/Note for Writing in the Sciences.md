@@ -555,7 +555,19 @@ Before
 After
 > We assess each instrument based on reliability, validity, and responsiveness. These domains may be subdivided into measurement properties: Reliability includes internal consistency, reliability, and measurement error; validity includes content validity, construct validity, and criterion validity; responsiveness is both a domain and a measurement property. Some measurement properties additionally contain multiple aspects; for example, construct validity includes structural validity, hypothesis testing, and cross-cultural validity.
 
-+ 
++ Overview of the writing process
+  + Prewriting
+    Collect, synthesize, and organize information;
+    Brainstorm take-home messages;
+    Work out ideas away from the computer;
+    Develop a road map / outline.
+  + Writing the first draft
+    Put your facts and ideas together in organized prose.
+  + Revision
+    + Read your work and out loud;
+    + Get rid of clutter;
+    + Do a verb check;
+    + Get feedback from others.
 
 ## Unit 5
 

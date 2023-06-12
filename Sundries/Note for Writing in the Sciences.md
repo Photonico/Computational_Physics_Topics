@@ -30,7 +30,7 @@ This is my personal study note for the 'Writing in the Science' course, which is
   + Theses and Dissertations: In-depth studies for degree programs.
   + Textbooks and Educational Materials: Books and materials for physics education.
 
-## Introduction, principles of effective writing
+## Unit 1 Introduction, principles of effective writing
 
 ### 1.1 Introduction
 
@@ -186,7 +186,7 @@ Before
 After
 > Figure 2 shows that a return kinetic energy less than 2.3 U_p yields two electron trajectories.
 
-## Writing with Strong
+## Unit 2 Writing with Strong
 
 ### 2.1 Use the active voice
 
@@ -389,3 +389,10 @@ After
 + Singular antecedents
   + Do not use "they" or "their" when the subject is singular.
   + To avoid gender choice, turn to a plural.
+
+## Unit 3 Punctuation
+
+### 3.1 Experiment with punctuation
+
++ Our friends the dash, colon, semicolon, and parenthesis... Use them to vary sentence structure.
+

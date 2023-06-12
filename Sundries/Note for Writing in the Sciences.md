@@ -604,6 +604,7 @@ After
   + Do not be a perfectionist!
   + The goal of the first draft is to get the ideas down in complete sentences in order;
   + Focus on logical organization more than sentence-level details;
+  + Writing the first draft is the hardest step for most people. Minimize the pain by writing the first draft quickly and efficiently.
 
 ## Unit 5
 

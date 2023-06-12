@@ -86,15 +86,15 @@
 
 ## Quantum Field Theory
 
-* Quantum Field Theory by Claude Itzykson, Jean-Bernard Zuber
+* [book] Quantum Field Theory by Claude Itzykson, Jean-Bernard Zuber
 
-* Quantum Field Theory, as Simply as Possible by A. Zee
+* [book] Quantum Field Theory, as Simply as Possible by A. Zee
 
-* Quantum Field Theory in a Nutshell by A. Zee
+* [book] Quantum Field Theory in a Nutshell by A. Zee
 
-* An Introduction To Quantum Field Theory by Michael E. Peskin
+* [book] An Introduction To Quantum Field Theory by Michael E. Peskin
 
-* Quantum Field Theory and the Standard Model by Matthew D. Schwartz
+* [book] Quantum Field Theory and the Standard Model by Matthew D. Schwartz
 
 ## Mathematical Methods
 

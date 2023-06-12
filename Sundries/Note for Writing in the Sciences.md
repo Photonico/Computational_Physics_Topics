@@ -502,7 +502,12 @@ After
 
 + When you find yourself reaching for the thesaurus to avoid using a word twice within the same sentence or enven paragraph, ask:
   + Is the second instance of the word even necessary?
-  + If the word is needed, is a synonym really better than just repeating the word? In many cases it's preferable to just repeat the word.
+  + If the word is needed, is a synonym really better than just repeating the word? 
     + challenges  / difficulties
     + illustrate  / demonstrate
     + teaches     / guides
+
++ In many cases it's preferable to just repeat the word.
+
++ In scientific writing, it's actually essential that you repeat a word.
+

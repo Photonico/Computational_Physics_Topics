@@ -544,6 +544,9 @@ After
 
 ## Unit 4 More paragraph practice
 
+Example
+> Syoersymmetry relates each particle of the standard model to another particle called its superpartner; the symmetry is about spin-a shtanard-model fermion has a bosonic superpartner, and vice versa. By convention, superpartners of fermions gain a prefix 's' (such as selectron, squark, and sneutrino), and those related to bosons gain the suffix 'ino'. The prime candidate for dark matter among all of these superparticles is the so-called neutralino - which is a mixture (technically, a mass eigenstate) formed by the superpartners (zino, photino, and higgsino) of standard-model bosons. Other candidates are sneutrinos, and gravitinos, which are related to the graviton (although, strictly speaking, gravitions belong to extended versions of supersymmetric models, know as supergravity models, in which gravity is included.)
+
 Before
 > In assessing the quality of an instrument we distinguish three quality domains, i.e. reliability, validity, and responsiveness. Each domain contains one or more measurement properties. The domain reliability contains three measurement properties: internal consistency, reliability, and measurement error. The domain validity also contains three measurement properties: content validity, construct validity, and criterion validity. The domain responsiveness contains only one measurement property, which is also called responsiveness. The term and definition of the domain and measurement property responsiveness are actually the same, but they are distinguished in the taxonomy for reasons of clarity. Some measurement properties contain one or more aspects, that were defined separately: Content validity includes face validity, and construct validity include structural validity, hypotheses testing, and cross-cultural validity.
 

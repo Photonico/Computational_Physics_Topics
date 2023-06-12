@@ -477,12 +477,13 @@ Before
 > Most scents remain constant in their quality over orders of magnitude of concentration (12). [Nevertheless], at high concentrations, quality tends to be negatively correlated with intensity, as was the case, for example, for the cinnamon oil used in this study. [Hence], reliability of absolute scorings was achieved by calibrating the amount of perfume ingredients with initial ratings for intensity against a reference substance of known concentration. The final concentrations were in principle chosen in a way such that individual ratings showed variance among participants within the sliding scale between 0 and 10 (meaning that people could decide whether they liked a scent or not). This procedure seemed successful for most scents; [however], the concentrations for bergamot (highest average ratings) and vetiver (lowest average rating) could probably been reduced even more, as both scents did not show any discriminating power at the level of common alleles (people agreed largely on the quality of these two scents) (see Table 2). [Interestingly], the pooled rare alleles showed discriminating power for...
 
 After
->
+> 
 
 Before
 > Although the methodological approaches are similar, the questions posed in classic epidemiology and clinical epidemiology are different. In classic epidemiology, epidemiologists pose a question about the etiology of a disease in a population of people. Causal associations are important to identify because, if the causal factor identified can be manipulated or modified, prevention of disease is possible. On the other hand, in clinical epidemiology, clinicians pose a question about the prognosis of a disease in a population of patients. Prognosis can be regarded as a set of outcomes and their associated probabilities following the occurrence of some defining event or diagnosis that can be a symptom, sign, test result or disease.
 
 After
+> 
 
 ### 3.6 Paragraph Editing II
 

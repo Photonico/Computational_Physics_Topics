@@ -358,7 +358,6 @@ After
 + Effect a verb, it means to bring about or to cause.
   > to effect a change.
 
- 
 + That vs. which
   + That: the restrictive (defining) pronoun;
     > The vial that contained her RNA was lost.
@@ -419,3 +418,15 @@ After
   + Use the dash to add emphasis or to insert an abrupt definition or description almost anywhere in the sentence. Just do not overuse it, or it loses its impact.
   > A dash is a mark of separation stronger than a comma, less formal than a colon, and more relaxed than paratheses. - Strunk and White
   > Use a dash only when a more common mark of punctuation seems inadequate. - Strunk and White
+
+### 3.2 Practice, colon and dash
+
+Before
+> Evidence-based medicine teaches clinicians the practical application of clinical epidemiology, as needed to address specific problems of specific patients. It guides clinicians on how to find the best evidence relevant to a specific problem, how to assess the quality of that evidence, and perhaps most difficult, how to decide if the evidence applies to a specific patient.
+
+After
+
+Before
+> Finally, the lessons of clinical epidemiology are not meant to be limited to academic physician-epidemiologists, who sometimes have more interest in analyzing data than caring for patients. Clinical epidemiology holds the promise of providing clinicians with the tools necessary to improve the outcomes of their patients.
+
+After

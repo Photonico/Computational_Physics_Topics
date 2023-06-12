@@ -434,4 +434,4 @@ Before
 > Finally, the lessons of clinical epidemiology are not meant to be limited to academic physician-epidemiologists, who sometimes have more interest in analyzing data than caring for patients. Clinical epidemiology holds the promise of providing clinicians with the tools necessary to improve the outcomes of their patients.
 
 After
->
+> 

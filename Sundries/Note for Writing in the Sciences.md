@@ -608,6 +608,14 @@ After
 
 ### 4.5 Revision
 
++ Tips on revision
+  + Read your work and out loud;
+  + Do a verb check;
+  + Cut clutter;
+  + Do an organizational review;
+  + Get feedback from others;
+  + Get editing help.
+
 ## Unit 5
 
 ## Unit 6

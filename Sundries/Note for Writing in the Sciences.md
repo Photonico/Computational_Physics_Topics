@@ -649,6 +649,21 @@ After
 
 ### 4.6 Checklist for the final draft
 
++ Check for consistency
+  + Confirm there is no contradiction in your manuscript;
+
++ Check for numerical consistency
+  + Do the numbers in your abstract math the numbers in your tables / figures / text?
+  + Do the numbers in the text match those in the tables? / figures?
+  + Do the numbers in each table / figure match those in other tables / figures?
+
++ Check your references
+  + Do you have "references to nowhere"?
+  + Reference does not provide the indicated information / fact:
+    + Authors misinterpreted or exaggerated the findings from the original source;
+    + Reference cites a secondary source rather than a primary source (Citation propagation);
+    + Authors mis-numbered the references.
+
 ## Unit 5
 
 ## Unit 6

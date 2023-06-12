@@ -510,3 +510,5 @@ After
 + A note on repetition
   + In many cases it's preferable to just repeat the word.
   + In scientific writing, it's actually essential that you repeat a word.
+  + Repeat the key words.
+    + names of comparison groups, variables, or instruments.

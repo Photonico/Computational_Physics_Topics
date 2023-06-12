@@ -544,7 +544,7 @@ After
 
 ## Unit 4 More paragraph practice
 
-+ More paragraph practice
+### 4.1 More paragraph practice
 
 Example
 > Syoersymmetry relates each particle of the standard model to another particle called its superpartner; the symmetry is about spin-a shtanard-model fermion has a bosonic superpartner, and vice versa. By convention, superpartners of fermions gain a prefix 's' (such as selectron, squark, and sneutrino), and those related to bosons gain the suffix 'ino'. The prime candidate for dark matter among all of these superparticles is the so-called neutralino - which is a mixture (technically, a mass eigenstate) formed by the superpartners (zino, photino, and higgsino) of standard-model bosons. Other candidates are sneutrinos, and gravitinos, which are related to the graviton (although, strictly speaking, gravitions belong to extended versions of supersymmetric models, know as supergravity models, in which gravity is included.)
@@ -555,21 +555,36 @@ Before
 After
 > We assess each instrument based on reliability, validity, and responsiveness. These domains may be subdivided into measurement properties: Reliability includes internal consistency, reliability, and measurement error; validity includes content validity, construct validity, and criterion validity; responsiveness is both a domain and a measurement property. Some measurement properties additionally contain multiple aspects; for example, construct validity includes structural validity, hypothesis testing, and cross-cultural validity.
 
-+ Overview of the writing process
-  + Prewriting [Time proportion ~70%]
-    Collect, synthesize, and organize information;
-    Brainstorm take-home messages;
-    Work out ideas away from the computer;
-    Develop a road map / outline.
-  + Writing the first draft [Time proportion ~10%]
-    Put your facts and ideas together in organized prose.
-  + Revision [Time proportion ~20%]
-    + Read your work and out loud;
-    + Get rid of clutter;
-    + Do a verb check;
-    + Get feedback from others.
+### 4.2 Overview of the writing process
 
-+ 
++ Prewriting [Time proportion ~70%]
+  + Collect, synthesize, and organize information;
+  + Brainstorm take-home messages;
+  + Work out ideas away from the computer;
+  + Develop a road map / outline.
+
++ Writing the first draft [Time proportion ~10%]
+    Put your facts and ideas together in organized prose.
+
++ Revision [Time proportion ~20%]
+  + Read your work and out loud;
+  + Get rid of clutter;
+  + Do a verb check;
+  + Get feedback from others.
+
+### 4.3 The pre-writing step
+
++ Get organized first
+  + Do not try to write and gather information simultaneously;
+  + Gather and organize information before writing the first draft!
+
++ Extract key infirmation when you read literatures.
+
++ Organizing your thoughts
+
++ Develop a road map
+  + Arrange key facts and citations from the literatures into a crude road map / outline before writing the first draft.
+  + Think in paragraphs and sections.
 
 ## Unit 5
 

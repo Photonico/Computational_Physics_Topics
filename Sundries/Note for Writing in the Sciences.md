@@ -69,7 +69,7 @@ Elegant and stylish writing happens in revision, not on the first draft, even fo
   + Is this sentence readable?
   + Is it written to inform or to obscure?
 
-Really the scientific literature should be enjoyable and interesting to read. The point of scientific writing is to inform.
++ Really the scientific literature should be enjoyable and interesting to read. The point of scientific writing is to inform.
 
 + The verbs drive sentences whereas nouns slow them down.
 
@@ -99,38 +99,38 @@ Really the scientific literature should be enjoyable and interesting to read. Th
 + Try the sentence without the extra words and see how it's better - conveys the same idea with more power.
 
 + Avoid list
-  + Dead weight words and phrases
-    + As it is well known
-    + As it has been shown
-    + It can be regarded that
-    + It should be emphasized that
+  + Deadweight words and phrases
+    > As it is well known
+    > As it has been shown
+    > It can be regarded that
+    > It should be emphasized that
   + Empty words and phrases
-    + basic tenets of
-    + methodologic
-    + important
+    > basic tenets of
+    > methodologic
+    > important
   + Long words or phrases that could be short
   + Unnecessary jargon and acronyms
   + Repetitive words or phases
-    + Studies/examples
-    + illustrate/demonstrate
-    + challenges/difficulties
-    + successful / solutions
+    > Studies/examples
+    > illustrate/demonstrate
+    > challenges/difficulties
+    > successful / solutions
   + Adverbs
-    + very, really, quite, basically, generally, etc.
+    > very, really, quite, basically, generally, etc.
 
 > Some words and phrases are blobs. William Zinsser, On Writing Well.
 
 + Long words and phrases that could be short
-  + a majority of             → most
-  + a number of               → many
-  + are of the same opinion   → agree
-  + less frequently occurring → rare
-  + all three of the          → the three
-  + give rise to              → cause
-  + due to the fact that      → because
-  + Have an effect on         → affect
-  + The result of             → due to
-  + In many instances         → often
+  > a majority of             → most
+  > a number of               → many
+  > are of the same opinion   → agree
+  > less frequently occurring → rare
+  > all three of the...       → the three
+  > give rise to              → cause
+  > due to the fact that      → because
+  > Have an effect on         → affect
+  > The result of             → due to
+  > In many instances         → often
 
 > I have only made this letter rather long because I have not had time to make it shorter. - Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
 

@@ -533,3 +533,11 @@ After
 
 + Reference
   Henry W. Fowler on [Elegant Variation](http://www.bartleby.com/116/302.html)
+
++ Exercise
+
+Before
+> As for many food components, the intake of metal ions can be a double edged sword. The requirement for ingestion of trace metals such as Fe and Cu ions to maintain normal body functions such as the synthesis of metalloproteins is well established. However, cases of excess intake of trace metal ions are credited with pathological events such as the deposition of iron oxides in Parkinson's disease [1]. In addition to aiding neurological depositions, these redox active metals ions have been credited with enhancing oxidative damage, a key component of chronic inflammatory disease [2] and a suggested initiator of cancer [3]. As inflammation is a characteristic feature of a wide range of diseases, further potential pathological roles for metal ions are emerging as exemplified by premature ageing [4].
+
+After
+> Metal ions's intake cuts both ways in food components. Altough our body requires trace metals, such as Fe and Cu ions, to maintain normal functions through the synthesis of metalloproteins. However, excessive intake of trace metal ions contributes to some pathological events, such as the deposition of iron oxides in Parkinson's disease [1]. In addition promoting neurological depositions, these redox-active metal ions also exacerbate oxidative damage, a key player in chronic inflammatory disease [2], and a potential catalyst for cancer [3]. As inflammation characterize a wide range of diseases, 

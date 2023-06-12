@@ -507,7 +507,6 @@ After
     + illustrate  / demonstrate
     + teaches     / guides
 
-+ In many cases it's preferable to just repeat the word.
-
-+ In scientific writing, it's actually essential that you repeat a word.
-
++ A note on repetition
+  + In many cases it's preferable to just repeat the word.
+  + In scientific writing, it's actually essential that you repeat a word.

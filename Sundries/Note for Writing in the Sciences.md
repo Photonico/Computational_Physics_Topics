@@ -600,21 +600,54 @@ After
 
 ### 4.4 The writing step
 
-+ Tips for writing the first draft
-  + Do not be a perfectionist!
-  + The goal of the first draft is to get the ideas down in complete sentences in order;
-  + Focus on logical organization more than sentence-level details;
-  + Writing the first draft is the hardest step for most people. Minimize the pain by writing the first draft quickly and efficiently.
++ Do not be a perfectionist!
+
++ The goal of the first draft is to get the ideas down in complete sentences in order;
+
++ Focus on logical organization more than sentence-level details;
+
++ Writing the first draft is the hardest step for most people. Minimize the pain by writing the first draft quickly and efficiently.
 
 ### 4.5 Revision
 
-+ Tips on revision
-  + Read your work and out loud;
-  + Do a verb check;
-  + Cut clutter;
-  + Do an organizational review;
-  + Get feedback from others;
-  + Get editing help.
++ Read your work and out loud;
+
++ Do a verb check, underline the main verb in each sentence. Watch for:
+  + Lackluster verbs;
+    > There [are] many students who struggle with chemistry.
+  + Passive verbs;
+    > The reaction [was] observed by her.
+  + Buried verbs: place the subject and verb early and close together. 
+
++ Cut clutter: do not be afraid to cut! Watch for:
+  + Dead weight words and phrases;
+    > it should be emphasized that...
+  + Empty words and phrases;
+    > basic tenets of, important...
+  + Long words or phrases that could be short;
+    > muscular and cardiorespiratory performance...
+  + Unnecessary jargon and acronyms;
+  + Repetitive words or phrases;
+    > teaches clinicians / guides clinicians
+  + Adverbs;
+    > very, really, quite, basically...
+
++ Do an organizational review;
+  + In the margins of your paper, tag each paragraph with a phrase or sentence that sums up the main point;
+  + Then move paragraphs around to improve logical flow and bring similar ideas together.
+
++ Get feedback from others;
+  + Ask someone outside your department to read your manuscript;
+  + Without any technical background, they should easily grasp:
+    + the main findings;
+    + take-home messages;
+    + significance of your work.
+  + Ask them to point out particularly hard-to-read sentences and paragraphs.
+
++ Get editing help.
+  + Find a good editor to edit your work.
+
+### 4.6 Checklist for the final draft
 
 ## Unit 5
 

@@ -598,6 +598,13 @@ After
     + Counter-arguments (all);
     + Rebuttals (all).
 
+### 4.3 The writing step
+
++ Tips for writing the first draft
+  + Do not be a perfectionist!
+  + The goal of the first draft is to get the ideas down in complete sentences in order;
+  + Focus on logical organization more than sentence-level details;
+
 ## Unit 5
 
 ## Unit 6

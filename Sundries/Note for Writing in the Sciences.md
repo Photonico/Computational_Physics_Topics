@@ -483,8 +483,10 @@ Before
 > [Although] the methodological approaches are similar, the questions posed in classic epidemiology and clinical epidemiology are different. In classic epidemiology, epidemiologists pose a question about the etiology of a disease in a population of people. Causal associations are important to identify because, if the causal factor identified can be manipulated or modified, prevention of disease is possible. [On the other hand], in clinical epidemiology, clinicians pose a question about the prognosis of a disease in a population of patients. Prognosis can be regarded as a set of outcomes and their associated probabilities following the occurrence of some defining event or diagnosis that can be a symptom, sign, test result or disease.
 
 After
-> [Despite] similarities c
+> [Despite] methodologic similarities, classic epidemiology and clinical epidemiology differ in aim. Classic epidemiologists pose a question about the etiology of a disease in a population of people. Clinical epidemiologists pose a question about the prognosis of a disease in a population of patients; prognosis is the probability that event or diagnosis will result in a particular outcome.
 
 ### 3.6 Paragraph Editing II
+
+
 
 ### 3.7 A few more tips

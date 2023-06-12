@@ -465,6 +465,7 @@ Paragraph-level tips:
 + Your reader remembers the first sentence and the last sentence best. Make the last sentence memorable. Emphasis at the end.
 
 + Logical flow of ideas:
-  + Sequential in time: avoid the Memento approach;
+  + Sequential in time: avoid the "Memento" approach in sciecific writing;
   + General → specific: take-home message first;
   + Logical arguments: if "a" then "b"; "a" therefore "b".
+

@@ -499,3 +499,10 @@ After
 > Headache is a pain symptom that almost everyone experiences. The International Headache Society (IHS) groups headaches into two types based on cause: primary headache disorders and secondary headache disorders. In primary headache disorders, the headache itself is the main complaint. The two most common types of primary headache disorder are episodic tension-type headache (ETTH) and migraine. Secondary headache disorders result from an underlying condition, such as a brain tumor, a systemic infection, or a head injury.
 
 ### 3.7 A few more tips
+
++ When you find yourself reaching for the thesaurus to avoid using a word twice within the same sentence or enven paragraph, ask:
+  + Is the second instance of the word even necessary?
+  + If the word is needed, is a synonym really better than just repeating the word?
+    + challenges  / difficulties
+    + illustrate  / demonstrate
+    + teaches     / guides

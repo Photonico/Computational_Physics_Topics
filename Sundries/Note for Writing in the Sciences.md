@@ -436,3 +436,6 @@ Before
 After
 > Finally, clinical epidemiology is not limited to academic physican - epidemiologists - who are sometimes more interested in analyzing data than caring for patients - but provides clinicians with the tools to improve their patients' outcomes.
 
+### 3.3 Parallelism
+
+Pairs of ideas joined by "and", "or", or "but" should be written in parallel form.

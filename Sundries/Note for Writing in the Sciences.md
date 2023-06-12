@@ -129,8 +129,8 @@ Really the scientific literature should be enjoyable and interesting to read. Th
   + give rise to              → cause
   + due to the fact that      → because
   + Have an effect on         → affect
-  + The result of                     → due to
-  + In many instances                 → often
+  + The result of             → due to
+  + In many instances         → often
 
 > I have only made this letter rather long because I have not had time to make it shorter. - Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
 
@@ -519,3 +519,10 @@ After
   + mustache        → "under-nose hair crops"
   + milk from a cow → "the vitamin-laden liquid from a bovine milk factory"
   + skis            → "the beatified barrel staves"
+
++ Disastrous synonyms
+  + Whereas it's just amusing or inelegant in some types of writing, in scientific wirting it's a disaster.
+  + The reader may think you are referrring to different instrument, model, group, variable, etc.
+
++ Reference
+  Henry W. Fowler on [Elegant Variation](http://www.bartleby.com/116/302.html)

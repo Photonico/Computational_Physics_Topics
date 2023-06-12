@@ -664,6 +664,10 @@ After
     + Reference cites a secondary source rather than a primary source (Citation propagation);
     + Authors mis-numbered the references.
 
++ Take-home message
+  + Always cite / go back to primary sources!
+  + Assume that other authors have made errors in citing sources.
+
 ## Unit 5
 
 ### 5.1

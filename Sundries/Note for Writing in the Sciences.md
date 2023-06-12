@@ -540,4 +540,22 @@ Before
 > As for many food components, the intake of metal ions can be a double edged sword. The requirement for ingestion of trace metals such as Fe and Cu ions to maintain normal body functions such as the synthesis of metalloproteins is well established. However, cases of excess intake of trace metal ions are credited with pathological events such as the deposition of iron oxides in Parkinson's disease [1]. In addition to aiding neurological depositions, these redox active metals ions have been credited with enhancing oxidative damage, a key component of chronic inflammatory disease [2] and a suggested initiator of cancer [3]. As inflammation is a characteristic feature of a wide range of diseases, further potential pathological roles for metal ions are emerging as exemplified by premature ageing [4].
 
 After
-> Metal ions' intake cuts both ways in food components. Although our bodies require trace metals, such as Fe and Cu ions, to maintain normal functions through the synthesis of metalloproteins. Excessive intake of trace metal ions contributes to pathological events such as the deposition of iron oxides in Parkinson's disease [1]. In addition to promoting neurological depositions, these redox-active metal ions also exacerbate oxidative damage, a key player in chronic inflammatory diseases [2], and a potential catalyst for cancer [3]. Since inflammation characterizes a wide range of diseases, metal ions increasingly correlate with potential pathologies such as premature aging.
+Metal ions' intake cuts both ways in food components. 
+
+Although our bodies require trace metals, such as Fe and Cu ions, to maintain normal functions through the synthesis of metalloproteins. 
+
+Excessive intake of trace metal ions contributes to pathological events such as the deposition of iron oxides in Parkinson's disease [1]. 
+
+In addition to promoting neurological depositions, these redox-active metal ions also exacerbate oxidative damage, a key player in chronic inflammatory diseases [2], and a potential catalyst for cancer [3]
+
+Since inflammation characterizes a wide range of diseases, metal ions increasingly correlate with potential pathologies such as premature aging.
+
+--
+
+As for many food components, consuming metal ions can be a double-edged sword. 
+
+Trace metals such as Fe and Cu ions help maintain normal body functions, such as the synthesis of metalloproteins
+
+However, studies have linked excess intake to oxidative damage [2] and inflammation, as well as specific conditions, including Parkinson's disease [1], cancer [3], and premature ageing [4]
+
+> Metal ions' intake cuts both ways in food components.

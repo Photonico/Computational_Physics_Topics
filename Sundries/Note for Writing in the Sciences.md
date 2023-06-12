@@ -358,10 +358,7 @@ After
 + Effect a verb, it means to bring about or to cause.
   > to effect a change.
 
-+ Compared to vs. compared with
-  + Compared to: to point out similarties between different things;
-  + Compared with sth (used more often in science): to point out differences between similar things.
-
+ 
 + That vs. which
   + That: the restrictive (defining) pronoun;
     > The vial that contained her RNA was lost.
@@ -395,4 +392,9 @@ After
 ### 3.1 Experiment with punctuation
 
 + Our friends the dash, colon, semicolon, and parenthesis... Use them to vary sentence structure.
+
+Increasing power to separate: Comma → Colon → Dash → Parentheses → Semicolon → Period
+
+Increasing formality: Dash → Parentheses → The Others (Comma, Colon, Semicolon, Period)
+
 

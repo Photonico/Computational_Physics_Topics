@@ -393,8 +393,24 @@ After
 
 + Our friends the dash, colon, semicolon, and parenthesis... Use them to vary sentence structure.
 
-Increasing power to separate: Comma → Colon → Dash → Parentheses → Semicolon → Period
++ Increasing power to separate
+  Comma → Colon → Dash → Parentheses → Semicolon → Period
 
-Increasing formality: Dash → Parentheses → The Others (Comma, Colon, Semicolon, Period)
++ Increasing formality
+  Dash → Parentheses → The Others (Comma, Colon, Semicolon, Period)
 
++ Semicolon
+  + The semicolon connects two independent clauses. A clause always contains a subject and   perdicate; an independent clause can stand alone as a complete sentence.
+  + Semicolons are also used to separate items in lists that contain internal punctuation.
 
++ Parenthesis (parenthetical expression)
+  + Use parentheses to insert an afterthought or explanation (a word, phrase, or sentence) into a passage that is grammathically complete without it;
+  + If you remove the matherial within the parentheses, the main point of the sentence should not change;
+  + Parentheses give the reader permission to skip over the material.
+
++ Colon
+  + Use a colon after an independent clause to intruduce a list, quote, explanation, conclusion, or amplification.
+  + Use a colon to join two independent clause if the second amplifies or extends the first.
+
++ The "rule of three's" for lists and examples
+  > It happened bacause people organized and voted for better prospects; because leaders enacted smart, forwardlooking policies; because people's perspectives opened up, and with them, societies did too.

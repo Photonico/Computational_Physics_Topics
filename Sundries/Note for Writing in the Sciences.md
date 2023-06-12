@@ -448,10 +448,23 @@ Pairs of ideas joined by "and", "or", or "but" should be written in parallel for
 
 ### 3.4 Paragraphs
 
-+ Paragraph-level tips
-  + 1 paragraph = 1 idea
-    + Let the reader appreciates short paragraphs and white space one the page;
-    + Try to keep your paragraphs short and focused on a single idea.
-  + Give away the punch line early.
-    + Present the main findings or conclusions at the beginning of a scientific paper.
+Paragraph-level tips:
 
++ 1 paragraph = 1 idea
+  + Let the reader appreciates short paragraphs and white space one the page;
+  + Try to keep your paragraphs short and focused on a single idea.
+
++ Give away the punch line early.
+  + Present the main findings or conclusions at the beginning of a scientific paper.
+
++ Paragraph flow is helped by:
+  + logical flow of ideas
+  + parallel sentence structures
+  + if necessary, transition words
+
++ Your reader remembers the first sentence and the last sentence best. Make the last sentence memorable. Emphasis at the end.
+
++ Logical flow of ideas:
+  + Sequential in time: avoid the Memento approach;
+  + General → specific: take-home message first;
+  + Logical arguments: if "a" then "b"; "a" therefore "b".

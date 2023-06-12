@@ -524,5 +524,12 @@ After
   + Whereas it's just amusing or inelegant in some types of writing, in scientific wirting it's a disaster.
   + The reader may think you are referrring to different instrument, model, group, variable, etc.
 
++ Acronyms / Initialisms
+  + It is OK to repeat words. Resist the temptation to abbreviate words simply because they recur frequently.
+  > Recall miR instead of microRNA
+  + Use only standard acryonyms / initialisms. Do not make them up.
+  > RNA
+  + If your must use acronyms, define them separately in the abstract, each table / figure, and the text. For long papaer, redefine occasionally (as readers do not typically read start to finish).
+
 + Reference
   Henry W. Fowler on [Elegant Variation](http://www.bartleby.com/116/302.html)

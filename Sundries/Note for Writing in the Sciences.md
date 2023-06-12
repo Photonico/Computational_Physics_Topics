@@ -469,3 +469,8 @@ Paragraph-level tips:
   + General → specific: take-home message first;
   + Logical arguments: if "a" then "b"; "a" therefore "b".
 
+### 3.5 Paragraph Editing I
+
+### 3.6 Paragraph Editing II
+
+### 3.7 Paragraph Editing II

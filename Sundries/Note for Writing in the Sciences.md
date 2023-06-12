@@ -553,25 +553,9 @@ Before
 > In assessing the quality of an instrument we distinguish three quality domains, i.e. reliability, validity, and responsiveness. Each domain contains one or more measurement properties. The domain reliability contains three measurement properties: internal consistency, reliability, and measurement error. The domain validity also contains three measurement properties: content validity, construct validity, and criterion validity. The domain responsiveness contains only one measurement property, which is also called responsiveness. The term and definition of the domain and measurement property responsiveness are actually the same, but they are distinguished in the taxonomy for reasons of clarity. Some measurement properties contain one or more aspects, that were defined separately: Content validity includes face validity, and construct validity include structural validity, hypotheses testing, and cross-cultural validity.
 
 After
-> 
+> We assess each instrument based on reliability, validity, and responsiveness. These domains may be subdivided into measurement properties: Reliability includes internal consistency, reliability, and measurement error; validity includes content validity, construct validity, and criterion validity; responsiveness is both a domain and a measurement property. Some measurement properties additionally contain multiple aspects; for example, construct validity includes structural validity, hypothesis testing, and cross-cultural validity.
 
-Before
-> The church’s record-keeping system and its high level of accuracy has been previously reported (2). Briefly, the church creates and maintains a church record for each individual who is baptized into the church. These records are created at the congregation level at the time of baptism and then forwarded to the general church level where the membership record is added to the church membership database. These records contain minimal information including name, date of birth, parents’ names, dates of church ordinances, and current address. Each congregation has a lay membership clerk who is responsible for updating the membership records for the members of the congregation. Such updates would include dates of ordinances received after baptism (e.g., priesthood ordination or marriage), name of spouse when a member marries, change of current address and date of death.
-
-After
->
-
-Before
-> While the accuracy of the church record is dependent upon lay clerks within each congregation, each member has an opportunity to review their membership record once a year to check it for accuracy. For this reason and because the church emphasizes accurate record keeping, the information available from the church records is quite reliable, especially for members who are actively involved in the church. When a member dies and the clerk reports his/her death to the Church Membership Council, the membership record is updated and then archived in the church’s deceased membership file.
-
-After
->
-
-Before
-> Previous studies have consistently reported increased risk of subsequent drug use associated with conduct problems and antisocial behavior in childhood (1-5), and an association of drug dependence with conduct problems was found in a general survey of young adults (9). Furthermore, long-term relationships between aggressive, unconventional, and impulsive behaviors have also been found with drug use involvement generally (10-12). However, different pathways between early childhood misbehavior and drug involvement may exist. Psychiatric symptoms and cognitive disabilities may be manifest as aggressive behaviors and drug use may be a response to impulsive tendencies that often co-occur with aggression or misbehavior. Distress and failure to adopt responsible conventional roles and behaviors may be important mediators linking childhood misbehavior to late drug dependence (13,14).
-
-After
->
++ 
 
 ## Unit 5
 

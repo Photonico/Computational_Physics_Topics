@@ -619,8 +619,11 @@ After
     > The reaction [was] observed by her.
   + Buried verbs: place the subject and verb early and close together. 
 
-+ Cut clutter: do not be afraid to cut! Watch for:
-  + Dead weight words and phrases;
+
+
+
++ Cut the clutter: do not be afraid to cut! Watch for:
+  + Deadweight words and phrases;
     > It should be emphasized that...
   + Empty words and phrases;
     > basic tenets of, important...
@@ -670,12 +673,87 @@ After
 
 ## Unit 5 Tables and Figures
 
-### 5.1 Tables and Figures
-
 + One more tip on making writing easier
   + Break your writing task into small and realistic goals.
     + My goal is to write 400 words today.
     + My goal is to write the first two paragraphs of the discussion section today.
+
++ Recommended order for writing and original manuscript
+  1. Tables and Figures
+  2. Result
+  3. Methods
+  4. Introduction
+  5. Discussion
+  6. Abstract
+
+### 5.1 Tables and Figures
+
++ Tales and Figures are the foundation of your story.
+  + Editors, reviewers, and readers may look first (and maybe only) at titles, abstracts, tables and figures.
+  + Figures and tables should stand alone and tell a complete story. The reader should not need to refer back to the main text.
+
++ Tips on Tables and Figures
+  + Use the fewest figures and tables needed to tell the story;
+  + Do not present the same data in both a figure and a table.
+
++ Tables features
+  + Give precise values
+  + Display many values/variables
+
++ Figures features
+  + Visual impact;
+  + Show trends and patterns;
+  + Tell a quick story;
+  + Tell the whole story;
+  + Highlight a particular result.
+
++ Table Title
+  + Identify the specific topic or point of the table;
+  + Use the same key terms in the table title, the column headings, and the text of the paper.
+  + Keep it brief!
+  > Descriptive characteristics of the two treatment groups, means ± SD or N(%)
+
++ Table Footnotes
+  + Use superscript symbols to identify footnotes, according to journal guidelines;
+    > *, **, †, ‡, ††, ¶, #, etc.
+  + Use footnotes to explain statistically significant differences;
+    > *<p.01 vs. control by ANOVA
+  + Use footnotes to explain experiment details or abbreviations.
+    > EDI is the Eating Disorder Inventory (reference)
+    > Amenorrhea was defined as 0-3 periods per day.
+
++ Table Formats
+  + Model your tables from already published tables; Do not re-invent the wheel.
+  + Follow journal guidelines RE:
+    + Roman or Arabic numbers
+    + Centered or flush left table number, title, column, headings, and data
+    + Capital letters and italics
+    + The placement of footnotes
+    + The type of footnote symbols
+  + Most journals use three horizontal lines:
+    + One above the column heading;
+    + One below the column heading;
+    + One below the data.
+  + It is OK to use the shadow;
+  + Make sure everything lines up;
+  + Use a reasonable number of significant figures;
+  + Give units;
+  + Omit unnecessary columns;
+  + Unify the style!
+
++ Type of figures
+  + Primary evidence
+    + Experiment pictures
+    + Indicates data quality
+    + "Seeing is believing"
+  + Graphs
+    + line graphs, bar graphs, scatter plots, histograms, boxplots, etc.
+  + Drawings and diagrams
+    + Illustrate an experimental set-up or work-flow;
+    + Indicate flow of participants;
+    + Illustrate cause and effect relationships or cycles.
+
+(20:10)
 
 ### 5.2
 

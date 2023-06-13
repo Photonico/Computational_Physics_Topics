@@ -668,9 +668,14 @@ After
   + Always cite/go back to primary sources!
   + Assume that other authors have made errors in citing sources.
 
-## Unit 5
+## Unit 5 Tables and Figures
 
-### 5.1
+### 5.1 Tables and Figures
+
++ One more tip on making writing easier
+  + Break your writing task into small and realistic goals.
+    + My goal is to write 400 words today.
+    + My goal is to write the first two paragraphs of the discussion section today.
 
 ### 5.2
 

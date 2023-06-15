@@ -772,6 +772,9 @@ After
     + Give a hypothetical model;
     + Represent microscopic particles or microorganisms as cartoons.
 
++ Figure Legends
+  + Allows the figure to stand alone;
+
 ### 5.2
 
 ### 5.3

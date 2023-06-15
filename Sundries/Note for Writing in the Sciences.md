@@ -800,6 +800,16 @@ After
   + Make it easy to distinguish groups, e.g. triangles vs. circles vs. squares ...;
   + If it is too complex, maybe it belongs in a table.
 
++ Diagrams and Drawings
+  + Illustrate an experimental set-up or work-flow;
+  + Indicate the flow of participants;
+  + Illustrate cause and effect relationships or cycles;
+  + Give a hypothetical model;
+  + Represent microscopic particles or microorganisms as cartoons.
+
++ Besides tables and figures: Movies
+  + Allowed as supplemental material.
+
 ### 5.2 Results
 
 ### 5.3 Practice writing results

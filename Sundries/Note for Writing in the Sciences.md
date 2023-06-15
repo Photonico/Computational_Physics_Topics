@@ -741,6 +741,23 @@ After
   + Omit unnecessary columns;
   + Unify the style!
 
++ Classes of figures:
+  + Image: A broad term for any visual representation.
+    + Picture: A photo or drawing depicting real-world items or scenes.
+    + Snapshot: An image captured at a moment in time; a photo or screen capture.
+    + Rendering: A computer-generated image, often a 2D representation of 3D models.
+    + Illustration: An image or artwork created to explain, decorate, or visually convey information.
+  + Diagram: A simplified graphic representing complex information.
+    + Schematic: A simplified diagram showing components and relationships, often in systems or structures.
+    + Blueprint: A detailed technical drawing, typically of architectural or engineering designs.
+  + Chart: A graphic representation of data.
+    + **Graph: A diagram representing data, usually with lines, bars, or points.
+    + Plot: A specialized chart displaying data points and relationships, e.g., scatter plots, and line plots.
+    + Heatmap: A data visualization showing patterns through color variations, often for correlations or spatial distribution.
+    + Infographic: A visual representation of information, using charts, images, and minimal text.
+  + Map: An image representing geographical areas, with terrain, landmarks, and borders.
+  + Figure: Any visual representation in scientific papers; including graphs, plots, images, or pictures. Used as a general term.
+
 + Type of figures
   + Primary evidence
     + Experiment pictures
@@ -751,7 +768,7 @@ After
   + Drawings and diagrams
     + Illustrate an experimental set-up or work-flow;
     + Indicate flow of participants;
-    + Illustrate cause and effect relationships or cycles.
+    + Illustrate cause-and-effect relationships or cycles.
 
 (20:10)
 

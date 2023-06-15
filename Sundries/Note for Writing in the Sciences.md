@@ -780,7 +780,13 @@ After
   5. Statistical information (test used, p-vales, ...)
 
 + Graphs
-  + 
+  + Line graphs
+  + Scatter graphs
+  + Bar graphs
+  + Individual-value bar graphs
+  + Histograms
+  + Box plots
+  + Survival curves
 
 ### 5.2 Results
 

@@ -781,8 +781,11 @@ After
 
 + Graphs
   + Line graphs
+    + Used to show trends over time, age, does, or other variables.
   + Scatter graphs
   + Bar graphs
+    + Used to compare groups at one time-point;
+    + Tells q quick visual story.
   + Individual-value bar graphs
   + Histograms
   + Box plots

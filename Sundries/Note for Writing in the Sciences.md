@@ -768,9 +768,9 @@ After
   + Drawings and diagrams
     + Illustrate an experimental set-up or work-flow;
     + Indicate flow of participants;
-    + Illustrate cause-and-effect relationships or cycles.
-
-(20:10)
+    + Illustrate cause-and-effect relationships or cycles;
+    + Give a hypothetical model;
+    + Represent microscopic particles or microorganisms as cartoons.
 
 ### 5.2
 

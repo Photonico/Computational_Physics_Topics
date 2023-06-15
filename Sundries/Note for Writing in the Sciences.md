@@ -780,15 +780,19 @@ After
     4. Explanation of panels (Variables definitions, ...)
     5. Statistical information (test used, p-vales, ...)
 
-### 5.2
+### 5.2 Results
 
-### 5.3
+### 5.3 Practice writing results
 
-### 5.4
+### 5.4 Methods
 
-### 5.5
+### 5.5 Introduction
 
-### 5.6
+### 5.6 Introduction practice
+
+### 5.7 Discussion
+
+### 5.8 Abstract
 
 ## Unit 6
 

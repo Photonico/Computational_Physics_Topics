@@ -772,7 +772,7 @@ After
     + Give a hypothetical model;
     + Represent microscopic particles or microorganisms as cartoons.
 
-+ Figure Legends: Allows the figure to stand alone, may contain:
++ Figure Legends: Allows the figure to stand alone, which may contain:
   1. Brief title
   2. Essential experimental details
   3. Definitions of symbols or line/bar patterns
@@ -783,13 +783,22 @@ After
   + Line graphs
     + Used to show trends over time, age, does, or other variables.
   + Scatter graphs
+    + Used to show relationships between two variables (particularly linear correlation);
+    + Allows the reader to see individual data points: more information;
+    + The lines on scatter graphs can draw your eye!
   + Bar graphs
     + Used to compare groups at a time point;
-    + Tells q quick visual story.
+    + Tells a quick visual story.
   + Individual-value bar graphs
   + Histograms
   + Box plots
   + Survival curves
+
++ Tips for Graphs
+  + Tell a quick visual story;
+  + Keep it simple;
+  + Make it easy to distinguish groups, e.g. triangles vs. circles vs. squares ...;
+  + If it is too complex, maybe it belongs in a table.
 
 ### 5.2 Results
 

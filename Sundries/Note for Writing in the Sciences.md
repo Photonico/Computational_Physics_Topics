@@ -773,7 +773,7 @@ After
     + Represent microscopic particles or microorganisms as cartoons.
 
 + Figure Legends
-  + Allows the figure to stand alone;
+  + Allows the figure to stand alone:
 
 ### 5.2
 

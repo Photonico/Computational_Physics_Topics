@@ -772,13 +772,15 @@ After
     + Give a hypothetical model;
     + Represent microscopic particles or microorganisms as cartoons.
 
-+ Figure Legends
-  + Allows the figure to stand alone; May contain:
-    1. Brief title
-    2. Essential experimental details
-    3. Definitions of symbols or line/bar patterns
-    4. Explanation of panels (Variables definitions, ...)
-    5. Statistical information (test used, p-vales, ...)
++ Figure Legends: Allows the figure to stand alone, may contain:
+  1. Brief title
+  2. Essential experimental details
+  3. Definitions of symbols or line/bar patterns
+  4. Explanation of panels (Variables definitions, ...)
+  5. Statistical information (test used, p-vales, ...)
+
++ Graphs
+  + 
 
 ### 5.2 Results
 

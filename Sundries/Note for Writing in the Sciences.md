@@ -817,8 +817,50 @@ After
     + Point out simple relationships;
     + Describe big-picture trends;
     + Cite figures or tables that present supporting data.
+  + Avoid simply repeating the numbers that are already available in tables and figures.
+
+Examples 1:
+> Over the course of treatment, topiramate was significantly more effective than placebo at improving drinking outcomes on drinks per day, drinks per drinking day, percentage of heavy drinking days, percentage of days abstinent, and log plasma-glutamyl transferase ratio (Table 3).
+
+Examples 2:
+> The total suicide rates for Australian men and women did not change between 1991 and 2000 because marked decreases in older men and women (Table 1) were offset by increases in younger adults, especially younger men.
+
++ Tips for writing results
+  + Break into subsections, with headings (if needed);
+  + Complement the information that is already in tables and figures:
+    + Give precise values that are not available in the figure;
+    + Report the percent change or percent difference if absolute values are given in the table;
+  + Repeat/highlight only the most important numbers;
+  + Do not forget to talk about negative and control results;
+  + Reserve the term "significant" for statistically significant;
+  + Reserve information about what you did for the methods section:
+    + In particular, do not discuss the rationale for statistical analyses within the Result section;
+    + The results section is about what you found, not what you did;
+  + Reserve comments on the meaning of your result for the discussion section.
+
++ The goal of the results section is to summarize trends in the data.
+
++ What verb tense do I use?
+  + Use past tense for complete actions:
+    > We found that...
+    > The average reaction time was...
+  + Use the present tense for assertions that continue to be true, such as what the tables show, what you believe, and what the data suggest:
+    > Figure 1 shows...
+    > The finding confirm...
+    > The data suggest...
+    > We believe that...
+
++ Use the active voice
+  + More lively!
+  + Since you can talk about the subjects of your experiments, "we" can be used sparingly while maintaining the active voice.
 
 ### 5.3 Practice writing results
+
+Before:
+> The majority of runners ran during pregnancy (70.0%, 77/110), with 62.7% running during the first trimester, 51.8% during the second trimester, and fewer than one third (30.9%) during the third trimester (Table 2). From the 77 women who ran during pregnancy, we observed the average weekly mileage during pregnancy for those who ran to be 20.3 ± 9.3 miles. Average running intensity was reported to be 47.9% ± 21.0% as a percent of non-pregnant running effort. A small number (3.9%, 3/77) reported sustaining a running injury while pregnant. About a quarter (24.8%) waited 5-7 weeks to resume running post-partum. A small fraction (5.7%) resumed running less than a week after giving birth. Some women (11.4%) waited more than six months post-partum to resume running.
+
+After:
+> Seventy percent of runners can during pregnancy (n=77), and almost one third ran during their third trimester (Table 2). On average, those who ran greatly curtailed their training - running 20.3 ± 9.3 miles per week and cutting their intensity to half of their non-pregnant running effort. Three reported sustaining a running injury while pregnant. In the post-partum period, nearly one quarter resumed running by two weeks after giving birth; most resumed running by two months.
 
 ### 5.4 Methods
 

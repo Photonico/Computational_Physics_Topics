@@ -812,6 +812,12 @@ After
 
 ### 5.2 Results
 
++ Results != Raw data
+  + The results section should:
+    + Point out simple relationships;
+    + Describe big-picture trends;
+    + Cite figures or tables that present supporting data.
+
 ### 5.3 Practice writing results
 
 ### 5.4 Methods

@@ -185,7 +185,7 @@ Before
 After
 > Figure 2 shows that a return kinetic energy less than 2.3 U_p yields two electron trajectories.
 
-## Unit 2 Writing with Strong
+## Unit 2 Writing with strong
 
 ### 2.1 Use the active voice
 
@@ -542,7 +542,7 @@ Before
 After
 > Metal ions' intake cuts both ways in food components. Our bodies require trace metals, such as Fe and Cu ions, to maintain normal functions. However, studies have demonstrated that excessive intake contributes to pathological events, such as Parkinson's disease [1]; oxidative damage [2]; cancer [3], and premature aging [4].
 
-## Unit 4 More paragraph practice
+## Unit 4 Writing steps
 
 ### 4.1 More paragraph practice
 
@@ -668,7 +668,7 @@ After
   + Always cite/go back to primary sources!
   + Assume that other authors have made errors in citing sources.
 
-## Unit 5 Tables and Figures
+## Unit 5 Main contents
 
 + One more tip on making writing easier
   + Break your writing task into small and realistic goals.
@@ -1082,9 +1082,15 @@ After:
 + The two forms of Abstract
   + The abstract may be structured (with subheadings), or free form.
 
-## Unit 6
+## Unit 6 Publication process
 
-### 6.1
+### 6.1 Plagiarism
+
++ Plagiarism of others' work
+  + Passing off others' writing (or table and figures) as your own:
+    + Cutting and pasting sentences or even phrases from another source;
+    + Slightly rewriting or re-arranging others' words;
+    + "Borrowing" material from sites like Wikipedia.
 
 ### 6.2
 
@@ -1129,7 +1135,3 @@ After:
 ### 8.6
 
 ### 8.7
-
-+ Temp
-
-Table 2 shows VAS scores at 24 weeks of 2.97 (95% CI 2.38-3.56) and (95% CI 2.29-3.47) in the glucosamine and placebo groups with adjusted mixed-effects regression model. The estimated mean difference of 0.09 (95% CI - 0.75 to 0.95) does not indicate a significant difference.

@@ -914,7 +914,7 @@ After:
     + How were the study participants selected?
     + How were patients recruited?
     + How was the sample size determined?
-    + How were study participants assigned to group?
+    + How were study participants assigned to groups?
     + How was response measured?
     + How were endpoints measured?
     + How were control and disease groups defined?
@@ -923,6 +923,14 @@ After:
     + Why was a selected analytical method chosen?
     + Why was a selected experiment performed?
     + Why were experiments done in a certain order?
+
++ Materials and Methods
+  + Materials
+  + Participants/Subjects
+  + Experimental protocol/Study design
+  + Measurements
+    + How were the dependent and independent variables measured.
+  + Analyses
 
 ### 5.5 Introduction
 

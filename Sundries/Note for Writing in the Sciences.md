@@ -1130,4 +1130,6 @@ After:
 
 ### 8.7
 
++ Temp
+
 Table 2 shows VAS scores at 24 weeks of 2.97 (95% CI 2.38-3.56) and (95% CI 2.29-3.47) in the glucosamine and placebo groups with adjusted mixed-effects regression model. The estimated mean difference of 0.09 (95% CI - 0.75 to 0.95) does not indicate a significant difference.

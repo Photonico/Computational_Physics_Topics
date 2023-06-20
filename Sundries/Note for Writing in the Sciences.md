@@ -948,10 +948,12 @@ After:
     > Data are summarized as mean ± SD.
 
 + It is OK to use the passive voice or even to use a combination
-  + Passive voice: Emphasizes the method or variable:
-    + Oral temperatures were measured.
-  + Acive voice: More lively, but sacrifices having the material, method, or variable as the subject of the sentence; It requires creativity to avoid starting every sentence with "We".
-    + We measured oral temperatures.
+
++ Passive voice: Emphasizes the method or variable:
+  + Oral temperatures were measured.
+
++ Active voice: More lively, but sacrifices having the material, method, or variable as the subject of the sentence; It requires creativity to avoid starting every sentence with "We".
+  + We measured oral temperatures.
 
 ### 5.5 Introduction
 

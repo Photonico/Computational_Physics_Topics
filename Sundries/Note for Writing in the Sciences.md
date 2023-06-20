@@ -873,7 +873,7 @@ After:
     + Display in a flow diagram or table where possible;
   + You may use jargon and the passive voice more liberally in the methods section.
 
-+ Who, what, when, where, how, and why
++ Who, what, when, where, how, and why question to consider when writing the Methods section
   + Who
     + Who maintained the records?
     + Who reviewed the data?
@@ -897,37 +897,32 @@ After:
     + What control studies were performed?
     + What validation experiments were performed?
   + When
-    + When ?
-    + When ?
-    + When ?
-    + When ?
-    + When ?
-    + When ?
-    + When ?
-    + When ?
+    + When were specimens collected?
+    + When were the analyses performed?
+    + When was the study initiated?
+    + When was the study terminated?
+    + When were the diagnoses made?
+  + Where
+    + Where were the records kept?
+    + Where were the specimens analyzed?
+    + Where were the study participants enrolled?
+    + Where was the study performed?
   + How
-    + How ?
-    + How ?
-    + How ?
-    + How ?
-    + How ?
-    + How ?
-    + How ?
-    + How ?
-    + How ?
-    + How ?
-    + How ?
-    + How ?
+    + How were samples collected, processed and stored?
+    + How many replicates were performed?
+    + How was the data reported?
+    + How were the study participants selected?
+    + How were patients recruited?
+    + How was the sample size determined?
+    + How were study participants assigned to group?
+    + How was response measured?
+    + How were endpoints measured?
+    + How were control and disease groups defined?
   + Why
-    + Why?
-    + Why?
-    + Why?
-    + Why?
-    + Why?
-    + Why?
-    + Why?
-    + Why?
-    + Why?
+    + Why was a species chosen?
+    + Why was a selected analytical method chosen?
+    + Why was a selected experiment performed?
+    + Why were experiments done in a certain order?
 
 ### 5.5 Introduction
 

@@ -345,10 +345,10 @@ After
 + The word "data" is plural.
   > These data show an unusual trend.
 
-+ "Affect" is the verb "to influence".
++ "Affect" is a verb means "to influence".
   > The class affected her.
 
-+ "Effect" is the noun form of this influence.
++ "Effect" is a noun that means the form of this influence.
   > The class had an effect on her.
 
 + Affect as a noun, denotes feeling or emotion shown by facial expression or body language.
@@ -995,6 +995,11 @@ After:
   + Summarize at a high level. Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
 
 ### 5.7 Discussion
+
++ Features of Discussion
+  + Gives you the most freedom;
+  + Gives you the most chance to put good writing on display;
+  + Is the most challenging to write.
 
 ### 5.8 Abstract
 

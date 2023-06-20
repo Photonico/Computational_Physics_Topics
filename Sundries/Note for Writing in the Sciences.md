@@ -844,7 +844,7 @@ Examples 2:
   + Use past tense for complete actions:
     > We found that...
     > The average reaction time was...
-  + Use the present tense for assertions that continue to be true, such as what the tables show, what you believe, and what the data suggest:
+  + Use the present tense for assertions that continue to be true, such as what the tables show, what you believe, and what the data suggest
     > Figure 1 shows...
     > The finding confirm...
     > The data suggest...
@@ -863,6 +863,71 @@ After:
 > Seventy percent of runners can during pregnancy (n=77), and almost one third ran during their third trimester (Table 2). On average, those who ran greatly curtailed their training - running 20.3 ± 9.3 miles per week and cutting their intensity to half of their non-pregnant running effort. Three reported sustaining a running injury while pregnant. In the post-partum period, nearly one quarter resumed running by two weeks after giving birth; most resumed running by two months.
 
 ### 5.4 Methods
+
++ Methods and Materials
+  + Give a clear overview of what was done;
+  + Give enough information to replicate the study (like a recipe);
+  + Be complete, but make life easy for your reader:
+    + Break into smaller sections with subheadings;
+    + Cite a reference for commonly used methods;
+    + Display in a flow diagram or table where possible;
+  + You may use jargon and the passive voice more liberally in the methods section.
+
++ Who, what, when, where, how, and why
+  + Who
+    + Who maintained the records?
+    + Who reviewed the data?
+    + Who collected the specimens?
+    + Who enrolled the study participants?
+    + Who supplied the reagents?
+    + Who made the primary diagnosis?
+    + Who did the statistical analysis?
+    + Who reviewed the protocol for ethics approval?
+    + Who provided the funding?
+  + What
+    + What reagents, methods, and instruments were used?
+    + What type of study was it?
+    + What were the inclusion and exclusion criteria for enrolling study participants?
+    + What protocol was followed?
+    + What treatments were given?
+    + What endpoints were measured?
+    + What data transformation was performed?
+    + What statistical software package was used?
+    + What was the cutoff for statistical significance?
+    + What control studies were performed?
+    + What validation experiments were performed?
+  + When
+    + When ?
+    + When ?
+    + When ?
+    + When ?
+    + When ?
+    + When ?
+    + When ?
+    + When ?
+  + How
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+    + How ?
+  + Why
+    + Why?
+    + Why?
+    + Why?
+    + Why?
+    + Why?
+    + Why?
+    + Why?
+    + Why?
+    + Why?
 
 ### 5.5 Introduction
 

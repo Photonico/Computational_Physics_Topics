@@ -659,10 +659,10 @@ After
 
 + Check your references
   + Do you have "references to nowhere"?
-  + Reference does not provide the indicated information/fact:
-    + Authors misinterpreted or exaggerated the findings from the original source;
+  + The reference does not provide the indicated information/fact:
+    + Authors misinterpreted or exaggerated the findings from the source;
     + Reference cites a secondary source rather than a primary source (Citation propagation);
-    + Authors misnumbered the references.
+    + The authors misnumbered the references.
 
 + Take-home message
   + Always cite/go back to primary sources!
@@ -1010,7 +1010,7 @@ After:
   + Give the "big-picture" take-home message.
 
 + Organize the Discussion
-  + Key finding (answer to the questions asked in Introduction):
+  + Key finding (answer to the questions asked in the Introduction):
     + Start with: "We found that..."(or something similar);
     + Explain what data mean (big-picture);
     + State if the findings are novel.
@@ -1043,7 +1043,40 @@ After:
   + Focus on the limitations that matter, not generic limitations (be specific);
   + Make sure your take-home message is clear and consistent.
 
++ What NOT to do
+  + Do not start your discussion section with the limitations;
+
++ Verb tense in the discussion section.
+  + The past voice: when referring to study details, results, analyses, and background research:
+    + We found that...
+    + Subjects may have experienced...
+    + Miller et al. found...
+  + The present voice: when talking about what the data suggest:
+
 ### 5.8 Abstract
+
++ About Abstract
+  + Abstract means "to pull out":
+    + Overview of the main story;
+    + Gives highlights from each section of the paper;
+    + Limited length: 100 - 300 words, typically;
+    + Stands on its own;
+    + Most often, the only part people read;
+    + Write the abstract after writing the paper.
+
++ Abstract components
+  + Background;
+  + Question/aim/hypothesis
+    + We asked whether, ...
+    + We hypothesized that...
+  + Experiments
+    + Quick summary of key materials and methods.
+  + Results
+    + Key results found;
+    + Minimal raw data (prefer summaries).
+  + Conclusion
+    + The answer to the question asked, or take-home message.
+  + implication, speculation, or recommendation
 
 ## Unit 6
 

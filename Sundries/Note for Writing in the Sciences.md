@@ -57,7 +57,7 @@ Elegant and stylish writing happens in revision, not on the first draft, even fo
   + Stop waiting for 'inspiration';
   + Accept that writing is hard for everyone, even professional writers;
   + Revise. Nobody gets it perfect on the first try;
-  + Learn how to cut ruthlessly, never become too attached to your words;
+  + Learn how to cut ruthlessly, and never become too attached to your words;
   + Find a good editor;
   + Take risks.
 
@@ -69,7 +69,7 @@ Elegant and stylish writing happens in revision, not on the first draft, even fo
   + Is this sentence readable?
   + Is it written to inform or to obscure?
 
-+ Really the scientific literature should be enjoyable and interesting to read. The point of scientific writing is to inform.
++ The scientific literature should be enjoyable and interesting to read. The point of scientific writing is to inform.
 
 + The verbs drive sentences whereas nouns slow them down.
 
@@ -138,7 +138,7 @@ Elegant and stylish writing happens in revision, not on the first draft, even fo
 
 + A few other small tricks
   + Eliminate negatives
-  + Eliminate superfluous uses of 'there are / there is'
+  + Eliminate superfluous uses of "there are" / "there is"
   + Omit needless prepositions
 
 + Use an exciting verb rather than a 'to be' verb.
@@ -196,8 +196,8 @@ Use strong verbs, avoid turning verbs into nouns, and keep the subject and main 
 
 + Passive voice
   + A form of the verb "to be" + the past participle of the main verb;
-  + The main verb must be a transitive verb;
-  + Passive voice usually takes out the responsible party.
+  + The main verb must be transitive;
+  + The passive voice usually takes out the responsible party.
 
 + To turn the passive voice back to the active voice
   + Who does what to whom? - The agent.
@@ -210,7 +210,7 @@ Use strong verbs, avoid turning verbs into nouns, and keep the subject and main 
 + Is it ever OK to use the passive voice?
   + Yes! The passive voice exists in the English language for a reason. Just use it sparingly and purposefully. For example, passive voice may be appropriate in the methods section where what was done is more important than who did it.
 
-### 2.2 Is it really OK to use 'We' and 'I'
+### 2.2 Is it OK to use 'We' and 'I'
 
 + It's okay to use personal pronouns.
   + The active voice is livelier and easier to read;
@@ -360,11 +360,11 @@ After
 + That vs. which
   + That: the restrictive (defining) pronoun;
     > The vial that contained her RNA was lost.
-  + Which: the nonrestrictive (no-defining) pronun.
+  + Which: the nonrestrictive (no-defining) pronoun.
     > The vial, which contained her RNA, was lost.
 
 + Key question: Is your clause essential or non-essential?
-  + That: The essential clause cannot be eliminated without changing the meaning of the meaning of the sentence;
+  + That: The essential clause cannot be eliminated without changing the meaning of the sentence;
   + Which: The non-essential clause can be eliminated without altering the basic meaning of the sentence (and must be set off by commas).
 
 > Care writers, watchful for small conveniences, go which-hunting, remove the defining whiches, and by doing so improve their work. Strunk and White.
@@ -398,7 +398,7 @@ After
   Dash → Parentheses → The Others (Comma, Colon, Semicolon, Period)
 
 + Semicolon
-  + The semicolon connects two independent clauses. A clause always contains a subject and perdicate; an independent clause can stand alone as a complete sentence.
+  + The semicolon connects two independent clauses. A clause always contains a subject and predicate; an independent clause can stand alone as a complete sentence.
   + Semicolons are also used to separate items in lists that contain internal punctuation.
 
 + Parenthesis (parenthetical expression)
@@ -439,7 +439,7 @@ After
 
 Pairs of ideas joined by "and", "or", or "but" should be written in parallel form.
 
-+ List of ideas should be written in parallel form:
++ A list of ideas should be written in parallel form:
   + Unparallel
   > Locusts denuded fields in Utah, rural Iowa was washed away by torrents, and in Arizona, the cotton was shriveled by the placing heat.
   + Parallel
@@ -457,14 +457,14 @@ Paragraph-level tips:
   + Present the main findings or conclusions at the beginning of a scientific paper.
 
 + Paragraph flow is helped by:
-  + logical flow of ideas
+  + A logical flow of ideas
   + parallel sentence structures
   + if necessary, transition words
 
 + Your reader remembers the first sentence and the last sentence best. Make the last sentence memorable. Emphasis at the end.
 
-+ Logical flow of ideas:
-  + Sequential in time: avoid the "Memento" approach in scienific writing;
++ A logical flow of ideas:
+  + Sequential in time: avoid the "Memento" approach in scientific writing;
   + General → specific: take-home message first;
   + Logical arguments: if "a" then "b"; "a" therefore "b".
 
@@ -502,14 +502,14 @@ After
 
 + When you find yourself reaching for the thesaurus to avoid using a word twice within the same sentence or even paragraph, ask:
   + Is the second instance of the word even necessary?
-  + If the word is needed, is a synonym really better than just repeating the word? 
+  + If the word is needed, is a synonym better than just repeating the word?
     + challenges/difficulties
     + illustrate/demonstrate
     + teaches/guides
 
 + A note on repetition
-  + In many cases it's preferable to just repeat the word.
-  + In scientific writing, it's actually essential that you repeat a word.
+  + In many cases, it's preferable to just repeat the word.
+  + In scientific writing, you must repeat a word.
   + Repeat the keywords.
     + names of comparison groups, variables, or instruments.
 
@@ -529,7 +529,7 @@ After
   > Recall miR instead of microRNA
   + Use only standard acronyms/initialisms. Do not make them up.
   > RNA
-  + If you must use acronyms, define them separately in the abstract, each table/figure, and the text. For long paper, redefine occasionally (as readers do not typically read from start to finish).
+  + If you must use acronyms, define them separately in the abstract, each table/figure, and the text. For long papers, redefine occasionally (as readers do not typically read from start to finish).
 
 + Reference
   Henry W. Fowler on [Elegant Variation](http://www.bartleby.com/116/302.html)
@@ -617,10 +617,7 @@ After
     > There [are] many students who struggle with chemistry.
   + Passive verbs;
     > The reaction [was] observed by her.
-  + Buried verbs: place the subject and verb early and close together. 
-
-
-
+  + Buried verbs: place the subject and verb early and close together.
 
 + Cut the clutter: do not be afraid to cut! Watch for:
   + Deadweight words and phrases;
@@ -873,7 +870,7 @@ After:
     + Display in a flow diagram or table where possible;
   + You may use jargon and the passive voice more liberally in the methods section.
 
-+ Who, what, when, where, how, and why question to consider when writing the Methods section
++ Who, what, when, where, how, and why questions to consider when writing the Methods section
   + Who
     + Who maintained the records?
     + Who reviewed the data?
@@ -932,7 +929,45 @@ After:
     + How were the dependent and independent variables measured.
   + Analyses
 
++ Make life easy for your reader.
+  + Break into smaller sections with subheadings;
+  + Cite a reference for commonly used methods or previously used methods rather than explaining all the details;
+  + Display in a flow diagram or table where possible;
+
++ Example subheadings
+  + Methods
+    + Subjects and experimental protocols
+    + Hardware
+    + GPS data processing
+    + Wind
+
++ Ver tense in the Method section
+  + Report methods in the past tense:
+    > We measured...
+  + But use present tense to describe how data are presented in the paper:
+    > Data are summarized as mean ± SD.
+
++ It is OK to use the passive voice or even to use a combination
+  + Passive voice: Emphasizes the method or variable:
+    > Oral temperatures were measured.
+  + Acive voice: More lively, but sacrifices having the material, method, or variable as the subject of the sentence; It requires creativity to avoid starting every sentence with "We".
+    > We measured oral temperatures.
+
 ### 5.5 Introduction
+
++ About Introduction
+  + Good news: The introduction is easier to write than you may realize;
+  + Follows a fairly standard format;
+  + Typically 3 paragraphs long;
+    + Recommended range: 2 to 5;
+  + It is not an exhaustive review of your general topic:
+    + Should focus on the specific hypothesis/aim of your study.
+
++ The order of introduction
+  + Background, know information
+  + Knowledge gap, unknown information
+  + Hypothesis, question, purpose statement
+  + Approach, plan of attack, and proposed solution
 
 ### 5.6 Introduction practice
 

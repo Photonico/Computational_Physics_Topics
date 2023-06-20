@@ -949,9 +949,9 @@ After:
 
 + It is OK to use the passive voice or even to use a combination
   + Passive voice: Emphasizes the method or variable:
-    > Oral temperatures were measured.
+    + Oral temperatures were measured.
   + Acive voice: More lively, but sacrifices having the material, method, or variable as the subject of the sentence; It requires creativity to avoid starting every sentence with "We".
-    > We measured oral temperatures.
+    + We measured oral temperatures.
 
 ### 5.5 Introduction
 
@@ -992,9 +992,7 @@ After:
     > We tested the hypothesis that...
     > Our aims were...
   + Do not answer the research question (no result or implications)!
-  + Summarize at high level. Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
-
-### 5.6 Introduction practice
+  + Summarize at a high level. Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
 
 ### 5.7 Discussion
 

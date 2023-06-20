@@ -959,7 +959,7 @@ After:
   + Good news: The introduction is easier to write than you may realize;
   + Follows a fairly standard format;
   + Typically 3 paragraphs long;
-    + Recommended range: 2 to 5;
+    + Recommended range: 3 to 5;
   + It is not an exhaustive review of your general topic:
     + Should focus on the specific hypothesis/aim of your study.
 
@@ -968,6 +968,31 @@ After:
   + Knowledge gap, unknown information
   + Hypothesis, question, purpose statement
   + Approach, plan of attack, and proposed solution
+
++ Corresponds to roughly 3 - 5 paragraphs
+  + Paragraph 1: What's known
+  + Paragraph 2: What's unknown
+    + Limitations and gaps in previous studies
+  + Paragraph 3:
+    + Your burning question, hypothesis, or aim
+    + Your experimental approach
+  + Paragraph 4:
+    + Why your experimental approach is new, different, or important (fills in the gaps)
+
++ Tips for Writing an Introduction
+  + Keep paragraphs short;
+  + Write for a general audience:
+    + Clear, concise, non-technical
+  + Take the reader step by step from what is known to what is unknown. End with your specific question;
+    + Known → Unknown → Question or Hypothesis
+  + Emphasize how your study fills in the gaps (the unknown);
+  + Explicitly state your research question, aim, or hypothesis;
+    > We asked whether...
+    > Our hypothesis was...
+    > We tested the hypothesis that...
+    > Our aims were...
+  + Do not answer the research question (no result or implications)!
+  + Summarize at high level. Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
 
 ### 5.6 Introduction practice
 

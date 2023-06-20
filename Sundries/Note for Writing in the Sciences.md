@@ -1090,9 +1090,23 @@ After:
   + Passing off others' writing (or table and figures) as your own:
     + Cutting and pasting sentences or even phrases from another source;
     + Slightly rewriting or re-arranging others' words;
-    + "Borrowing" material from sites like Wikipedia.
+    + "Borrowing" material from sites like Wikipedia without citing.
 
-### 6.2
++ When writing about others' ideas or work:
+  + You need to understand the material well enough to put it in your own words;
+  + Work from memory;
+  + Draw your conclusion;
+  + Do NOT mimic the original authors' sentence structure or just re-arrange the original author's words.
+
++ Self-plagiarism and duplication
+  + Recycling your previous writing or data, including:
+    + Copying or only slightly rewriting text from your previously published papers;
+    + Adding new data to already published data and presenting it as new results;
+    + Submitting identical or overlapping data to multiple journals.
+
+### 6.2 Authorship
+
++ Authorship
 
 ### 6.3
 

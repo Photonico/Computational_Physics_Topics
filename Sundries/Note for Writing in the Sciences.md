@@ -963,7 +963,7 @@ After:
   + It is not an exhaustive review of your general topic:
     + Should focus on the specific hypothesis/aim of your study.
 
-+ The order of introduction
++ The Order of Introduction
   + Background, know information
   + Knowledge gap, unknown information
   + Hypothesis, question, purpose statement
@@ -1000,6 +1000,46 @@ After:
   + Gives you the most freedom;
   + Gives you the most chance to put good writing on display;
   + Is the most challenging to write.
+
++ The Order of Discussion
+  + Answer the question asked;
+  + Support your conclusion (your data, other's data);
+  + Defend your conclusion (anticipate criticisms);
+  + Give the "big-picture" take-home message.
+
++ Organize the Discussion
+  + Key finding (answer to the questions asked in Introduction):
+    + Start with: "We found that..."(or something similar);
+    + Explain what data mean (big-picture);
+    + State if the findings are novel.
+  + Key secondary findings
+  + Context
+    + Give possible mechanisms or pathways;
+    + Compare your results with other's results;
+    + Discuss how your findings support or challenge the paradigm.
+  + Strengths and limitations:
+    + Anticipate readers' questions or criticisms;
+    + Explain why your results are robust;
+  + What's next:
+    + Recommended confirmatory studies (what is needed to be confirmed.);
+    + Point out unanswered questions and future directions.
+  + The "So what?": implicate, speculate, recommend:
+    + Give the big-picture (human) implications of basic science findings;
+    + Tell readers why they should care.
+  + Strong conclusion
+    + Restate your main findings;
+    + Give a final take-home message.
+
++ Tips for Writing a Discussion
+  + Showcase good writing!
+    + Use the active voice;
+    + Tell it like a story.
+  + Start and end with the main finding;
+    > We found that...
+  + Do not travel too far from your data;
+    + Focus on what your data do prove, not what you had hoped your data would prove!
+  + Focus on the limitations that matter, not generic limitations (be specific);
+  + Make sure your take-home message is clear and consistent.
 
 ### 5.8 Abstract
 

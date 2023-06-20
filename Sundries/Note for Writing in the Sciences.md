@@ -926,7 +926,7 @@ After:
   + Participants/Subjects
   + Experimental protocol/Study design
   + Measurements
-    + How were the dependent and independent variables measured.
+    + How were the dependent and independent variables measured?
   + Analyses
 
 + Make life easy for your reader.

@@ -1076,7 +1076,11 @@ After:
     + Minimal raw data (prefer summaries).
   + Conclusion
     + The answer to the question asked, or take-home message.
-  + implication, speculation, or recommendation
+  + Ends of abstract
+    + Implication, speculation, or recommendation.
+
++ The two forms of Abstract
+  + The abstract may be structured (with subheadings), or free form.
 
 ## Unit 6
 

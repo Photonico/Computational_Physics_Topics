@@ -1106,7 +1106,25 @@ After:
 
 ### 6.2 Authorship
 
-+ Authorship
++ Who gets authorship?
+  + Any author listed on the paper's title page should take public responsibility for its content;
+
++ In what order?
+  + Order implies authors' relative contributions (except for the senior author position).;
+  + The senior author (head of the lab or research team) often appears as the last-listed author;
+  + Papers may have dual first authors;
+  + For fairness, alphabetical or reverse alphabetical order may be used if researchers have contributed equally;
+  + Large working groups may be cited as a group.
+
++ Acknowledgments
+  + Funding sources
+  + Contributors who did not get authorship (e.g. offered materials, advice, or consultation that were not significant enough to merit authorship).
+
++ Ghost authors
+  + Writers-for-hire who draft manuscripts (usually for companies), but are not listed as authors.
+
++ Guest or "honorary" authors
+  + Academic researchers who are minimally involved in a paper, but "lend" their name as an author (often first author) to bolster the paper's credibility.
 
 ### 6.3
 

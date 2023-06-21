@@ -1126,17 +1126,24 @@ After:
 + Guest or "honorary" authors
   + Academic researchers who are minimally involved in a paper, but "lend" their name as an author (often first author) to bolster the paper's credibility.
 
-### 6.3
+### 6.3 The Submission Process
 
-### 6.4
++ Submission process
+  + Identify a journal for submission (ideally before writing);
+  + Follow the online "instruction for authors" for writing and formatting the manuscript;
+  + Submit your manuscript online (corresponding author):
+    + All authors must fill out and sign copyright transfer and conflict, or interest forms (often done offline);
+  + Possible outcomes:
+    + accepted
+    + accepted pending minor revisions
+    + rejected but re-submission is possible
+    + rejected and no resubmission is possible
+  + Revision and resubmission:
+    + re-submit with a cover letter that addresses the reviewer's critiques point by point.
+  + Once accepted, carefully review the final proofs.
 
-### 6.5
-
-### 6.6
-
-### 6.7
-
-### 6.8
++ When responding to reviewers' critiques of your paper: 
+  + You should respond to every criticism, even if you don't make the change that the reviewer requested.
 
 ## Unit 7
 

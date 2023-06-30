@@ -284,7 +284,7 @@ If there is no agent, we can assume it's the authors of that article.
     + Offer confirmation of             → confirm
     + Make a decision                   → decide
     + Shows a peak                      → peaks
-    + Provide a description of          → describe
+    + "Provide a description of"        → describe
 
 + Do not bury the main verb
   + Keep the subject and main verb: (Predicate) close together at the start of the sentence.
@@ -345,16 +345,16 @@ After
 + The word "data" is plural.
   > These data show an unusual trend.
 
-+ "Affect" is a verb means "to influence".
++ Affect as a verb, denotes "to influence".
   > The class affected her.
 
-+ "Effect" is a noun that means the form of this influence.
++ Effect as a noun, denotes the form of this influence.
   > The class had an effect on her.
 
 + Affect as a noun, denotes feeling or emotion shown by facial expression or body language.
   > The soldiers seen on television had been carefully chosen for blandness of effect.
 
-+ Effect is a verb, it means to bring about or to cause.
++ Effect as a verb, denotes to bring about or to cause.
   > to effect a change.
 
 + That vs. which
@@ -418,7 +418,7 @@ After
   > A dash is a mark of separation stronger than a comma, less formal than a colon, and more relaxed than paratheses. - Strunk and White
   > Use a dash only when a more common mark of punctuation seems inadequate. - Strunk and White
 
-### 3.2 Practice, colon and dash
+### 3.2 Practice, colon, and dash
 
 Before
 > Evidence-based medicine teaches clinicians the practical application of clinical epidemiology, as needed to address specific problems of specific patients. It guides clinicians on how to find the best evidence relevant to a specific problem, how to assess the quality of that evidence, and perhaps most difficult, how to decide if the evidence applies to a specific patient.
@@ -686,7 +686,7 @@ After
 ### 5.1 Tables and Figures
 
 + Tales and Figures are the foundation of your story.
-  + Editors, reviewers, and readers may look first (and maybe only) at titles, abstracts, tables and figures.
+  + Editors, reviewers, and readers may look first (and maybe only) at titles, abstracts, tables, and figures.
   + Figures and tables should stand alone and tell a complete story. The reader should not need to refer back to the main text.
 
 + Tips on Tables and Figures
@@ -905,7 +905,7 @@ After:
     + Where were the study participants enrolled?
     + Where was the study performed?
   + How
-    + How were samples collected, processed and stored?
+    + How were samples collected, processed, and stored?
     + How many replicates were performed?
     + How was the data reported?
     + How were the study participants selected?
@@ -1142,7 +1142,7 @@ After:
     + re-submit with a cover letter that addresses the reviewer's critiques point by point.
   + Once accepted, carefully review the final proofs.
 
-+ When responding to reviewers' critiques of your paper: 
++ When responding to reviewers' critiques of your paper:
   + You should respond to every criticism, even if you don't make the change that the reviewer requested.
 
 ## Unit 7

@@ -284,7 +284,6 @@ If there is no agent, we can assume it's the authors of that article.
     + Offer confirmation of             → confirm
     + Make a decision                   → decide
     + Shows a peak                      → peaks
-    + "Provide a description of"        → describe
 
 + Do not bury the main verb
   + Keep the subject and main verb: (Predicate) close together at the start of the sentence.
@@ -1150,6 +1149,24 @@ After:
 + Writing does not necessarily require ornate writing skills.
 
 ### 6.5 Interview with Dr. George Lundberg
+
++ Avoid list
+  + Submitting an article to journals poorly suited to the piece;
+  + Writing an article that is too long;
+  + Ignoring the instructions to authors;
+  + Drawing conclusions that go beyond the data.
+
++ Increase the authors' chances of getting published
+  + Be appropriately humble;
+  + Be willing to take chances;
+  + Be ambitious, yet also realistic;
+  + Find the right journal for your work;
+  + Follow the instructions for authors;
+  + Allow time for editing and collaboration.
+
++ Advice to young scientists
+  + Respect the process, but maintain your confidence;
+  + 
 
 ### 6.6 Interview with Dr. Gary Friedman
 

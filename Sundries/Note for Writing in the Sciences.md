@@ -1166,7 +1166,8 @@ After:
 
 + Advice to young scientists
   + Respect the process, but maintain your confidence;
-  + 
+
++ Rejection happens to everyone. High-impact journals reject unsolicited manuscripts at a rate of 95%.
 
 ### 6.6 Interview with Dr. Gary Friedman
 

@@ -1145,6 +1145,18 @@ After:
 + When responding to reviewers' critiques of your paper:
   + You should respond to every criticism, even if you don't make the change that the reviewer requested.
 
+### 6.4 Interview with Dr. Bradley Efron
+
++ Writing does not necessarily require ornate writing skills.
+
+### 6.5 Interview with Dr. George Lundberg
+
+### 6.6 Interview with Dr. Gary Friedman
+
+### 6.7 Doing a peer view
+
+### 6.8 Predatory journals
+
 ## Unit 7
 
 ### 7.1

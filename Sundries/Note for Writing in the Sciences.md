@@ -1177,6 +1177,15 @@ After:
   + Either make the changes or argue effectively as to why you did not;
   + Respond via a cover letter for the revised manuscript.
 
++ Anticipate occurring in the publication process over the next decade
+  + Open-access publishing in science and medicine will become the rule;
+
++ The last tips
+  + Follow the instructions;
+  + Choose a journal that fits your study;
+  + Do what the editor wants you to do;
+  + Rely on collaborators that you trust.
+
 ### 6.6 Interview with Dr. Gary Friedman
 
 ### 6.7 Doing a peer view

@@ -1402,6 +1402,18 @@ Content of peer review
 
 ### 7.2 Grants I
 
++ Why submit a research proposal
+  + Clarifies and deepens your thinking;
+  + Increases productivity and impact;
+  + Critical in all career paths;
+  + Securing funding is an accomplishment and has positive career benefits;
+
++ Start early and gather critical information
+  + Compile possible funding opportunities;
+  + Gather critical information:
+    + Instructions;
+    + Funded and unfunded examples.
+
 ### 7.3 Grants II
 
 ### 7.4 Grants III

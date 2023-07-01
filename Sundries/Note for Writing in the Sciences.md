@@ -808,7 +808,7 @@ After
 
 ### 5.2 Results
 
-+ Results != Raw data
++ Results ≠ Raw data
   + The results section should:
     + Point out simple relationships;
     + Describe big-picture trends;
@@ -1231,21 +1231,184 @@ After:
 
 ### 6.7 Doing a peer view
 
+If you are the reviewer, a few tips as follows
+
++ Tone
+  + Assume there is some poor graduate student on the other end who did all the work, and whose confidence and career depend on your critique;
+  + Tone Matters!
+  + Avoid criticizing the authors, criticize the work;
+  + Avoid generalizations; point out specific errors;
+  + Avoid "lecturing" to the authors;
+  + Use positive instead of negative language where possible;
+
++ Types of peer review
+  + Single-blind: Most common; authors are blinded to the reviewers;
+  + Double-blind: Reviewers are additionally blinded to authors;
+  + Open: Neither reviewers nor authors are blinded; reviewers' names (and reviews) may be publicly available;
+  + Post-publication peer review: Blogs, comments, etc.
+
+Process of peer review
+
++ Scan the abstract;
+
++ Jump to the data: review the tables and figures first:
+  + Draw your conclusions;
+  + Do the tables and figures stand on their own?
+  + Are there any obvious statistical errors?
+  + Is there repetitive information?
+
++ Read the paper once through:
+  + Do the author's conclusions match their data?
+  + Is the paper written clearly, or did you struggle to get through it? You should not have to struggle;
+  + Is the length of the paper justified given the amount of new information that the data provide?
+
++ Read the introduction carefully:
+  + Is it sufficiently succinct?
+  + Does it roughly follow: know → unknown → research question/hypothesis?
+  + Is there a clear statement of the hypotheses or aim of the study?
+  + Is there detailed information about what was done that belongs in the methods?
+  + Is there information about what was found that belongs in the results?
+  + Is there distracting information about previous studies or mechanisms that are not directly relevant to the hypothesis being tested? If so, it should be moved to discussion.
+  + Do the authors tell you what gaps in the literature they are trying to fill in?
+
++ Read the methods carefully:
+  + Scan the section to find answers to your questions about the data;
+  + Were things measured objectively or subjectively? What instruments were used?
+  + Are there flaws in the study design? Such as no control group?
+  + Read the statistics section carefully;
+
++ Read the results carefully:
+  + Read this section with the tables and figures in front of you;
+  + Does each section roughly correspond to one table or figure?
+  + Do the authors summarize the main trends and themes from the table, or do they just repeat what is in the table?
+  + If there are graphs, do they try to draw your eye to what they want you to see?
+  + Do the authors over-interpret statistical significance, by ignoring the fact that the magnitude is small or by ignoring the fact that they have done multiple subgroup analyses?
+  + Is this section unnecessarily long?
+
++ Look at each table and figure:
+  + Did the authors choose the correct statistics?
+  + Are there multiple tables or figures that tell the same story? For example, Table 1 gives the mean values for two groups and indicates statistical significance from a test and Table 2 gives confidence intervals for the differences in means for the same data;
+  + Is there evidence of cherry-picking or purposefully omitting data?
+  + Are any graphs misleading, e.g. through manipulation of area or axes?
+  + Is the "treatment" group always compared with a proper control or placebo group?
+  + Are there inconsistencies in the data they present from one table to the next?
+  + Did the authors make transcribing errors when going from the data in tables or results to the abstract?
+
++ Read the discussion carefully:
+  + Does the first paragraph tell you succinctly and clearly what was found and what is new?
+  + Are the authors' conclusions justified or are they overreaching?
+  + Do they clearly distinguish hypothesis-driven conclusions and exploratory conclusions?
+  + Is the writing clear and to the point (active voice)? Is there some sense of order and structure or are they just rambling on aimlessly?
+  + Could the discussion be shortened?
+  + Did they address the limitations you care about? (as opposed to any old irrelevant limitations that they threw in just to have some.)
+  + Are the references that they cite current?
+  + Have they omitted key references?
+
+Content of peer review
+  
++ Comments to authors:
+  + Start with a one-paragraph "general overview":
+    + State what you think is the major finding and importance of the work;
+    + Give 2~3 positive, encouraging statements about the work.
+    + State 1~2 major limitations;
+    + Do not tell the authors your overall recommendation (rejection, acceptance).
+  + In a numbered list, give 5~15 specific criticisms or suggestions for revision. The number will often correspond to your recommendation (give the most if you are recommending an "opportunity for revision"):
+    + Point out specific mistakes;
+    + List the issues that you found in your review;
+    + Give specific recommendations for revision.
+
++ Reviewer ≠ copy editor:
+  + Do not spend your time nit-picking;
+  + Focus on big-picture issues;
+  + If the manuscript has a lot of copy-editing errors, point this out in a general way and give one or two examples.
+  > The manuscript contains typos, such as...
+
++ Comments to editors (authors do not see these):
+  + Fill out the journal "grading sheet" (if applicable);
+  + Choose your recommendation:
+    + Reject;
+    + Reject with an opportunity to revise;
+    + Accept with minor revisions;
+    + Accept.
+  + Give a succinct overall statement to the editors that justifies your ranking. Be frank with the editors about your opinion and concerns.
+
 ### 6.8 Predatory journals
+
++ Predatory journals
+  + Predatory journals are bogus journals that are exploiting the open-access model to make money;
+  + They publish any garbage, without any peer review, simply to be able to collect the publishing fee from the authors.
+
++ Checklist for avoiding predatory journals (Declan Butler)
+  + Check that the publisher provides full, verifiable contact information, including address, on the journal site. Be cautious of those that provide only web contact forms;
+  + Check that a journal's editorial board lists recognized experts with full affiliations. Contact some of them and ask about their experience with the journal or publisher;
+  + Check that the journal prominently displays its policy for author fees;
+  + Be wary of e-mail invitations to submit to journals or to become editorial board members;
+  + Read some of the journal's published articles and assess their quality. Contact past authors to ask about their experience;
+  + Check that a journal's peer-review process is clearly described and try to confirm that a claimed impact factor is correct;
+  + Find out whether the journal is a member of an industry association that vets its members, such as the Directory of Open Access Journals <www.doaj.org>, or the Open Acess Scholarly Publishers Association <www.oaspa.org>;
+  + Use common sense, as you would when shopping online: if something looks fishy, processed with caution;
+  + Consider the H-Index or Impact Factor (IF) of the journal;
+  + Alert the false indicators, such as Universal Impact Factor (UIF), Global Impact Factor (GIF), or Journal Impact Factor (JIF).
 
 ## Unit 7
 
-### 7.1
+### 7.1 Writing a review article
 
-### 7.2
++ Goals of review articles
+  + Synthesize and evaluate the recent primary literature on a topic;
+  + Summarize the current state of knowledge on a topic;
+  + Address controversies;
+  + Provide a comprehensive list of citations.
 
-### 7.3
++ Type I: Non-systematic review
+  + Sometimes called a "narrative" review;
+  + May not be comprehensive;
+  + Qualitative review.
 
-### 7.4
++ Type II: Systematic review
+  + Attempts to find and summarize all relevant studies. May even include unpublished work;
+  + Follows a rigorous search strategy using pre-defined exclusion and inclusion criteria. Searches multiple databases;
+  + Evaluates the quality of each study using rigorous, pre-defined criteria (often quantitative).
 
-### 7.5
++ Type III: Meta-analysis
+  + A systematic review that additionally uses statistical techniques to pool data from independent studies (sometimes including unpublished studies).
 
-### 7.6
++ Tips for Review articles
+  + Start with a more broad search, and then narrow it;
+  + Clearly define your thesis or theme;
+  + Invest time in getting organized;
+  + Divide the review into sections with separate headings;
+  + Consider putting information in tables, figures, and/or sidebar;
+  + Write for a broad audience.
+
++ Structure of Review articles
+  + Abstract;
+  + Introduction:
+    + Clearly state the aim of the review.
+  + The body of the paper:
+    + Divide into sections;
+    + Summarize the literature, organized based on methodology or theme;
+    + Analyze, interpret, critique, and synthesize studies.
+  + Conclusion and future directions:
+    + What recommendations can you make?
+    + What gaps remain in the literature?
+    + What future studies would help fill in these gaps?
+  + Literature cited.
+
++ A narrative review article may do
+  + Summarize the current state of knowledge on a topic;
+  + Address a controversy;
+  + Provide a comprehensive list of citations on a topic.
+
+### 7.2 Grants I
+
+### 7.3 Grants II
+
+### 7.4 Grants III
+
+### 7.5 Write letters of recommendation
+
+### 7.6 Write the personal statement
 
 ## Unit 8
 

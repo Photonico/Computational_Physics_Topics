@@ -1188,6 +1188,47 @@ After:
 
 ### 6.6 Interview with Dr. Gary Friedman
 
++ Key elements for journal editors looking for
+  + Novelty - Avoid repeating findings that are already well-known;
+  + Interest to readers;
+  + Good writing or good American English;
+  + Concise writing.
+
++ The mistake that scientists make when submitting their paper
+  + Over-valuation of one's paper.
+
++ Some advice
+  + Be clear and concise;
+  + Avoid repetition;
+  + Avoid wordiness;
+  + Keep the introduction brief;
+  + Do not repeat numerical information from the Tables in the Results section;
+  + You won't dumb down the science;
+  + Papers should be understandable to an educated audience.
+
++ Advice for the first-time authors
+  + A paper should not read like a thesis;
+  + Write like a senior scientist;
+  + State only the important strengths and limitations relevant to the study.
+
++ About resubmission
+  + Be encouraged by the opportunity to resubmit;
+  + List and respond to every comment separately;
+  + Fix the problem or explain why you did not fix it;
+  + Show the editor where you made the changes;
+  + Be polite.
+
++ About rejection
+  + Fix it and submit it elsewhere;
+  + Do not take rejection personally;
+  + Understand that reviewers may be from different disciplines;
+  + Remember that reviewers can have bad days too.
+
++ Key changes occur in the publication process over the next decade
+  + More online publications;
+  + Faster publication;
+  + More new journals of uncertain quality.
+
 ### 6.7 Doing a peer view
 
 ### 6.8 Predatory journals

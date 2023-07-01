@@ -1408,11 +1408,50 @@ Content of peer review
   + Critical in all career paths;
   + Securing funding is an accomplishment and has positive career benefits;
 
-+ Start early and gather critical information
++ Tip 1: Start early and gather critical information
   + Compile possible funding opportunities;
   + Gather critical information:
     + Instructions;
     + Funded and unfunded examples.
+
++ Tip 2: Create a game plan and write regularly
+  + Create a task list;
+  + Write regularly;
+
++ Tip 3: Find your research niche
+  + Deep awareness of your field - identify critical knowledge gaps;
+  + Broad familiarity with the wider scientific community;
+
++ Tip 4: Use your specific aims document as your roadmap
+  + Specific aims:
+    + Is the question important?
+    + What is the overall goal?
+    + What specifically will be done?
+    + What is the expected payoff?
+
++ Tip 5: Build a first-rate team
+  + Leverage the strengths and expertise of collaborators (Team science);
+  + Cross-disciplinary to accelerate scientific innovation;
+
++ Tip 6: Develop a complete research plan
+  + Is there a need?
+  + How will the specific aims be accomplished?
+  + How long will the project take?
+  + What is next?
+
++ Tip 7 STOP! Get feedback!
+
++ Tip 8 Tell a consistent and cohesive story
+  + Grants have numerous documents or sections;
+  + Must tell a consistent and cohesive story.
+
++ Tip 9: Follow specific requirements and proofread for errors and readability
+  + Strictly follow specific formats and page requirements;
+  + Proofread!
+
++ Tip 10: Recycle and resubmit
+  + Recycle: submit to many funding opportunities;
+  + Resubmit: try again.
 
 ### 7.3 Grants II
 

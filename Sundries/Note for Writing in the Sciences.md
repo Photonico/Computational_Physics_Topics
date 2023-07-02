@@ -1282,7 +1282,7 @@ Process of peer review
   + Does each section roughly correspond to one table or figure?
   + Do the authors summarize the main trends and themes from the table, or do they just repeat what is in the table?
   + If there are graphs, do they try to draw your eye to what they want you to see?
-  + Do the authors over-interpret statistical significance, by ignoring the fact that the magnitude is small or by ignoring the fact that they have done multiple subgroup analyses?
+  + Does the author over-interpret statistical significance, by ignoring the fact that the magnitude is small or by ignoring the fact that they have done multiple subgroup analyses?
   + Is this section unnecessarily long?
 
 + Look at each table and figure:
@@ -1455,24 +1455,239 @@ Content of peer review
 
 ### 7.3 Grants II
 
++ Why is the specific aims document important
+  + Perfect for eliciting feedback;
+  + It is a roadmap;
+  + The reviewer will read it.
+
++ Specific aims instructions
+
+An example:
+
+  State concisely the goals of the proposed research and summarize the expected outcomes, including the impact that the results of the proposed research will exert on the research fields involved.
+
+  List succinctly the specific objectives of the research proposed, e.g., to test a stated hypothesis, create a novel design, solve a specific problem, challenge an existing paradigm or clinical practice, address critical barrier progress in the field, or develop new technology.
+
++ Key points
+  + Is the question important?
+    + Attention-grabbing the first sentence;
+    + Bring reviewers up to speed;
+    + Frame the knowledge gap/need.
+  + What is the overall goal?
+    + Big-picture goal,
+    + The objective of this proposal,
+    + Best bet or hypothesis,
+    + Supportive preliminary data.
+  + What specifically will be done?
+    + Aims,
+    + Working hypotheses,
+    + Methods.
+  + What is the expected payoff?
+    + Return on investment,
+    + Related to goals of the funding announcement.
+
 ### 7.4 Grants III
+
++ Use your specific aims pages as a road map for developing a strong research plan.
+
++ Key questions for your research proposal
+  + Is there a need?
+  + How will the project be accomplished?
+    + What methods and analyses will be used;
+    + What are the expected outcomes?
+    + What might go wrong and how will it be managed?
+    + What are the alternative approaches?
+  + How long will the project take?
+
++ Note concerning innovation
+  + Innovation:
+    + Approaches,
+    + Methodology,
+    + Describe how your proposal improves upon previous research or technology.
+
++ An outline for your research proposal
+  + Background or significance,
+  + Aims,
+  + Timeline,
+  + Conclusion and future directions.
+
++ Background or Significance
+  + Importance of the problem,
+  + The premise for the proposed project, including strengths or weaknesses of published research pr preliminary data,
+  + Outline the knowledge gap or technical deficiency that the project will overcome.
+
++ Aims
+  + A hypothesis,
+  + Specific aims and objectives used to examine the hypothesis,
+  + The description of methods, approaches, or techniques to be used,
+  + The discussion of possible problems and how they will be managed,
+  + Alternative approaches might be tried.
+
++ Organizing each aim
+  + introduction,
+  + Preliminary data,
+  + Methods,
+  + Expect outcomes,
+  + Alternative approaches.
+
++ Introduction
+  + Provide an overview of the aim, including specific objectives, working hypothesis, rationale, and expected outcomes.
+
++ Preliminary data
+  + The critical review of the relevant literature;
+  + Preliminary studies:
+    + Establish the feasibility of the project;
+    + Clear and able to stand alone.
+  + Lead reviewer to conclude that you and the project are capable of success.
+
++ Methods
+  + Provide a detailed description of the experimental design including:
+    + Validation of essential reagents or approaches,
+    + Description of control and their significance,
+    + Statistical analysis and interpretation.
+
++ Expect outcomes
+  + Summarize expected experimental outcomes and provide an interpretation of the data;
+  + What is the immediate payoff?
+  + Does this address the knowledge gap you wish to bridge?
+
++ Alternative approaches
+  + Introduction of alternative approaches by highlighting potential problems.
+
++ Timeline
+  + The timeline can demonstrate feasibility.
+
++ Conclusion and future directions
+  + Summarize expected outcomes, how they will bridge a current knowledge gap, and how the proposed project will lead to progress in the field,
+  + Discuss future experiments or approaches.
 
 ### 7.5 Write letters of recommendation
 
++ Things to consider
+  + It's OK to decline if you cannot write a strong letter;
+  + Take into account the competitiveness of the position or award;
+  + Never ask students to draft their recommendation letters.
+
++ The candidate should provide
+  + CV or resume,
+  + Information about the position or award,
+  + The deadline,
+  + Specific information about how to submit the letter.
+
++ Formatting
+  + Format it like an old-fashioned letter (date, address of the committee, etc.);
+  + Use letterhead or the electronic version;
+  + Avoid generic greetings such as "to whom it may concern". Rather, address it to a person (if known) or "<instruction_name> admissions committee" or "<instruction_name> scholarship committee".
+
++ First paragraph: Introduction
+  + "I am pleased/delighted/thrilled to recommend <student_name> for <instruction_name>."
+  + or "It's a pleasure to recommend <student_name> for <instruction_name>."
+  + How do you know the candidate? How long have you known the candidate?
+  + 1~2 sentence overview:
+    + Highest praise: "She is one of the most brilliant and accomplished students that I have taught to date."
+    + Typical praise: "I've found her to be a diligent student and researcher. I'm confident that she would be an asset to your research team."
+
++ Body of the letter
+  + Use clear, concise, engaging language;
+  + The length of the letter matters;
+  + Address qualities relevant to the position/award, such as:
+    + Quantitative skills,
+    + Communication skills,
+    + Ability to work with others,
+    + Initiative,
+    + Ability to prioritize tasks,
+    + Creativity,
+    + Attributes of a "good citizen".
+  + Give specific examples and stories, "Show, don't tell";
+  + Quantify and compare;
+    > She is among the top then percent of MS students I have taught at Stanford.
+  + Point out extenuating circumstances (if applicable), and emphasize the highlights;
+  + If possible, quote others:
+    > One of my students wrote this in an unsolicited email: "You've probably heard already that <student_name> hase been a fantastic TA."
+
++ Be cautious
+  + When a letter focuses more on the recommender, class, or project than on the candidate, this is a red flag.
+  + It's OK to highlight strengths from the student's CV, but do not simply repeat what is on the CV.
+
++ Last paragraph: Concluding
+  + In summary...
+  + Highest praise: "In summary, <student_name> is a star in all aspects. If there is anything else I can do to support her application, please do not hesitate to contact me."
+  + Typical praise: "I highly recommend <student_name> for this position. If you have any further questions, I would be happy to expand further on my comments."
+
++ An example of hidden Language I
+  + A: "He is one of the best students I've had in my career at Stanford."
+  + B: "He was one of the best students in my class of 50."
+  + C: "He was the best student in my class of 50."
+  + D: "Though not the top student in the class, he held his own among an extremely gifted experienced group."
+
++ An example of hidden Language II
+  + A: "I do not doubt that she will go on to do first-rate research."
+  + B: "I have confidence in her ability."
+
++ An example of hidden Language II
+  + A: "She is one of the most talented students I've ever worked with."
+  + B: "She is the most enthusiastic student I've ever worked with."
+
++ Tips for recommenders
+  + Approach potential letter writers at least several weeks in advance of the deadline;
+  + Choose your recommenders carefully;
+  + Take "no" for an answer;
+  + Avoid recommenders who ask you to draft your recommendation letter;
+  + Make life easy for your letter writer:
+    + Provide them with your CV;
+    + Offer to meet with them;
+    + Give them clear and easy instructions on how to submit the letter;
+    + Provide a link to information about the position or award.
+
 ### 7.6 Write the personal statement
+
++ Personal statements are used for a variety of purposes for admissions to medical or graduate school, for fellowships and scholarships, for internships and even sometimes for jobs.
+
++ Tips for personal statements
+  + Make it personal:
+    + Speak from the heart;
+    + Reveal who you are;
+    + Strive for flair, not "blah".
+  + Give specific examples and stories
+    + "Show, don't tell";
+  + Don't read your CV line by line
+    + Highlight relevant experiences.
+  + Avoid big words you don't understand and avoid cliches;
+  + Show interest in/fatter your readers:
+    + "Do your homework";
+    + Be specific about why the specific program/institution/award appeals to you.
+  + Explain gaps and failures:
+    + Don't ignore these in hopes that reviewers won't notice the issue!
+
++ Elements: Opening/Lead
+  + Start strong;
+  + Be creative;
+  + Be descriptive or tell a story;
+  + Impact who you are and what matters to you;
+  + Don't be boring!
+  + It's OK if it's a little long if it's compelling.
+
+> I was recently rereading an autobiography that I wrote in fourth grade. I had to list my favorite things to do. My top four were running, solving puzzles, reading and writing. The foresight of children is amazing and then I actually go on to talk about that I was a competitive runner. I solved puzzles through epidemiology and statistics, and I love to read, and then I finally get back to writing. Not surprisingly, my passion for writing has also resurfaced. When I was a child, I did not dream of being a doctor or a scientist. I dreamed of being a writer. I have been steered toward the hard sciences all my life. I have pondered careers in biochemistry, genetics and biostatistics. Yet unfailingly, I find myself drawn back to my childhood whim. When I'm asked what I'm going to do when I finish my epidemiology PhD, I always answer laughingly. "Actually, I'm going to be a writer and that's true."
+
++ Elements: Body of the essay
+  + Where do you want to go?
+  + What experiences have led you to this point?
+  + What makes you a strong candidate?
+    + Address weaknesses, and turn them into strengths.
+  + Why this specific program/institution/fellowship?
 
 ## Unit 8
 
-### 8.1
+### 8.1 Talking with the Media
 
-### 8.2
+### 8.2 Panel Interview
 
-### 8.3
+### 8.3 Writing for general audiences
 
-### 8.4
+### 8.4 Writing a science news story
 
-### 8.5
+### 8.5 Interviewing a Scientist
 
-### 8.6
+### 8.6 Social media
 
-### 8.7
+### 8.7 Concluding Remarks

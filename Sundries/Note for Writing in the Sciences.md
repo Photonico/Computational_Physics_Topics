@@ -1684,6 +1684,12 @@ An example:
 
 ### 8.1 Talking with the Media
 
++ Being interviewed by a journalist
+  + What the journalist is waiting to hear, and will use in his/her article;
+    + Take-home message,
+    + How your research affects people (i.e., their readers),
+    + What's different or new about your result (the "news hook").
+
 ### 8.2 Panel Interview
 
 ### 8.3 Writing for general audiences

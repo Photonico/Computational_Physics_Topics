@@ -1676,6 +1676,10 @@ An example:
     + Address weaknesses, and turn them into strengths.
   + Why this specific program/institution/fellowship?
 
++ Elements: Conclusion
+  + End strong!
+  + Consider circling back to your opening story or description.
+
 ## Unit 8
 
 ### 8.1 Talking with the Media

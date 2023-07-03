@@ -1,15 +1,22 @@
-\documentclass[b5paper,12pt]{article}
+\documentclass[a4paper,12pt]{article}
 
 \usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage{bm}
+\usepackage{enumitem}
+\usepackage{fontawesome}
 % \usepackage{fontspec}   % with lulatex
 \usepackage{geometry}
+\usepackage{hyperref}
 \usepackage{lipsum}
+\usepackage{parskip}
+\usepackage{setspace}
 \usepackage{tikz}
 \usepackage{xcolor}
 
 % \setmainfont{Photonico Code}
 
+% \title{\textbf{A Note for Writing in the Sciences}}
 \title{\textbf{A Note for Writing in the Sciences}}
 \author{Lu Niu}
 \date{\today}
@@ -17,7 +24,233 @@
 \begin{document}
 
 \maketitle
+\vspace{\fill}
+\begin{center}
+    \par\href{mailto:LukeNiu@outlook.com}{LukeNiu@outlook.com}
+    \par\href{http://www.github.com/Photonico}{http://www.github.com/Photonico}
+\end{center}
+\thispagestyle{empty}
 
-text
+\newpage
+This page is intentionally left blank.
+\thispagestyle{empty}
+
+\newpage
+\tableofcontents\thispagestyle{empty}
+
+\newpage
+This page is intentionally left blank.
+\thispagestyle{empty}
+
+\newpage
+\pagenumbering{arabic}
+
+This is my study note for the \textit{Writing in the Science} course,
+which is provided through \href{https://www.coursera.org/learn/sciwrite}{Coursera}.
+
+\section*{Prerequisite Knowledge}
+\addcontentsline{toc}{section}{Prerequisite Knowledge}
+
+\subsection{Article types}
+
+\textbf{1}. Research Papers: Experimental or theoretical studies on physical phenomena:
+\par\quad\textopenbullet\ Physical Review A
+\par\quad\textopenbullet\ Physical Review B
+\par\quad\textopenbullet\ Physical Review D
+
+\textbf{2}. Review Articles: Summaries of existing research on a physics topic.
+\par\quad\textopenbullet\ Physical Review X
+\par\quad\textopenbullet\ Reviews of Modern Physics
+
+\textbf{3}. Letters/Short Communications: Brief reports on significant new findings.
+\par\quad\textopenbullet\ Physical Review Letter
+
+
+\textbf{4}. Methods Papers: Descriptions of new experimental techniques or tools.
+\par\quad\textopenbullet\ Physical Review Applied
+\par\quad\textopenbullet\ Journal of Applied Physics
+
+\textbf{5}. Conference Papers: Short papers for conferences, focusing on recent results.
+\par\quad\textopenbullet\ APS March Meeting and APS April Meeting
+\par\quad\textopenbullet\ SPIE Conferences
+
+\textbf{6}. Technical Reports: Details on new physics instruments or technology.
+\par\quad\textopenbullet\ National Technical Reports Library
+\par\quad\textopenbullet\ CERN Document Server
+\par\quad\textopenbullet\ NASA Technical Reports Server
+
+\textbf{7}. Commentaries and Perspective Articles: Opinions on current physics issues.
+\par\quad\textopenbullet\ Nature Physics
+\par\quad\textopenbullet\ Science
+\par\quad\textopenbullet\ Physics Today
+
+\par\textbullet\ Theses and Dissertations: In-depth studies for degree programs.
+\par\textbullet\ Textbooks and Educational Materials: Books and materials for physics education.
+
+% Unit 1
+\newpage\section{Introduction, principles of effective writing}
+
+\subsection{Introduction}
+
+\par\textbullet\ What makes good writing?
+\par\quad\textopenbullet\ Good writing communicates an idea clearly and effectively;
+\par\quad\textopenbullet\ Good writing is elegant and stylish
+
+\par\textbullet\ Clearing writing just takes having something to say and clear thinking.
+
+\par\textbullet\ Don't want you to even worry about elegance and stylish when you're writing your first draft, just worry about getting that idea across in a clear and logical, and efficient way.
+
+\par\textbullet\ Elegant and stylish writing happens in revision, not on the first draft, even for professional writers. Just barrel through that first draft and then spend time revising.
+
+\par\textbullet\ What makes a good writer?
+\par\quad\textopenbullet\ Having something to say;
+\par\quad\textopenbullet\ Logical thinking;
+\par\quad\textopenbullet\ A few simple, learnable rules of style;
+
+\par\textbullet\ Become a better writer
+\par\quad\textopenbullet\ Read, pay attention, and imitate;
+\par\quad\textopenbullet\ Write in a journey;
+\par\quad\textopenbullet\ Let go of 'academic' writing habits (deprogramming step);
+\par\quad\textopenbullet\ Talk about your research before trying to write about it;
+\par\quad\textopenbullet\ Write to engage your reader: try not to bore them!
+\par\quad\textopenbullet\ Stop waiting for 'inspiration';
+\par\quad\textopenbullet\ Accept that writing is hard for everyone, even professional writers;
+\par\quad\textopenbullet\ Revise. Nobody gets it perfect on the first try;
+\par\quad\textopenbullet\ Learn how to cut ruthlessly, and never become too attached to your words;
+\par\quad\textopenbullet\ Find a good editor;
+\par\quad\textopenbullet\ Take risks.
+
+\subsection{Examples of what not to do}
+
+\par\textbullet\ Ask yourself
+\par\quad\textopenbullet\ Is this sentence easy to understand?
+\par\quad\textopenbullet\ Is this sentence enjoyable and interesting to read?
+\par\quad\textopenbullet\ Is this sentence readable?
+\par\quad\textopenbullet\ Is it written to inform or to obscure?
+
+\par\textbullet\ The scientific literature should be enjoyable and interesting to read. The point of scientific writing is to inform.
+
+\par\textbullet\ The verbs drive sentences whereas nouns slow them down.
+
+\par\textbullet\ Themes of this course
+\par\quad\textopenbullet\ Complex ideas do not require complex language;
+\par\quad\textopenbullet\ Scientific writing should be easy and even enjoyable to read.
+
+\subsection{Overview, principles of effective writing}
+
+\par\textbullet\ Avoid the use of acronyms, other than those that are completely standard that most people will know.
+
+\par\textbullet\ Do not put too much distance between the subject of the sentence and the main verb.
+
+\par\textbullet\ Overview: Principles of effective writing
+\par\quad\textopenbullet\ Cut unnecessary words and phrases; learn to part with your words;
+\par\quad\textopenbullet\ Use the active voice (subject + verb + object);
+\par\quad\textopenbullet\ Write with verbs: use strong verbs, avoid turning verbs into nouns, and don't bury the main verb;
+
+\newpage\subsection{Cut the clutter}
+
+\begin{quote}
+The secret of good writing is to strip every sentence to its cleanest components. 
+Every word that serves no function, every long word that could be a short word, 
+every adverb that carries the same meaning that's already in the verb, 
+every passive construction that leaves the reader unsure of who is doing what
+- these are thousand and one adulterants that weaken the strength of a sentence. 
+And they usually occur in proportion to the education and rank. 
+\begin{flushright}
+William Zinsser, \textit{On Writing Well}
+\end{flushright}
+\end{quote}
+
+\par\textbullet\ Be vigilant and ruthless
+
+\par\textbullet\ After investing much effort to put words on a page, we often find it hard to part with them.
+
+\par\textbullet\ Try the sentence without the extra words and see how it's better - conveys the same idea with more power.
+
+\par\textbf{Avoid list}
+\par\textbullet\ Deadweight words and phrases
+\par\quad\textopenbullet\ As it is well known
+\par\quad\textopenbullet\ As it has been shown
+\par\quad\textopenbullet\ It can be regarded that
+\par\quad\textopenbullet\ It should be emphasized that
+\par\textbullet\ Empty words and phrases
+\par\quad\textopenbullet\ basic tenets of
+\par\quad\textopenbullet\ methodologic
+\par\quad\textopenbullet\ important
+\par\textbullet\ Long words or phrases that could be short
+\par\textbullet\ Unnecessary jargon and acronyms
+\par\textbullet\ Repetitive words or phases
+\par\quad\textopenbullet\ Studies/examples
+\par\quad\textopenbullet\ illustrate/demonstrate
+\par\quad\textopenbullet\ challenges/difficulties
+\par\quad\textopenbullet\ successful / solutions
+\par\textbullet\ Adverbs
+\par\quad\textopenbullet\ very, really, quite, basically, generally, etc.
+
+\par\textbullet\ Some words and phrases are blobs. William Zinsser, On Writing Well.
+
+\par\textbullet\ Long words and phrases that could be short
+\par\quad\textopenbullet\ a number of               → many
+\par\quad\textopenbullet\ are of the same opinion   → agree
+\par\quad\textopenbullet\ less frequently occurring → rare
+\par\quad\textopenbullet\ all three of the...       → the three
+\par\quad\textopenbullet\ give rise to              → cause
+\par\quad\textopenbullet\ due to the fact that      → because
+\par\quad\textopenbullet\ Have an effect on         → affect
+\par\quad\textopenbullet\ The result of             → due to
+\par\quad\textopenbullet\ In many instances         → often
+
+\par\textbullet\ I have only made this letter rather long because I have not had time to make it shorter. - Blaise Pascal, Lettres Provinciales, 16, Dec.14, 1656.
+
+\subsection{Cut the clutter, more tricks}
+
+\par\textbullet\ A few other small tricks
+\par\quad\textopenbullet\ Eliminate negatives
+\par\quad\textopenbullet\ Eliminate superfluous uses of "there are" / "there is"
+\par\quad\textopenbullet\ Omit needless prepositions
+
+\par\textbullet\ Use an exciting verb rather than a 'to be' verb.
+
+\newpage\subsection{Practicing cutting clutter}
+
+\par\textbullet\ The best way to learn writing is through practice.
+
+\par\textbf{Examples}
+
+\par\textbullet\ Before
+\par Anti-inflammatory drugs may be protective against the occurrence of Alzheimer’s Disease.
+
+\par\textbullet\ After
+\par Anti-inflammatory drugs protect against Alzheimer’s Disease.
+
+\par\textbullet\ Before
+\par Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population.
+
+\par\textbullet\ After
+\par Clinical seizures occur in 0.5% to 2.3% of newborns.
+
+\par\textbullet\ Before
+\par Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility.
+
+\par\textbullet\ After
+\par Besides preventing cancer, p53 also works in aging, differentiation, and fertility.
+
+\par\textbullet\ Before
+\par Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically.
+
+\par\textbullet\ After
+\par Injuries to the brain and spinal cord are among the most devastating and expensive.
+
+\par\textbullet\ Before
+\par An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities.
+
+\par\textbullet\ After
+\par An IQ test measures an individual's verbal, reasoning, or motor and spatial abilities.
+
+\par\textbullet\ Before
+\par As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.
+
+\par\textbullet\ After
+\par Figure 2 shows that a return kinetic energy less than 2.3 Up yields two electron trajectories.
 
 \end{document}

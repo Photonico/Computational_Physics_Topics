@@ -150,37 +150,37 @@ Elegant and stylish writing happens in revision, not on the first draft, even fo
 Examples:
 
 Before
-> Anti-inflammatory drugs may be protective against the occurrence of Alzheimer’s Disease.  
+> Anti-inflammatory drugs may be protective against the occurrence of Alzheimer’s Disease.
 
 After
 > Anti-inflammatory drugs protect against Alzheimer’s Disease.
 
 Before
-> Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population.  
+> Clinical seizures have been estimated to occur in 0.5% to 2.3% of the neonatal population.
 
 After
 > Clinical seizures occur in 0.5% to 2.3% of newborns.
 
 Before
-> Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility.  
+> Ultimately p53 guards not only against malignant transformation but also plays a role in developmental processes as diverse as aging, differentiation, and fertility.
 
 After
 > Besides preventing cancer, p53 also works in aging, differentiation, and fertility.
 
 Before
-> Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically.  
+> Injuries to the brain and spinal cord have long been known to be among the most devastating and expensive of all injuries to treat medically.
 
 After
 > Injuries to the brain and spinal cord are among the most devastating and expensive.
 
 Before
-> An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities.  
+> An IQ test measures an individual’s abilities to perform functions that usually fall in the domains of verbal communication, reasoning, and performance on tasks that represent motor and spatial capabilities.
 
 After
 > An IQ test measures an individual's verbal, reasoning, or motor and spatial abilities.
 
 Before
-> As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.  
+> As we can see from Figure 2, if the return kinetic energy is less than 3.2 Up, there will be two electron trajectories associated with this kinetic energy.
 
 After
 > Figure 2 shows that a return kinetic energy less than 2.3 U_p yields two electron trajectories.

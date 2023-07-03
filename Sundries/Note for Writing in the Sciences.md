@@ -808,7 +808,7 @@ After
 
 ### 5.2 Results
 
-+ Results ≠ Raw data
++ Results != Raw data
   + The results section should:
     + Point out simple relationships;
     + Describe big-picture trends;
@@ -1317,7 +1317,7 @@ Content of peer review
     + List the issues that you found in your review;
     + Give specific recommendations for revision.
 
-+ Reviewer ≠ copy editor:
++ Reviewer != copy editor:
   + Do not spend your time nit-picking;
   + Focus on big-picture issues;
   + If the manuscript has a lot of copy-editing errors, point this out in a general way and give one or two examples.

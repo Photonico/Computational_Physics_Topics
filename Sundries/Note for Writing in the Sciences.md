@@ -808,7 +808,7 @@ After
 
 ### 5.2 Results
 
-+ Results ≠ Raw data
++ Results != Raw data
   + The results section should:
     + Point out simple relationships;
     + Describe big-picture trends;

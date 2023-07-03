@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1688407866 "/home/lu/Desktop/Repos/Computational Physics/Writing in Science/Writing in science.tex" "Writing in science.pdf" "Writing in science" 1688407867 0
-  "/home/lu/Desktop/Repos/Computational Physics/Writing in Science/Writing in science.tex" 1688407866 26884 418e2cad8e7a0ae70d0095cb54849d9a ""
+["pdflatex"] 1688412688 "/home/lu/Desktop/Repos/Computational Physics/Writing in Science/Writing in science.tex" "Writing in science.pdf" "Writing in science" 1688412690 0
+  "/home/lu/Desktop/Repos/Computational Physics/Writing in Science/Writing in science.tex" 1688412688 68558 aa205a078d387d0883e4cfbe7f43b1d3 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687799903 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1687799903 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1687799903 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -36,6 +36,7 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1687799903 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1687799903 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1687799903 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1687799903 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1687799903 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1687799903 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1687799903 136101 f533469f523533d38317ab5729d00c8a ""
@@ -122,6 +123,7 @@
   "/usr/share/texmf-dist/tex/latex/base/article.cls" 1687799903 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
   "/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty" 1687799903 3052 30236f0cc243a8651b82240dfd2e8b9d ""
   "/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty" 1687799903 2462 8ce5f9a9c63002f2c1af03c262cf29af ""
+  "/usr/share/texmf-dist/tex/latex/base/omlcmr.fd" 1687799903 2470 cfb0d4d2386b9f8f779b8306fb78b31e ""
   "/usr/share/texmf-dist/tex/latex/base/size12.clo" 1687799903 8449 c314623021fbddd0180c05345324933c ""
   "/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty" 1687799903 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1687799903 13886 d1306dcf79a944f6988e688c1785f9ce ""
@@ -173,9 +175,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1687799903 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1688392754 4519637 70aa39fc3bcb70d306f296de3be1c260 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1688392720 6798011 dbf445836204808ad8014f12c4d50451 ""
-  "Writing in science.aux" 1688407867 3209 ed124817a3c7c2f2a7d913fb6b89917c "pdflatex"
-  "Writing in science.out" 1688407867 3554 60679d97205c19072ac3f27bffd11102 "pdflatex"
-  "Writing in science.toc" 1688407867 1793 e1beaed3154db97e1a83d6129adb8597 "pdflatex"
+  "Writing in science.aux" 1688412690 5662 9876b8740497ac362f386241d1fce9c4 "pdflatex"
+  "Writing in science.out" 1688412690 6371 f8e3b7d297874c0701bd20bc411dadc0 "pdflatex"
+  "Writing in science.toc" 1688412690 3426 47d45fa5e91dd3ad7c154f23f90ae2b1 "pdflatex"
   (generated)
   "Writing in science.aux"
   "Writing in science.log"

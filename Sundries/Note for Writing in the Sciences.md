@@ -541,6 +541,14 @@ Before
 After
 > Metal ions' intake cuts both ways in food components. Our bodies require trace metals, such as Fe and Cu ions, to maintain normal functions. However, studies have demonstrated that excessive intake contributes to pathological events, such as Parkinson's disease [1]; oxidative damage [2]; cancer [3], and premature aging [4].
 
+### Assignment for Unit 3
+
+Revise the following paragraph to improve clarity, brevity, and organization:
+> As for many food components, the intake of metal ions can be a double edged sword. The requirement for ingestion of trace metals such as Fe and Cu ions to maintain normal body functions such as the synthesis of metalloproteins is well established. However, cases of excess intake of trace metal ions are credited with pathological events such as the deposition of iron oxides in Parkinson's disease [1]. In addition to aiding neurological depositions, these redox active metals ions have been credited with enhancing oxidative damage, a key component of chronic inflammatory disease [2] and a suggested initiator of cancer [3]. As inflammation is a characteristic feature of a wide range of diseases, further potential pathological roles for metal ions are emerging as exemplified by premature ageing [4].
+
+Answer
+> Metal ions' intake cuts both ways in food components. Our bodies require trace metals, such as Fe and Cu ions, to maintain normal functions. However, the studies have demonstrated that the excessive intake contributes to pathological events, such as Parkinson's disease [1]; oxidative damage [2]; cancer [3], and premature ageing [4].
+
 ## Unit 4 Writing steps
 
 ### 4.1 More paragraph practice
@@ -842,7 +850,7 @@ Examples 2:
     > The average reaction time was...
   + Use the present tense for assertions that continue to be true, such as what the tables show, what you believe, and what the data suggest
     > Figure 1 shows...
-    > The finding confirm...
+    > The finding confirms...
     > The data suggest...
     > We believe that...
 
@@ -995,7 +1003,7 @@ After:
   + Do not answer the research question (no result or implications)!
   + Summarize at a high level. Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
 
-### 5.7 Discussion
+### 5.6 Discussion
 
 + Features of Discussion
   + Gives you the most freedom;
@@ -1052,7 +1060,7 @@ After:
     + Miller et al. found...
   + The present voice: when talking about what the data suggest:
 
-### 5.8 Abstract
+### 5.7 Abstract
 
 + About Abstract
   + Abstract means "to pull out":
@@ -1871,6 +1879,14 @@ My assignment
 + Biggie
   + Engage, do not teach.
 
-### 8.7 Concluding Remarks
+### Assignment for Unit 8
 
-As a scientist, you have a responsibility to communicate your science clearly and effectively and to as broad an audience as possible. We live in an era of science denial. Science and facts are under attack. As scientists, we have to do a better job of communicating science in a clear, accessible and engaging way. Please spread the word and pass on the skills you've learned in this class to other scientists to help them become better communicators.
+The following summary appeared in a paper in PLOS Biology.
+
+> Despite scientific and technological advances, communication has remained impossible for persons suffering from complete motor paralysis but intact cognitive and emotional processing, a condition that is called completely locked-in state. Brain–computer interfaces based on neuroelectrical technology (like an electroencephalogram) have failed at providing patients in a completely locked-in state with means to communicate. Therefore, here we explored if a brain–computer interface based on functional near infrared spectroscopy (fNIRS)—which measures brain hemodynamic responses associated with neuronal activity—could overcome this barrier. Four patients suffering from advanced amyotrophic lateral sclerosis (ALS), two of them in permanent completely locked-in state and two entering the completely locked-in state without reliable means of communication, learned to answer personal questions with known answers and open questions requiring a “yes” or “no” by using frontocentral oxygenation changes measured with fNIRS. These results are, potentially, the first step towards abolition of completely locked-in states, at least for patients with ALS.
+
+Write a brief summary (3-4 sentences) of this research for a lay audience. (Do not simply edit or paraphrase the original; write a new summary as you would for a news article.)
+
+Answer
+
+> As a scientist, you have a responsibility to communicate your science clearly and effectively and to as broad an audience as possible. We live in an era of science denial. Science and facts are under attack. As scientists, we have to do a better job of communicating science in a clear, accessible and engaging way. Please spread the word and pass on the skills you've learned in this class to other scientists to help them become better communicators.

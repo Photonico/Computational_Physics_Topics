@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.7.3)  4 JUL 2023 04:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.7.3)  4 JUL 2023 05:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -565,52 +565,64 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Writing in science.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Writing in science.toc [3])
 \tf@toc=\write5
 \openout5 = `"Writing in science.toc"'.
 
- [3] [4]
+ [4] [5]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \par\ 
-           \textopenbullet\ Physics Today [1{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+l.87 \par\quad
+              \textopenbullet\ Physics Today [1{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.91 \newpage
+l.93 \newpage
              \section{Introduction, principles of effective writing} [2]
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.126 \par\ 
-            \textopenbullet\ Is this sentence easy to understand? [3]
+l.128 \par\quad
+               \textopenbullet\ Is this sentence easy to understand? [3]
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.150 \newpage
-              \subsection{Cut the clutter} [4] [5] [6] [7] [8] [9] [10] [11] [12]
-Overfull \hbox (2.32668pt too wide) in paragraph at lines 398--399
+l.152 \newpage
+              \subsection{Cut the clutter} [4]
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.189 \par\ 
+            \textbullet\ Adverbs [5] [6] [7] [8] [9] [10] [11] [12]
+Overfull \hbox (2.32668pt too wide) in paragraph at lines 400--401
 []\OT1/cmr/m/n/12 Studies have be-gun to de-scribe the epi-demi-ol-ogy of autism, in-clud-ing re-cent changes
  []
 
-[13] [14] [15] [16] [17] [18] [19] [20] (./Writing in science.aux)
+[13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 855.
+ (/usr/share/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 855.
+ [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] (./Writing in science.aux)
 Package rerunfilecheck Info: File `"Writing in science".out' has not changed.
-(rerunfilecheck)             Checksum: 60679D97205C19072AC3F27BFFD11102;3554.
+(rerunfilecheck)             Checksum: F8E3B7D297874C0701BD20BC411DADC0;6371.
  ) 
 Here is how much of TeX's memory you used:
- 23193 strings out of 477909
- 422249 string characters out of 5838517
- 1858388 words of memory out of 5000000
- 42970 multiletter control sequences out of 15000+600000
+ 23292 strings out of 477909
+ 423424 string characters out of 5838517
+ 1864388 words of memory out of 5000000
+ 43009 multiletter control sequences out of 15000+600000
  526957 words of font info for 85 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 102i,6n,104p,598b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "Writing in science.pdf" (24 pages, 92687 bytes).
+ 102i,6n,104p,1333b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on "Writing in science.pdf" (62 pages, 147171 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
- 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 528 PDF objects out of 1000 (max. 8388607)
+ 449 compressed objects within 5 object streams
+ 100 named destinations out of 1000 (max. 500000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
 

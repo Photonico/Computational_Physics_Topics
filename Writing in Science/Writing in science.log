@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.7.3)  4 JUL 2023 03:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.7.3)  4 JUL 2023 03:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -573,8 +573,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.87 \vspace{4pt}\par
-                     \textbullet\ Theses and Dissertations: In-depth studies... [1{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+l.85 \par\ 
+           \textopenbullet\ Physics Today [1{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -583,29 +583,34 @@ l.91 \newpage
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.123 \subsection
-                 {Examples of what not to do} [3]
+l.126 \par\ 
+            \textopenbullet\ Is this sentence easy to understand? [3]
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.150 \newpage
-              \subsection{Cut the clutter} [4] [5] [6] [7] [8] (./Writing in science.aux)
+              \subsection{Cut the clutter} [4] [5] [6] [7] [8] [9] [10] [11] [12]
+Overfull \hbox (2.32668pt too wide) in paragraph at lines 398--399
+[]\OT1/cmr/m/n/12 Studies have be-gun to de-scribe the epi-demi-ol-ogy of autism, in-clud-ing re-cent changes
+ []
+
+[13] [14] [15] (./Writing in science.aux)
 Package rerunfilecheck Info: File `"Writing in science".out' has not changed.
-(rerunfilecheck)             Checksum: 31DA356228CE2FD7BC8FC77E6E190D12;1696.
+(rerunfilecheck)             Checksum: BAAE8FB541957FB22392ABDEB1BFBE99;2843.
  ) 
 Here is how much of TeX's memory you used:
- 23157 strings out of 477909
- 421826 string characters out of 5838517
+ 23178 strings out of 477909
+ 422074 string characters out of 5838517
  1856388 words of memory out of 5000000
- 42958 multiletter control sequences out of 15000+600000
+ 42965 multiletter control sequences out of 15000+600000
  526957 words of font info for 85 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 102i,6n,104p,598b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,104p,598b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "Writing in science.pdf" (12 pages, 71428 bytes).
+Output written on "Writing in science.pdf" (19 pages, 85471 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
- 19 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1825,6 +1825,9 @@ Writing a science news story
   + Often circles back to the lead;
   + A quote can be effective.
 
+My assignment
+> In a groundbreaking study, researchers have made strides in helping locked-in syndrome who are paralyzed and unable to communicate, but are mentally aware, to express themselves. The scientists used a new technique that can be used to measure people's thoughts by measuring blood flow in the brain through the skull. The tool accurately divined whether the patient was thinking "yes" or "no." This breakthrough could be the first step towards giving a voice to those in a locked-in state.
+
 ### 8.5 Interviewing a Scientist
 
 + Why do you need the scientist to speak well?

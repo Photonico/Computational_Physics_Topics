@@ -1321,7 +1321,7 @@ Content of peer review
   + Do not spend your time nit-picking;
   + Focus on big-picture issues;
   + If the manuscript has a lot of copy-editing errors, point this out in a general way and give one or two examples.
-  > The manuscript contains typos, such as...
+    > The manuscript contains typos, such as...
 
 + Comments to editors (authors do not see these):
   + Fill out the journal "grading sheet" (if applicable);
@@ -1827,8 +1827,47 @@ Writing a science news story
 
 ### 8.5 Interviewing a Scientist
 
-### 8.6 Social media
++ Why do you need the scientist to speak well?
+  + You want to quote them;
+  + You need their analogies/descriptions;
+  + You want the scientists to seem like real people.
+
++ What questions elicited those quotes?
+  + What is the significance of this work?
+  + Who will benefit from this work?
+  + What did you think when you got the result?
+  + What made you look into this question?
+
++ Anatomy of an interview
+  + Get the scientists thinking big picture:
+    > Can you describe the key points?
+  + Get some context for the reader:
+    > Why is this important?
+  + Fill in the details:
+    > How does that work?
+  + Let the magic happen:
+
+### 8.6 Social Media for science communication
+
++ Know what you want to achieve before starting to engage, then figure out how you are going to measure success.
+
++ Why engage in social media?
+  + The reputation of a school or institute;
+  + Promote your cause;
+  + Show thought leadership;
+  + Engage people in a topic;
+  + Drive traffic;
+  + Promote a personal brand;
+  + Connect with like-minded people.
+
++ Social media roundup
+  + Be real, because if you are trying too hard it shows;
+  + To pull that off, know who you are talking to;
+  + And know why those people would follow you.
+
++ Biggie
+  + Engage, do not teach.
 
 ### 8.7 Concluding Remarks
 
-### Lay summary exercise
+As a scientist, you have a responsibility to communicate your science clearly and effectively and to as broad an audience as possible. We live in an era of science denial. Science and facts are under attack. As scientists, we have to do a better job of communicating science in a clear, accessible and engaging way. Please spread the word and pass on the skills you've learned in this class to other scientists to help them become better communicators.

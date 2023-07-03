@@ -1684,20 +1684,151 @@ An example:
 
 ### 8.1 Talking with the Media
 
-+ Being interviewed by a journalist
-  + What the journalist is waiting to hear, and will use in his/her article;
-    + Take-home message,
-    + How your research affects people (i.e., their readers),
-    + What's different or new about your result (the "news hook").
++ Being interviewed by a journalist, what the journalist is waiting to hear, and will use in his/her article
+  + Take-home message,
+  + How your research affects people (i.e., their readers),
+  + What's different or new about your result (the "news hook"),
+  + Colorful prose,
+  + Interesting stroies (anecdotes),
+  + Paradox/irony/surprise,
+  + People-focused stories,
+  + Historical facts or the development of the idea,
+  + Sweeping comments about the significance of the work (makes a good first quote),
+  + Controversy, criticism, or laudatory praise, if you are being asked to comment on a peer's research.
+
++ Your job as the interviewee
+  + Be prepared;
+  + Avoid jargon, and pretend that you are talking to your aunt, uncle, ...
+  + Give the journalist clear take-home messages;
+  + Anticipate confusion, and misinterpretations, and explain them away;
+  + Give a clear statement of key limitations of the work.
+  + Think carefully about how to present data or numbers in a way that is understandable to the general audience:
+    + Make units understandable;
+    + Present risks in an easy-to-understand, transparent way.
+
++ Explaining risk to a journalist or lay public
+  + Whole numbers are easier to understand than fractions and percents;
+  + Relative risk can be high even if absolute risk is low.
 
 ### 8.2 Panel Interview
 
++ Preparation for interview
+  + Do practice interviews with a partner;
+  + Identify and document the critical information that you want to communicate;
+  + Learn about who will be interviewing you, their style, and t types of questions they may ask;
+  + Ask for the questions in advance;
+  + Ask if there is a predetermined "angle" for the article.
+
++ Are there times when you might want to turn down an interview?
+  + Many requests may be overwhelming;
+  + Work with your press office to prioritize requests.
+
++ Surprising experiences
+  + An interview is over very quickly;
+  + The amount of time you will have to express your thoughts will vary based on the interview format;
+  + Much of the interview is prepared ahead of time;
+
++ How to prepare for your next interview?
+  + Prepare ways to redirect questions to the topics you want to talk about;
+  + Practice the key topics you plan to talk about;
+  + Make your point and then wait for the next question;
+  + Help your interviewer stay accurate by pausing or speaking slowly;
+  + Prepare a "take-away" statement to reinforce your main point.
+
++ Tips about interviews
+  + Imagine you are talking to "Uncle Bob" and let yourself use more conversational language;
+  + Remember to do mock interviews.
+
++ Parting Messages
+  + Get to know your press office contact;
+  + Prepare and practice for your interview;
+  + Tailor your message for a wide audience;
+  + Use the opportunity to explain your work.
+
 ### 8.3 Writing for general audiences
 
++ Writing for the lay public is similar to scientific writing!
+
++ Whether writing for a general audience or other scientists, you should
+  + Be concise;
+  + Be clear;
+  + Be engaging.
+
++ When writing for a general audience, you mush additionally
+  + Start with the take-home message, tell readers up front why they should care;
+  + Recognize and avoid jargon, this includes not just technical terms, but also "scientist-speak";
+  + Unpack the science, your audience may be unfamiliar with basic scientific concepts that you take for granted, and you need to explain the science without handwaving;
+  + Filter out unnecessary details, because lay audiences don't need to know all the gritty scientific details;
+  + Get there faster, and trust your reader!
+  + Tell a story, use storytelling techniques to set a scene, focus on characters, and follow a plot.
+
 ### 8.4 Writing a science news story
+
++ Writing a science news story means news writing.
+
++ Crucial information for news writing
+  + Recall five "W"s and the "H"
+    + Who? What? Where? When? Why? How?
+    + Any good news story provides answers to each of these questions.
+
+Writing a science news story
+
++ New stories follow a basic formula just as scientific journal articles do;
+  + Lead,
+  + Nut Graf,
+  + The first quote (3~6 paragraphs down) - brings in the human elements,
+  + Body of the story,
+  + Kicker.
+
++ Lead
+  + The first paragraph;
+  + Grabs the reader's attention;
+  + Guidelines:
+    + 1~2 sentences;
+    + Aim for less than 40 words;
+    + Use the main verb to carry the main news, and use action verbs;
+    + Give complementary, but different information than the headline;
+    + Provide some, but not necessarily all, of five "W"s and one "H".
+
++ Nut Graf
+  + Shortly after the lead paragraph, the so-called "Nut Graf" flushes out the story: the five "W"s and one "H";
+  + Occasionally, the nut graf is hidden-contained within the lead or strewn throughout several paragraphs, but usually, it's identifiable.
+
++ Quotes
+  + The fun part of news writing! The interview doesn't involve any "writing" on your part - just eliciting good quotes and strategic placement;
+  + Give a human dimension to the story;
+  + Provide evidence;
+  + Provide opinion;
+  + Provide color and flavor;
+  + Flush out the main idea;
+  + Move the story along.
+
++ The first quote
+  + Often gives a "big picture" overview of why the research is important.
+
++ Attribution
+  + Prefer "said" (or, "says") to other possibilities, such as "noted", or, "remarked", which have particular connotations.
+
++ Body of the story
+  + Flushes out the story - walk the reader through the important parts of the research;
+  + Components of the body:
+    + What was done before;
+    + Research question;
+    + What was done in this study - key experiments or key findings;
+    + Implications, caveats, or outside commentary.
+  + Filter out less important details!
+  + Use quotes to add flavor and break up the story.
+
++ Kicker
+  + The ending;
+  + Leaves the reader feeling satisfied;
+  + Often circles back to the lead;
+  + A quote can be effective.
 
 ### 8.5 Interviewing a Scientist
 
 ### 8.6 Social media
 
 ### 8.7 Concluding Remarks
+
+### Lay summary exercise

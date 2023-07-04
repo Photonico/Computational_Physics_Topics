@@ -1312,7 +1312,7 @@ Process of peer review
   + Are the references that they cite current?
   + Have they omitted key references?
 
-Content of peer review
+### 6.8 Content of peer review
   
 + Comments to authors:
   + Start with a one-paragraph "general overview":
@@ -1340,7 +1340,7 @@ Content of peer review
     + Accept.
   + Give a succinct overall statement to the editors that justifies your ranking. Be frank with the editors about your opinion and concerns.
 
-### 6.8 Predatory journals
+### 6.9 Predatory journals
 
 + Predatory journals
   + Predatory journals are bogus journals that are exploiting the open-access model to make money;
@@ -1374,9 +1374,9 @@ Content of peer review
   + Qualitative review.
 
 + Type II: Systematic review
-  + Attempts to find and summarize all relevant studies. May even include unpublished work;
-  + Follows a rigorous search strategy using pre-defined exclusion and inclusion criteria. Searches multiple databases;
-  + Evaluates the quality of each study using rigorous, pre-defined criteria (often quantitative).
+  + Attempt to find and summarize all relevant studies. May even include unpublished work;
+  + Follow a rigorous search strategy using pre-defined exclusion and inclusion criteria. Searches multiple databases;
+  + Evaluate the quality of each study using rigorous, pre-defined criteria (often quantitative).
 
 + Type III: Meta-analysis
   + A systematic review that additionally uses statistical techniques to pool data from independent studies (sometimes including unpublished studies).

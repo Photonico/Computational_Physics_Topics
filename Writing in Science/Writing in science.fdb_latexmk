@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1688464922 "/home/lu/Desktop/Repos/Computational Physics/Writing in Science/Writing in science.tex" "Writing in science.pdf" "Writing in science" 1688464923 0
-  "/home/lu/Desktop/Repos/Computational Physics/Writing in Science/Writing in science.tex" 1688464919 113383 7ba279834cf3b6a6b3d4cd6b785bf1a0 ""
+["pdflatex"] 1688465068 "/home/lu/Desktop/Repos/Computational Physics/Writing in Science/Writing in science.tex" "Writing in science.pdf" "Writing in science" 1688465069 0
+  "/home/lu/Desktop/Repos/Computational Physics/Writing in Science/Writing in science.tex" 1688465066 113348 45f55f00661c247b01e36e6a69560b7f ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1687799903 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1687799903 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1687799903 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -175,9 +175,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1687799903 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1688392754 4519637 70aa39fc3bcb70d306f296de3be1c260 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1688392720 6798011 dbf445836204808ad8014f12c4d50451 ""
-  "Writing in science.aux" 1688464923 8605 f5e38a5594563a04f99d757dd00aa652 "pdflatex"
-  "Writing in science.out" 1688464923 10216 add2020066a411a818842a6bb4da2aaa "pdflatex"
-  "Writing in science.toc" 1688464923 5426 c2cc15a71d2ee39ef876838e81345ba5 "pdflatex"
+  "Writing in science.aux" 1688465069 8605 f5e38a5594563a04f99d757dd00aa652 "pdflatex"
+  "Writing in science.out" 1688465069 10216 add2020066a411a818842a6bb4da2aaa "pdflatex"
+  "Writing in science.toc" 1688465069 5426 c2cc15a71d2ee39ef876838e81345ba5 "pdflatex"
   (generated)
   "Writing in science.aux"
   "Writing in science.log"

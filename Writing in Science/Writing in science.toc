@@ -56,3 +56,10 @@
 \contentsline {subsection}{\numberline {7.5}Write letters of recommendation}{76}{subsection.7.5}%
 \contentsline {subsection}{\numberline {7.6}Write the personal statement}{80}{subsection.7.6}%
 \contentsline {section}{\numberline {8}Interview}{83}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Talking with the Media}{83}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Panel Interview}{84}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Writing for general audiences}{86}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Writing a science news story}{87}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Interviewing a Scientist}{89}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Social Media for science communication}{90}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Assignment II}{91}{subsection.8.7}%

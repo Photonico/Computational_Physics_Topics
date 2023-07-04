@@ -1087,7 +1087,7 @@ After:
     + Implication, speculation, or recommendation.
 
 + The two forms of Abstract
-  + The abstract may be structured (with subheadings), or free form.
+  + The abstract may be structured (with subheadings) or in free form.
 
 ## Unit 6 Publication process
 
@@ -1690,6 +1690,8 @@ An example:
 
 ## Unit 8
 
+As a scientist, you have a responsibility to communicate your science clearly and effectively and to as broad an audience as possible. We live in an era of science denial. Science and facts are under attack. As scientists, we have to do a better job of communicating science in a clear, accessible and engaging way. 
+
 ### 8.1 Talking with the Media
 
 + Being interviewed by a journalist, what the journalist is waiting to hear, and will use in his/her article
@@ -1833,9 +1835,6 @@ Writing a science news story
   + Often circles back to the lead;
   + A quote can be effective.
 
-My assignment
-> In a groundbreaking study, researchers have made strides in helping locked-in syndrome who are paralyzed and unable to communicate, but are mentally aware, to express themselves. The scientists used a new technique that can be used to measure people's thoughts by measuring blood flow in the brain through the skull. The tool accurately divined whether the patient was thinking "yes" or "no." This breakthrough could be the first step towards giving a voice to those in a locked-in state.
-
 ### 8.5 Interviewing a Scientist
 
 + Why do you need the scientist to speak well?
@@ -1889,4 +1888,4 @@ Write a brief summary (3-4 sentences) of this research for a lay audience. (Do n
 
 Answer
 
-> As a scientist, you have a responsibility to communicate your science clearly and effectively and to as broad an audience as possible. We live in an era of science denial. Science and facts are under attack. As scientists, we have to do a better job of communicating science in a clear, accessible and engaging way. Please spread the word and pass on the skills you've learned in this class to other scientists to help them become better communicators.
+> In a groundbreaking study, researchers have made strides in helping locked-in syndrome who are paralyzed and unable to communicate, but are mentally aware, to express themselves. The scientists used a new technique that can be used to measure people's thoughts by measuring blood flow in the brain through the skull. The tool accurately divined whether the patient was thinking "yes" or "no." This breakthrough could be the first step towards giving a voice to those in a locked-in state.

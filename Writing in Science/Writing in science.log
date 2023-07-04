@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.7.3)  4 JUL 2023 18:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.7.3)  4 JUL 2023 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -595,29 +595,29 @@ Overfull \hbox (2.32668pt too wide) in paragraph at lines 396--397
  []
 
 [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 851.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 854.
  (/usr/share/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 851.
- [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] (./Writing in science.aux)
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 854.
+ [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] (./Writing in science.aux)
 Package rerunfilecheck Info: File `"Writing in science".out' has not changed.
-(rerunfilecheck)             Checksum: 6F5B65DA1CA59DC959CFB81418467C0D;9038.
+(rerunfilecheck)             Checksum: C298932685EA56FA8476E20C007BFB19;10343.
  ) 
 Here is how much of TeX's memory you used:
- 23354 strings out of 477909
- 424129 string characters out of 5838517
+ 23376 strings out of 477909
+ 424395 string characters out of 5838517
  1864388 words of memory out of 5000000
- 43028 multiletter control sequences out of 15000+600000
+ 43035 multiletter control sequences out of 15000+600000
  526957 words of font info for 85 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  102i,6n,104p,1333b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "Writing in science.pdf" (87 pages, 180012 bytes).
+Output written on "Writing in science.pdf" (95 pages, 192393 bytes).
 PDF statistics:
- 729 PDF objects out of 1000 (max. 8388607)
- 623 compressed objects within 7 object streams
- 143 named destinations out of 1000 (max. 500000)
- 477 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 801 PDF objects out of 1000 (max. 8388607)
+ 687 compressed objects within 7 object streams
+ 158 named destinations out of 1000 (max. 500000)
+ 533 words of extra memory for PDF output out of 10000 (max. 10000000)
 

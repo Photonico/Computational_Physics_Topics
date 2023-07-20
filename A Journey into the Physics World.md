@@ -152,6 +152,8 @@ Pick your favorite lecture or book for the courses you are interested in.
 
 * [lecture] String Theory, by Leonard Susskind, at Stanford.
 
+* [lecture] MIT 8.851 Effective Field Theory, by Iain Stewart, at MIT.
+
 * [book] Introduction to Elementary Particles, by David Griffiths.
 
 ## Mathematical Methods

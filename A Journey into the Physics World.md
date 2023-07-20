@@ -68,13 +68,13 @@ Pick your favorite lecture or book for the courses you are interested in.
 
 * [lecture] Statistical Mechanics by Leonard Susskind at Stanford
 
-* [book] Statistical Physics of Particles by Mehran Kardar
-
-* [book] Statistical Physics of Fields by Mehran Kardar
-
 * [lecture] MIT8.333 Statistical Physics of Particles by Mehran Kardar at MIT
 
 * [lecture] MIT8.334 Statistical Physics of Fields by Mehran Kardar at MIT
+
+* [book] Statistical Physics of Particles by Mehran Kardar
+
+* [book] Statistical Physics of Fields by Mehran Kardar
 
 * [book] Statistical Mechanic by Werner Krauth
 
@@ -160,6 +160,6 @@ Pick your favorite lecture or book for the courses you are interested in.
 
 ## Other
 
-* [book] On Writing Well by William Zinsser
-
 * [Lecture] Writing in the Sciences by Kristin Sainani at Stanford
+
+* [book] On Writing Well by William Zinsser

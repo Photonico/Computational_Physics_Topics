@@ -176,7 +176,13 @@ Pick your favorite lecture or book for each course you are interested in.
 
 * [book] A Modern Introduction to Mathematical Analysis, by Alessandro Fonda.
 
-* [book] Mathematical Physics 2nd, by S.Hassani.
+* [book] Advanced Calculus, by Patrick Fitzpatrick, American Mathematical Society, 2009.
+
+* [book] Principles of Mathematical Analysis, by Tom M. Apostol, Addison-Wesley, 1974.
+
+* [book] Mathematical Analysis, by Walter Rudin, McGraw-Hill, 1976.
+
+* [book] Mathematical Physics 2nd, by Sadri Hassani.
 
 * [book] Geometry Topology and Physics, by Mikio Nakahara.
 

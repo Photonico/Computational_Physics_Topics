@@ -8,160 +8,186 @@ Pick your favorite lecture or book for the courses you are interested in.
 
 ## General Physics
 
-* [book] The Feynman Lecture on Physics vol 1,2,3 by Richard Feynman
+* [lecture] Opencourse of Fundamentals of Physics Ⅰ & Ⅱ, by Ramamurti Shankar at Yale.
 
-* [book] Fundamentals of Physics vol 1,2 by Ramamurti Shankar
+* [lecture] General Physics Ⅰ & Ⅱ, by Fu-Goul Yee, at NTU Taiwan (in Chinese).
+
+* [book] Fundamentals of Physics vol 1, 2, by Ramamurti Shankar.
+
+* [book] The Feynman Lectures on Physics vol 1, 2, 3, by Richard Feynman.
 
 ## Classical Mechanics
 
-* [lecture] Classical Mechanics by Leonard Susskind at Stanford
+* [lecture] Classical Mechanics, by Leonard Susskind, at Stanford.
 
-* [lecture] Graduate Classical Mechanics by Sasha Tchekhovskoy at Northwestern
+* [lecture] Graduate Classical Mechanics, by Sasha Tchekhovskoy, at Northwestern.
 
-* [lecture] Classical Mechanics by Marco Fabbrichesi at ICTP
+* [lecture] Classical Mechanics, by Marco Fabbrichesi, at ICTP.
 
-* [book] Mechanics by Lev D. Landau, Evgeny M. Lifshitz
+* [book] Mechanics, by Lev D. Landau, Evgeny M. Lifshitz.
 
-* [book] Classical Mechanics by Tom Kibble
+* [book] Classical Mechanics, by Tom Kibble.
 
-* [book] A Primer of Analytical Mechanics by Franco Strocchi
+* [book] A Primer of Analytical Mechanics, by Franco Strocchi.
 
-* [book] GTM60 Mathematical Methods of Classical Mechanics by V. I. Arnold
+* [book] GTM 60 Mathematical Methods of Classical Mechanics, by V. I. Arnold.
 
 ## Electrodynamics
 
-* [book] Introduction to Electrodynamics by David J. Griffiths
+* [lecture] Advanced Electromagnetism, by Fu-Goul Yee, at NTU Taiwan (in Chinese).
 
-* [book] The Feynman Lecture on Physics vol 2 by Richard Feynman
+* [book] The Feynman Lectures on Physics vol 2, by Richard Feynman.
 
-* [book] Classical Electrodynamics by John Jackson
+* [book] Introduction to Electrodynamics, by David J. Griffiths.
 
-* [Lecture] Advanced Electromagnetism by Fu-Goul Yee at NTU Taiwan (in Chinese)
+* [book] Classical Electrodynamics, by John Jackson.
 
 ## Classical Optics
 
-* [book] Principle of Optics, Max Born
+* [book] Principle of Optics, Max Born.
 
 ## Quantum Mechanics and Advanced Quantum Mechanics
 
-* [lecture] Quantum Mechanics by Leonard Susskind at Stanford
+* [lecture] Quantum Mechanics, by Leonard Susskind, at Stanford.
 
-* [book] The Principle of Quantum Mechanics by P.A.M. Dirac
+* [lecture] Quantum Entanglements, by Leonard Susskind, at Stanford.
 
-* [book] The Feynman Lecture on Physics vol 3 by Richard Feynman
+* [lecture] MIT 8.04 Quantum Physics Ⅰ, by Barton Zwiebach, at MIT.
 
-* [book] Modern Quantum Mechanics by J.J. Sakurai
+* [lecture] MIT 8.05 Quantum Physics Ⅱ, by Barton Zwiebach, at MIT.
 
-* [book] Quantum Mechanics vol 1,2,3 by Claude Cohen-Tannoudji
+* [lecture] MIT 8.06 Quantum Physics Ⅲ, by Barton Zwiebach, at MIT.
 
-* [book] The Principle of Quantum Mechanics by Ramamurti Shankar
+* [lecture] Quantum Mechanics, by Fu-Goul Yee, at NTU Taiwan (in Chinese).
 
-* [book] Introduction to Quantum Mechanics by David J. Griffiths
+* [lecture] Quantum Mechanics, by Hsiung Chou, at NSYSU Taiwan (in Chinese).
 
-* [book] Topics in Advanced Quantum Mechanics by Barry R. Holstein
+* [book] The Feynman Lectures on Physics vol 3, by Richard Feynman.
 
-* [Lecture] Quantum Mechanics by Fu-Goul Yee at NTU Taiwan (in Chinese)
+* [book] Introduction to Quantum Mechanics, by David J. Griffiths.
 
-* [Lecture] Quantum Mechanics by Hsiung Chou at NSYSU Taiwan (in Chinese)
+* [book] Modern Quantum Mechanics, by J.J. Sakurai.
+
+* [book] Mastering Quantum Mechanics, by Barton Zwiebach.
+
+* [book] The Principle of Quantum Mechanics, by Ramamurti Shankar.
+
+* [book] The Principle of Quantum Mechanics, by P.A.M. Dirac.
+
+* [book] Quantum Mechanics vol 1,2,3, by Claude Cohen-Tannoudji.
+
+* [book] Topics in Advanced Quantum Mechanics, by Barry R. Holstein.
 
 ## Statistical Mechanics
 
-* [lecture] Statistical Mechanics by Leonard Susskind at Stanford
+* [lecture] Statistical Mechanics, by Leonard Susskind, at Stanford.
 
-* [lecture] MIT8.333 Statistical Physics of Particles by Mehran Kardar at MIT
+* [lecture] MIT 8.333 Statistical Physics of Particles, by Mehran Kardar, at MIT.
 
-* [lecture] MIT8.334 Statistical Physics of Fields by Mehran Kardar at MIT
+* [lecture] MIT 8.334 Statistical Physics of Fields, by Mehran Kardar, at MIT.
 
-* [book] Statistical Physics of Particles by Mehran Kardar
+* [book] Statistical Physics of Particles, by Mehran Kardar.
 
-* [book] Statistical Physics of Fields by Mehran Kardar
+* [book] Statistical Physics of Fields, by Mehran Kardar.
 
-* [book] Statistical Mechanic by Werner Krauth
+* [book] Statistical Mechanic, by Werner Krauth.
 
 ## Relativity
 
-* [lecture] Specific Relativity by Leonard Susskind at Stanford
+* [lecture] Specific Relativity, by Leonard Susskind, at Stanford.
 
-* [lecture] General Theory of Relativity by Leonard Susskind at Stanford
+* [lecture] General Theory of Relativity, by Leonard Susskind, at Stanford.
 
-* [book] General Theory of Relativity by P.A.M. Dirac
+* [book] General Theory of Relativity, by P.A.M. Dirac.
 
-* [book] Spacetime and Geometry: An Introduction to General Relativity by Sean M. Carroll
+* [book] Spacetime and Geometry: An Introduction to General Relativity, by Sean M. Carroll.
 
-* [book] Introduction to Elementary Particles by David Griffiths
+* [book] Differential Geometry and General Relativity, vol 1, 2, 3, by Canbin Liang, Bin Zhou.
 
 ## Atom and Quantum Optics
 
-* [lecture] Quantum Entanglements by Leonard Susskind at Stanford
+* [lecture] Quantum Optics, by Alain Aspect, at COURSERA.
 
-* [book] Quantum Optics by D.F. Walls and Gerard Milburn
+* [lecture] MIT 4.21, atomic and Optical Physics Ⅰ, by Wolfgang Ketterle, at MIT.
 
-* [book] Quantum Optics - Taming the Quantum by Pierre Meystre
+* [lecture] MIT 4.22, atomic and Optical Physics Ⅱ, by Wolfgang Ketterle, at MIT.
 
-* [book] Nano and Quantum Optics by Ulrich Hohenester
+* [book] Quantum Optics, by D.F. Walls and Gerard Milburn.
 
-* [Lecture] Quantum Optics by Alain Aspect at Coursera
+* [book] Quantum Optics - Taming the Quantum, by Pierre Meystre.
+
+* [book] Nano and Quantum Optics, by Ulrich Hohenester.
 
 ## Solid Physics and Condensed Matter Physics
 
-* [Lecture] Condensed Matter Physics by Catherine Stampfl at USYD
+* [lecture] Condensed Matter Physics, by Catherine Stampfl, at USYD.
 
-* [book] Quantum Field Theory and Condensed Matter - An Introduction by Ramamurti Shankar
+* [lecture] MIT 5.61 Physical Chemistry, by Robert Field, at MIT.
 
-* [book] The Oxford Solid State Basics by Steven Simon
+* [book] The Oxford Solid State Basics, by Steven Simon.
+
+* [book] Quantum Field Theory and Condensed Matter - An Introduction, by Ramamurti Shankar.
 
 ## Quantum Field Theory
 
-* [book] Quantum Field Theory by Claude Itzykson, Jean-Bernard Zuber
+* [book] Quantum Field Theory, as Simply as Possible, by A. Zee.
 
-* [book] Quantum Field Theory, as Simply as Possible by A. Zee
+* [book] Quantum Field Theory in a Nutshell, by A. Zee.
 
-* [book] Quantum Field Theory in a Nutshell by A. Zee
+* [book] Quantum Field Theory, by Claude Itzykson, Jean-Bernard Zuber.
 
-* [book] An Introduction To Quantum Field Theory by Michael E. Peskin
+* [book] An Introduction To Quantum Field Theory, by Michael E. Peskin.
 
-* [book] Quantum Field Theory and the Standard Model by Matthew D. Schwartz
+* [book] Quantum Field Theory and the Standard Model, by Matthew D. Schwartz.
 
 ## Cosmology
 
-* [lecture] Cosmology by Leonard Susskind at Stanford
+* [lecture] Cosmology, by Leonard Susskind, at Stanford.
+
+* [lecture] MIT 8.286 The Early Universe, by Alan Guth, at MIT.
 
 ## Particle Physics and High Energy Physics
 
-* [lecture] New Revolutions in Particle Physics by Leonard Susskind at Stanford
+* [lecture] New Revolutions in Particle Physics, by Leonard Susskind, at Stanford.
 
-* [lecture] String Theory by Leonard Susskind at Stanford
+* [lecture] String Theory, by Leonard Susskind, at Stanford.
+
+* [book] Introduction to Elementary Particles, by David Griffiths.
 
 ## Mathematical Methods
 
-* [Lecture] MIT18.06 Linear Algebra by Gilbert Strang at MIT
+* [lecture] MIT18.06 Linear Algebra, by Gilbert Strang, at MIT.
 
-* [book] Linear Algebra Done Right by Sheldon Axler
+* [lecture] Mathematical Methods in Physics 2021, by Alex Flournoy, at Mines.
 
-* [book] Calculus - Early Transcendentals by James Stewart
+* [lecture] Calculus Ⅰ & Ⅱ, by Chen-Yu Chi, at NTU Taiwan (in Chinese).
 
-* [book] A Modern Introduction to Mathematical Analysis by Alessandro Fonda
+* [lecture] Analysis Ⅰ & Ⅱ, by Chen-Yu Chi, at NTU Taiwan (in Chinese).
 
-* [book] Mathematical Physics 2nd by S.Hassani
+* [lecture] Applied Mathematics in Physics, by Hsiung Chou, at NSYSU Taiwan (in Chinese).
 
-* [book] Geometry Topology and Physics by Mikio Nakahara
+* [lecture] Mathematical Physics 1, 2, 3, & 4, by Lee Lin, at NCHU Taiwan (in Chinese).
 
-* [Lecture] Mathematical Methods in Physics 2021 by Alex Flournoy at Mines
+* [book] Linear Algebra Done Right, by Sheldon Axler.
 
-* [Lecture] Calculus I & II by Chen-Yu Chi at NTU Taiwan (in Chinese)
+* [book] Calculus - Early Transcendentals, by James Stewart.
 
-* [Lecture] Analysis I & II by Chen-Yu Chi at NTU Taiwan (in Chinese)
+* [book] A Modern Introduction to Mathematical Analysis, by Alessandro Fonda.
 
-* [Lecture] Applied Mathematics in Physics by Hsiung Chou at NSYSU Taiwan (in Chinese)
+* [book] Mathematical Physics 2nd, by S.Hassani.
 
-* [Lecture] Mathematical Physics 1,2,3,4 by Lee Lin at NCHU Taiwan (in Chinese)
+* [book] Geometry Topology and Physics, by Mikio Nakahara.
 
 ## Computational Physics
 
-* [book] Numerical Methods in Physics with Python by Alex Gezerlis
+* [lecture] Computational Physics Course in Python, by Kristjan Haule, at Rutgers.
+
+* [book] Numerical Methods in Physics with Python, by Alex Gezerlis.
 
 ## Other
 
-* [Lecture] Writing in the Sciences by Kristin Sainani at Stanford
+* [lecture] Writing in the Sciences, by Kristin Sainani, at Stanford.
 
-* [book] On Writing Well by William Zinsser
+* [lecture] MIT 5.95J Teaching College-Level Science And Engineering, by Sanjoy Mahajan, at MIT.
+
+* [book] On Writing Well, by William Zinsser.

@@ -4,7 +4,7 @@ Created by Lu Niu
 
 ## How to Use
 
-Pick your favorite lecture or book for each courses you are interested in.
+Pick your favorite lecture or book for each course you are interested in.
 
 ## General Physics
 

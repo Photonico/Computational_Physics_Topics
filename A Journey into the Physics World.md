@@ -102,7 +102,9 @@ Pick your favorite lecture or book for the courses you are interested in.
 
 * [Lecture] Quantum Optics by Alain Aspect at Coursera
 
-## Condensed Matter Physics
+## Solid Physics and Condensed Matter Physics
+
+* [Lecture] Condensed Matter Physics by Catherine Stampfl at USYD
 
 * [book] Quantum Field Theory and Condensed Matter - An Introduction by Ramamurti Shankar
 

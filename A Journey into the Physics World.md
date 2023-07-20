@@ -1,5 +1,11 @@
 # A Journey into the Physics World - A Learning Recommendation List
 
+Created by Lu Niu
+
+## How to Use
+
+Pick your favorite lecture or book for the courses you are interested in.
+
 ## General Physics
 
 * [book] The Feynman Lecture on Physics vol 1,2,3 by Richard Feynman
@@ -8,7 +14,11 @@
 
 ## Classical Mechanics
 
-* [lecture] Classical Mechanics by Marco Fabrichesi at ICTP
+* [lecture] Classical Mechanics by Leonard Susskind at Stanford
+
+* [lecture] Graduate Classical Mechanics by Sasha Tchekhovskoy at Northwestern
+
+* [lecture] Classical Mechanics by Marco Fabbrichesi at ICTP
 
 * [book] Mechanics by Lev D. Landau, Evgeny M. Lifshitz
 
@@ -26,11 +36,15 @@
 
 * [book] Classical Electrodynamics by John Jackson
 
+* [Lecture] Advanced Electromagnetism by Fu-Goul Yee at NTU Taiwan (in Chinese)
+
 ## Classical Optics
 
 * [book] Principle of Optics, Max Born
 
 ## Quantum Mechanics and Advanced Quantum Mechanics
+
+* [lecture] Quantum Mechanics by Leonard Susskind at Stanford
 
 * [book] The Principle of Quantum Mechanics by P.A.M. Dirac
 
@@ -46,7 +60,13 @@
 
 * [book] Topics in Advanced Quantum Mechanics by Barry R. Holstein
 
+* [Lecture] Quantum Mechanics by Fu-Goul Yee at NTU Taiwan (in Chinese)
+
+* [Lecture] Quantum Mechanics by Hsiung Chou at NSYSU Taiwan (in Chinese)
+
 ## Statistical Mechanics
+
+* [lecture] Statistical Mechanics by Leonard Susskind at Stanford
 
 * [book] Statistical Physics of Particles by Mehran Kardar
 
@@ -58,17 +78,21 @@
 
 * [book] Statistical Mechanic by Werner Krauth
 
-## General Relativity
+## Relativity
+
+* [lecture] Specific Relativity by Leonard Susskind at Stanford
+
+* [lecture] General Theory of Relativity by Leonard Susskind at Stanford
 
 * [book] General Theory of Relativity by P.A.M. Dirac
 
 * [book] Spacetime and Geometry: An Introduction to General Relativity by Sean M. Carroll
 
-## Particle Physics
-
 * [book] Introduction to Elementary Particles by David Griffiths
 
 ## Atom and Quantum Optics
+
+* [lecture] Quantum Entanglements by Leonard Susskind at Stanford
 
 * [book] Quantum Optics by D.F. Walls and Gerard Milburn
 
@@ -96,6 +120,16 @@
 
 * [book] Quantum Field Theory and the Standard Model by Matthew D. Schwartz
 
+## Cosmology
+
+* [lecture] Cosmology by Leonard Susskind at Stanford
+
+## Particle Physics and High Energy Physics
+
+* [lecture] New Revolutions in Particle Physics by Leonard Susskind at Stanford
+
+* [lecture] String Theory by Leonard Susskind at Stanford
+
 ## Mathematical Methods
 
 * [Lecture] MIT18.06 Linear Algebra by Gilbert Strang at MIT
@@ -111,6 +145,14 @@
 * [book] Geometry Topology and Physics by Mikio Nakahara
 
 * [Lecture] Mathematical Methods in Physics 2021 by Alex Flournoy at Mines
+
+* [Lecture] Calculus I & II by Chen-Yu Chi at NTU Taiwan (in Chinese)
+
+* [Lecture] Analysis I & II by Chen-Yu Chi at NTU Taiwan (in Chinese)
+
+* [Lecture] Applied Mathematics in Physics by Hsiung Chou at NSYSU Taiwan (in Chinese)
+
+* [Lecture] Mathematical Physics 1,2,3,4 by Lee Lin at NCHU Taiwan (in Chinese)
 
 ## Computational Physics
 

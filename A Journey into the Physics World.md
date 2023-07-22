@@ -12,11 +12,7 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] General Physics Ⅰ & Ⅱ, Fu-Goul Yee, NTU Taiwan (in Chinese).
 
-* [lecture] MIT 18.01 Physics Ⅰ Classical Mechanics, MIT open course wave, MIT.
-
-* [lecture] MIT 18.02 Physics Ⅱ Electricity and Magnetism, MIT open course wave, MIT.
-
-* [lecture] MIT 18.03 Physics Ⅲ Vibrations and Waves Introduction, MIT open course wave, MIT.
+* [lecture] MIT 18.01-18.03, Physics Ⅰ, Ⅱ, Ⅲ, MIT open course ware, MIT.
 
 * [book] Fundamentals of Physics vol 1, 2, Ramamurti Shankar.
 
@@ -36,9 +32,11 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [book] A Primer of Analytical Mechanics, Franco Strocchi.
 
-* [book] GTM 60 Mathematical Methods of Classical Mechanics, V. I. Arnold.
+* [book] GTM 60, Mathematical Methods of Classical Mechanics, V. I. Arnold.
 
 ## Electrodynamics
+
+* [lecture] Advanced Electromagnetism, Marco Fabbrichesi, ICTP.
 
 * [lecture] Advanced Electromagnetism, Fu-Goul Yee, NTU Taiwan (in Chinese).
 
@@ -58,11 +56,17 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] Quantum Entanglements, Leonard Susskind, Stanford.
 
-* [lecture] MIT 8.04 Quantum Physics Ⅰ, Barton Zwiebach, MIT.
+* [lecture] Physics 221A, Quantum Mechanics Ⅰ, Robert Littlejohn, UC Berkeley.
 
-* [lecture] MIT 8.05 Quantum Physics Ⅱ, Barton Zwiebach, MIT.
+* [lecture] Physics 221B, Quantum Mechanics Ⅱ, Robert Littlejohn, UC Berkeley.
 
-* [lecture] MIT 8.06 Quantum Physics Ⅲ, Barton Zwiebach, MIT.
+* [lecture] Quantum Mechanics Ⅰ & Ⅱ, Namık Kemal PAK, METU.
+
+* [lecture] MIT 8.04, Quantum Physics Ⅰ, Barton Zwiebach, MIT.
+
+* [lecture] MIT 8.05, Quantum Physics Ⅱ, Barton Zwiebach, MIT.
+
+* [lecture] MIT 8.06, Quantum Physics Ⅲ, Barton Zwiebach, MIT.
 
 * [lecture] Quantum Mechanics, Fu-Goul Yee, NTU Taiwan (in Chinese).
 
@@ -88,9 +92,9 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] Statistical Mechanics, Leonard Susskind, Stanford.
 
-* [lecture] MIT 8.333 Statistical Physics of Particles, Mehran Kardar, MIT.
+* [lecture] MIT 8.333, Statistical Physics of Particles, Mehran Kardar, MIT.
 
-* [lecture] MIT 8.334 Statistical Physics of Fields, Mehran Kardar, MIT.
+* [lecture] MIT 8.334, Statistical Physics of Fields, Mehran Kardar, MIT.
 
 * [book] Statistical Physics of Particles, Mehran Kardar.
 
@@ -130,7 +134,7 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] Condensed Matter Physics, Catherine Stampfl, USYD.
 
-* [lecture] MIT 5.61 Physical Chemistry, Robert Field, MIT.
+* [lecture] MIT 5.61, Physical Chemistry, Robert Field, MIT.
 
 * [book] The Oxford Solid State Basics, Steven Simon.
 
@@ -152,7 +156,7 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] Cosmology, Leonard Susskind, Stanford.
 
-* [lecture] MIT 8.286 The Early Universe, Alan Guth, MIT.
+* [lecture] MIT 8.286, The Early Universe, Alan Guth, MIT.
 
 ## Particle Physics and High Energy Physics
 
@@ -160,15 +164,15 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] String Theory, Leonard Susskind, Stanford.
 
-* [lecture] MIT 8.701 Introduction to Nuclear and Particle Physics, Markus Klute, MIT.
+* [lecture] MIT 8.701, Introduction to Nuclear and Particle Physics, Markus Klute, MIT.
 
-* [lecture] MIT 8.851 Effective Field Theory, Iain Stewart, MIT.
+* [lecture] MIT 8.851, Effective Field Theory, Iain Stewart, MIT.
 
 * [book] Introduction to Elementary Particles, David Griffiths.
 
 ## Mathematical Methods
 
-* [lecture] MIT18.06 Linear Algebra, Gilbert Strang, MIT.
+* [lecture] MIT 18.06, Linear Algebra, Gilbert Strang, MIT.
 
 * [lecture] Mathematical Methods in Physics 2021, Alex Flournoy, Mines.
 
@@ -206,6 +210,6 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] Writing in the Sciences, Kristin Sainani, Stanford.
 
-* [lecture] MIT 5.95J Teaching College-Level Science And Engineering, Sanjoy Mahajan, MIT.
+* [lecture] MIT 5.95J, Teaching College-Level Science And Engineering, Sanjoy Mahajan, MIT.
 
 * [book] On Writing Well, William Zinsser.

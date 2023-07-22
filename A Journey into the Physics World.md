@@ -4,43 +4,49 @@ Created by Lu Niu
 
 ## How to Use
 
-Pick your favorite lecture or book for each course you are interested in.
+Pick your favorite lecture or book for each section you are interested in.
 
 ## General Physics
 
-* [lecture] Opencourse of Fundamentals of Physics Ⅰ & Ⅱ, by Ramamurti Shankar at Yale.
+* [lecture] Opencourse of Fundamentals of Physics Ⅰ & Ⅱ, Ramamurti Shankar, Yale.
 
-* [lecture] General Physics Ⅰ & Ⅱ, by Fu-Goul Yee, at NTU Taiwan (in Chinese).
+* [lecture] General Physics Ⅰ & Ⅱ, Fu-Goul Yee, NTU Taiwan (in Chinese).
 
-* [book] Fundamentals of Physics vol 1, 2, by Ramamurti Shankar.
+* [lecture] MIT 18.01 Physics Ⅰ Classical Mechanics, MIT open course wave, MIT.
 
-* [book] The Feynman Lectures on Physics vol 1, 2, 3, by Richard Feynman.
+* [lecture] MIT 18.02 Physics Ⅱ Electricity and Magnetism, MIT open course wave, MIT.
+
+* [lecture] MIT 18.03 Physics Ⅲ Vibrations and Waves Introduction, MIT open course wave, MIT.
+
+* [book] Fundamentals of Physics vol 1, 2, Ramamurti Shankar.
+
+* [book] The Feynman Lectures on Physics vol 1, 2, 3, Richard Feynman.
 
 ## Classical Mechanics
 
-* [lecture] Classical Mechanics, by Leonard Susskind, at Stanford.
+* [lecture] Classical Mechanics, Leonard Susskind, Stanford.
 
-* [lecture] Graduate Classical Mechanics, by Sasha Tchekhovskoy, at Northwestern.
+* [lecture] Graduate Classical Mechanics, Sasha Tchekhovskoy, Northwestern.
 
-* [lecture] Classical Mechanics, by Marco Fabbrichesi, at ICTP.
+* [lecture] Classical Mechanics, Marco Fabbrichesi, ICTP.
 
-* [book] Mechanics, by Lev D. Landau, Evgeny M. Lifshitz.
+* [book] Mechanics, Lev D. Landau, Evgeny M. Lifshitz.
 
-* [book] Classical Mechanics, by Tom Kibble.
+* [book] Classical Mechanics, Tom Kibble.
 
-* [book] A Primer of Analytical Mechanics, by Franco Strocchi.
+* [book] A Primer of Analytical Mechanics, Franco Strocchi.
 
-* [book] GTM 60 Mathematical Methods of Classical Mechanics, by V. I. Arnold.
+* [book] GTM 60 Mathematical Methods of Classical Mechanics, V. I. Arnold.
 
 ## Electrodynamics
 
-* [lecture] Advanced Electromagnetism, by Fu-Goul Yee, at NTU Taiwan (in Chinese).
+* [lecture] Advanced Electromagnetism, Fu-Goul Yee, NTU Taiwan (in Chinese).
 
-* [book] The Feynman Lectures on Physics vol 2, by Richard Feynman.
+* [book] The Feynman Lectures on Physics vol 2, Richard Feynman.
 
-* [book] Introduction to Electrodynamics, by David J. Griffiths.
+* [book] Introduction to Electrodynamics, David J. Griffiths.
 
-* [book] Classical Electrodynamics, by John Jackson.
+* [book] Classical Electrodynamics, John Jackson.
 
 ## Classical Optics
 
@@ -48,154 +54,158 @@ Pick your favorite lecture or book for each course you are interested in.
 
 ## Quantum Mechanics and Advanced Quantum Mechanics
 
-* [lecture] Quantum Mechanics, by Leonard Susskind, at Stanford.
+* [lecture] Quantum Mechanics, Leonard Susskind, Stanford.
 
-* [lecture] Quantum Entanglements, by Leonard Susskind, at Stanford.
+* [lecture] Quantum Entanglements, Leonard Susskind, Stanford.
 
-* [lecture] MIT 8.04 Quantum Physics Ⅰ, by Barton Zwiebach, at MIT.
+* [lecture] MIT 8.04 Quantum Physics Ⅰ, Barton Zwiebach, MIT.
 
-* [lecture] MIT 8.05 Quantum Physics Ⅱ, by Barton Zwiebach, at MIT.
+* [lecture] MIT 8.05 Quantum Physics Ⅱ, Barton Zwiebach, MIT.
 
-* [lecture] MIT 8.06 Quantum Physics Ⅲ, by Barton Zwiebach, at MIT.
+* [lecture] MIT 8.06 Quantum Physics Ⅲ, Barton Zwiebach, MIT.
 
-* [lecture] Quantum Mechanics, by Fu-Goul Yee, at NTU Taiwan (in Chinese).
+* [lecture] Quantum Mechanics, Fu-Goul Yee, NTU Taiwan (in Chinese).
 
-* [lecture] Quantum Mechanics, by Hsiung Chou, at NSYSU Taiwan (in Chinese).
+* [lecture] Quantum Mechanics, Hsiung Chou, NSYSU Taiwan (in Chinese).
 
-* [book] The Feynman Lectures on Physics vol 3, by Richard Feynman.
+* [book] The Feynman Lectures on Physics vol 3, Richard Feynman.
 
-* [book] Introduction to Quantum Mechanics, by David J. Griffiths.
+* [book] Introduction to Quantum Mechanics, David J. Griffiths.
 
-* [book] Modern Quantum Mechanics, by J.J. Sakurai.
+* [book] Modern Quantum Mechanics, J.J. Sakurai.
 
-* [book] Mastering Quantum Mechanics, by Barton Zwiebach.
+* [book] Mastering Quantum Mechanics, Barton Zwiebach.
 
-* [book] The Principle of Quantum Mechanics, by Ramamurti Shankar.
+* [book] The Principle of Quantum Mechanics, Ramamurti Shankar.
 
-* [book] The Principle of Quantum Mechanics, by P.A.M. Dirac.
+* [book] The Principle of Quantum Mechanics, P.A.M. Dirac.
 
-* [book] Quantum Mechanics vol 1,2,3, by Claude Cohen-Tannoudji.
+* [book] Quantum Mechanics vol 1,2,3, Claude Cohen-Tannoudji.
 
-* [book] Topics in Advanced Quantum Mechanics, by Barry R. Holstein.
+* [book] Topics in Advanced Quantum Mechanics, Barry R. Holstein.
 
 ## Statistical Mechanics
 
-* [lecture] Statistical Mechanics, by Leonard Susskind, at Stanford.
+* [lecture] Statistical Mechanics, Leonard Susskind, Stanford.
 
-* [lecture] MIT 8.333 Statistical Physics of Particles, by Mehran Kardar, at MIT.
+* [lecture] MIT 8.333 Statistical Physics of Particles, Mehran Kardar, MIT.
 
-* [lecture] MIT 8.334 Statistical Physics of Fields, by Mehran Kardar, at MIT.
+* [lecture] MIT 8.334 Statistical Physics of Fields, Mehran Kardar, MIT.
 
-* [book] Statistical Physics of Particles, by Mehran Kardar.
+* [book] Statistical Physics of Particles, Mehran Kardar.
 
-* [book] Statistical Physics of Fields, by Mehran Kardar.
+* [book] Statistical Physics of Fields, Mehran Kardar.
 
-* [book] Statistical Mechanic, by Werner Krauth.
+* [book] Statistical Mechanic, Werner Krauth.
 
 ## Relativity
 
-* [lecture] Specific Relativity, by Leonard Susskind, at Stanford.
+* [lecture] Specific Relativity, Leonard Susskind, Stanford.
 
-* [lecture] General Theory of Relativity, by Leonard Susskind, at Stanford.
+* [lecture] General Theory of Relativity, Leonard Susskind, Stanford.
 
-* [book] General Theory of Relativity, by P.A.M. Dirac.
+* [lecture] MIT 8.962 General Relativity, Scott Hughes, MIT.
 
-* [book] Spacetime and Geometry: An Introduction to General Relativity, by Sean M. Carroll.
+* [book] General Theory of Relativity, P.A.M. Dirac.
 
-* [book] Differential Geometry and General Relativity, vol 1, 2, 3, by Canbin Liang, Bin Zhou.
+* [book] Spacetime and Geometry: An Introduction to General Relativity, Sean M. Carroll.
+
+* [book] Differential Geometry and General Relativity, vol 1, 2, 3, Canbin Liang, Bin Zhou, Springer.
 
 ## Atom and Quantum Optics
 
-* [lecture] Quantum Optics, by Alain Aspect, at COURSERA.
+* [lecture] Quantum Optics, Alain Aspect, COURSERA.
 
-* [lecture] MIT 4.21, atomic and Optical Physics Ⅰ, by Wolfgang Ketterle, at MIT.
+* [lecture] MIT 4.21, Atomic and Optical Physics Ⅰ, Wolfgang Ketterle, MIT.
 
-* [lecture] MIT 4.22, atomic and Optical Physics Ⅱ, by Wolfgang Ketterle, at MIT.
+* [lecture] MIT 4.22, Atomic and Optical Physics Ⅱ, Wolfgang Ketterle, MIT.
 
-* [book] Quantum Optics, by D.F. Walls and Gerard Milburn.
+* [book] Quantum Optics, D.F. Walls and Gerard Milburn.
 
-* [book] Quantum Optics - Taming the Quantum, by Pierre Meystre.
+* [book] Quantum Optics - Taming the Quantum, Pierre Meystre.
 
-* [book] Nano and Quantum Optics, by Ulrich Hohenester.
+* [book] Nano and Quantum Optics, Ulrich Hohenester, Springer.
 
 ## Solid Physics and Condensed Matter Physics
 
-* [lecture] Condensed Matter Physics, by Catherine Stampfl, at USYD.
+* [lecture] Condensed Matter Physics, Catherine Stampfl, USYD.
 
-* [lecture] MIT 5.61 Physical Chemistry, by Robert Field, at MIT.
+* [lecture] MIT 5.61 Physical Chemistry, Robert Field, MIT.
 
-* [book] The Oxford Solid State Basics, by Steven Simon.
+* [book] The Oxford Solid State Basics, Steven Simon.
 
-* [book] Quantum Field Theory and Condensed Matter - An Introduction, by Ramamurti Shankar.
+* [book] Quantum Field Theory and Condensed Matter - An Introduction, Ramamurti Shankar.
 
 ## Quantum Field Theory
 
-* [book] Quantum Field Theory, as Simply as Possible, by A. Zee.
+* [book] Quantum Field Theory, as Simply as Possible, A. Zee.
 
-* [book] Quantum Field Theory in a Nutshell, by A. Zee.
+* [book] Quantum Field Theory in a Nutshell, A. Zee.
 
-* [book] Quantum Field Theory, by Claude Itzykson, Jean-Bernard Zuber.
+* [book] Quantum Field Theory, Claude Itzykson, Jean-Bernard Zuber.
 
-* [book] An Introduction To Quantum Field Theory, by Michael E. Peskin.
+* [book] An Introduction To Quantum Field Theory, Michael E. Peskin.
 
-* [book] Quantum Field Theory and the Standard Model, by Matthew D. Schwartz.
+* [book] Quantum Field Theory and the Standard Model, Matthew D. Schwartz.
 
 ## Cosmology
 
-* [lecture] Cosmology, by Leonard Susskind, at Stanford.
+* [lecture] Cosmology, Leonard Susskind, Stanford.
 
-* [lecture] MIT 8.286 The Early Universe, by Alan Guth, at MIT.
+* [lecture] MIT 8.286 The Early Universe, Alan Guth, MIT.
 
 ## Particle Physics and High Energy Physics
 
-* [lecture] New Revolutions in Particle Physics, by Leonard Susskind, at Stanford.
+* [lecture] New Revolutions in Particle Physics, Leonard Susskind, Stanford.
 
-* [lecture] String Theory, by Leonard Susskind, at Stanford.
+* [lecture] String Theory, Leonard Susskind, Stanford.
 
-* [lecture] MIT 8.851 Effective Field Theory, by Iain Stewart, at MIT.
+* [lecture] MIT 8.701 Introduction to Nuclear and Particle Physics, Markus Klute, MIT.
 
-* [book] Introduction to Elementary Particles, by David Griffiths.
+* [lecture] MIT 8.851 Effective Field Theory, Iain Stewart, MIT.
+
+* [book] Introduction to Elementary Particles, David Griffiths.
 
 ## Mathematical Methods
 
-* [lecture] MIT18.06 Linear Algebra, by Gilbert Strang, at MIT.
+* [lecture] MIT18.06 Linear Algebra, Gilbert Strang, MIT.
 
-* [lecture] Mathematical Methods in Physics 2021, by Alex Flournoy, at Mines.
+* [lecture] Mathematical Methods in Physics 2021, Alex Flournoy, Mines.
 
-* [lecture] Calculus Ⅰ & Ⅱ, by Chen-Yu Chi, at NTU Taiwan (in Chinese).
+* [lecture] Calculus Ⅰ & Ⅱ, Chen-Yu Chi, NTU Taiwan (in Chinese).
 
-* [lecture] Analysis Ⅰ & Ⅱ, by Chen-Yu Chi, at NTU Taiwan (in Chinese).
+* [lecture] Analysis Ⅰ & Ⅱ, Chen-Yu Chi, NTU Taiwan (in Chinese).
 
-* [lecture] Applied Mathematics in Physics, by Hsiung Chou, at NSYSU Taiwan (in Chinese).
+* [lecture] Applied Mathematics in Physics, Hsiung Chou, NSYSU Taiwan (in Chinese).
 
-* [lecture] Mathematical Physics 1, 2, 3, & 4, by Lee Lin, at NCHU Taiwan (in Chinese).
+* [lecture] Mathematical Physics 1, 2, 3, & 4, Lee Lin, NCHU Taiwan (in Chinese).
 
-* [book] Linear Algebra Done Right, by Sheldon Axler.
+* [book] Linear Algebra Done Right, Sheldon Axler.
 
-* [book] Calculus - Early Transcendentals, by James Stewart.
+* [book] Calculus - Early Transcendentals, James Stewart.
 
-* [book] A Modern Introduction to Mathematical Analysis, by Alessandro Fonda.
+* [book] A Modern Introduction to Mathematical Analysis, Alessandro Fonda.
 
-* [book] Advanced Calculus, by Patrick Fitzpatrick, American Mathematical Society, 2009.
+* [book] Advanced Calculus, Patrick Fitzpatrick, American Mathematical Society, 2009.
 
-* [book] Principles of Mathematical Analysis, by Tom M. Apostol, Addison-Wesley, 1974.
+* [book] Principles of Mathematical Analysis, Tom M. Apostol, Addison-Wesley, 1974.
 
-* [book] Mathematical Analysis, by Walter Rudin, McGraw-Hill, 1976.
+* [book] Mathematical Analysis, Walter Rudin, McGraw-Hill, 1976.
 
-* [book] Mathematical Physics 2nd, by Sadri Hassani.
+* [book] Mathematical Physics 2nd, Sadri Hassani.
 
-* [book] Geometry Topology and Physics, by Mikio Nakahara.
+* [book] Geometry Topology and Physics, Mikio Nakahara.
 
 ## Computational Physics
 
-* [lecture] Computational Physics Course in Python, by Kristjan Haule, at Rutgers.
+* [lecture] Computational Physics Course in Python, Kristjan Haule, Rutgers.
 
-* [book] Numerical Methods in Physics with Python, by Alex Gezerlis.
+* [book] Numerical Methods in Physics with Python, Alex Gezerlis.
 
 ## Other
 
-* [lecture] Writing in the Sciences, by Kristin Sainani, at Stanford.
+* [lecture] Writing in the Sciences, Kristin Sainani, Stanford.
 
-* [lecture] MIT 5.95J Teaching College-Level Science And Engineering, by Sanjoy Mahajan, at MIT.
+* [lecture] MIT 5.95J Teaching College-Level Science And Engineering, Sanjoy Mahajan, MIT.
 
-* [book] On Writing Well, by William Zinsser.
+* [book] On Writing Well, William Zinsser.

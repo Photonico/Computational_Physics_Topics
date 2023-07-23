@@ -118,7 +118,7 @@ Pick your favorite lecture or book for each section you are interested in.
 
 ## Atom and Quantum Optics
 
-* [lecture] Quantum Optics, Alain Aspect, COURSERA.
+* [lecture] Quantum Optics, Alain Aspect, Coursera.
 
 * [lecture] MIT 4.21, Atomic and Optical Physics Ⅰ, Wolfgang Ketterle, MIT.
 

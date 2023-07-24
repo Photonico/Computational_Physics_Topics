@@ -176,6 +176,8 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] Mathematical Methods in Physics 2021, Alex Flournoy, Mines.
 
+* [lecture] Differential Geometry, Claudio Arezzo, ICTP.
+
 * [lecture] Calculus Ⅰ & Ⅱ, Chen-Yu Chi, NTU Taiwan (in Chinese).
 
 * [lecture] Analysis Ⅰ & Ⅱ, Chen-Yu Chi, NTU Taiwan (in Chinese).

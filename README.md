@@ -8,7 +8,7 @@
 
 ## About this repository
 
-My notes on Algorithms and Computational Physics, Python 3.10 is the major demonstrated programming language.
+My notes on Algorithms and Computational Physics, Python 3 is the major demonstrated programming language.
 
 This is a long-term plan.
 

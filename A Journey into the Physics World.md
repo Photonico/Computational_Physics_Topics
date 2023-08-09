@@ -206,6 +206,8 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] Computational Physics Course in Python, Kristjan Haule, Rutgers.
 
+* [lecture] Harvard CS 224, Advanced Algorithms, Jelani Nelson, Harvard.
+
 * [book] Numerical Methods in Physics with Python, Alex Gezerlis.
 
 ## Other

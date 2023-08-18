@@ -134,6 +134,8 @@ Pick your favorite lecture or book for each section you are interested in.
 
 * [lecture] Condensed Matter Physics, Catherine Stampfl, USYD.
 
+* [lecture] Density Functional Theory, Zientziateka.
+
 * [lecture] MIT 5.61, Physical Chemistry, Robert Field, MIT.
 
 * [book] The Oxford Solid State Basics, Steven Simon.

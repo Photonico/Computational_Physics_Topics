@@ -8,7 +8,7 @@
 
 ## About this repository
 
-My notes on Algorithms and Computational Physics, Python 3 is the major demonstrated programming language.
+My notes on Algorithms and Computational Physics, use Python 3 as the programming language for demonstrating.
 
 This is a long-term plan.
 

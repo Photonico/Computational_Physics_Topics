@@ -22,7 +22,7 @@ Please never give up!
 
     This lecture includes Linear Algebra, Complex Analysis, Special Functions, Vector Analysis, ODE, PDE, Fourier Series, and Transforms. It covers foundational mathematical tools widely used in physics.
 
-* [book] *Advanced Calculus*, Patrick Fitzpatrick, American Mathematical Society, 2009.
+* [book] Advanced Calculus, Patrick Fitzpatrick, American Mathematical Society, 2009.
 
 * [book] Mathematical Physics 2nd, Sadri Hassani.
 

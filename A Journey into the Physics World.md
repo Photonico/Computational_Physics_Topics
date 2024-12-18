@@ -16,19 +16,17 @@ Please never give up!
 
 * [lecture] MATH 410: Advanced Calculus Ⅰ, Roohollah Ebrahimian, UMD.
 
-    *(Focuses on foundational concepts in analysis and calculus for advanced studies.)*
+* [lecture] MATH 340: Honors Linear Algebra and Multivariable Calculus, Roohollah Ebrahimian, UMD.
 
-* [lecture] MATH 340: Honors Linear Algebra and Multivariable Calculus, Roohollah Ebrahimian, UMD.  
-  *(Explores rigorous approaches to linear algebra and calculus with applications.)*
+* [lecture] Applied Mathematics (for Physics) Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).
 
-* [lecture] Applied Mathematics (for Physics) Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).  
-  *(This lecture includes Linear Algebra, Complex Analysis, Special Functions, Vector Analysis, ODE, PDE, Fourier Series, and Transforms. It covers foundational mathematical tools widely used in physics.)*
+  *This lecture includes Linear Algebra, Complex Analysis, Special Functions, Vector Analysis, ODE, PDE, Fourier Series, and Transforms. It covers foundational mathematical tools widely used in physics.*
 
-* [book] *Advanced Calculus*, Patrick Fitzpatrick, American Mathematical Society, 2009.  
-  *(A comprehensive text on advanced calculus topics tailored for students in mathematics and physics.)*
-
+* [book] *Advanced Calculus*, Patrick Fitzpatrick, American Mathematical Society, 2009.
 
 * [book] Mathematical Physics 2nd, Sadri Hassani.
+
+  This book provides an exceptionally comprehensive treatment of mathematics for physicists, covering a vast range of topics. Its depth and clarity make it a valuable resource, even for mathematicians seeking to expand their knowledge.
 
 ## Classical Mechanics
 

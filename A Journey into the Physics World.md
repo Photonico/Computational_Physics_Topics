@@ -4,23 +4,31 @@ Created by Lu Niu
 
 ## How to Use
 
-Just follow what you need or want, and never give up!
+For physics enthusiasts, it’s best to select one course per subject;
+
+There’s NO need to reinvent the wheel.
+
+Simply follow the material that suits your needs or interests, and most importantly;
+
+Please never give up!
 
 ## Mathematical Methods for Physics
 
-* [lecture] MIT 18.06: Linear Algebra, Gilbert Strang, MIT.
-
 * [lecture] MATH 410: Advanced Calculus Ⅰ, Roohollah Ebrahimian, UMD.
 
-* [lecture] MATH 340: Honors Linear Algebra and Multivariable Calculus, Roohollah Ebrahimian, UMD.
+    *(Focuses on foundational concepts in analysis and calculus for advanced studies.)*
 
-* [lecture] Applied Mathematics (for Physics) Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).
+* [lecture] MATH 340: Honors Linear Algebra and Multivariable Calculus, Roohollah Ebrahimian, UMD.  
+  *(Explores rigorous approaches to linear algebra and calculus with applications.)*
 
-* [book] Advanced Calculus, Patrick Fitzpatrick, American Mathematical Society, 2009.
+* [lecture] Applied Mathematics (for Physics) Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).  
+  *(This lecture includes Linear Algebra, Complex Analysis, Special Functions, Vector Analysis, ODE, PDE, Fourier Series, and Transforms. It covers foundational mathematical tools widely used in physics.)*
+
+* [book] *Advanced Calculus*, Patrick Fitzpatrick, American Mathematical Society, 2009.  
+  *(A comprehensive text on advanced calculus topics tailored for students in mathematics and physics.)*
+
 
 * [book] Mathematical Physics 2nd, Sadri Hassani.
-
-* [book] Geometry Topology and Physics, Mikio Nakahara.
 
 ## Classical Mechanics
 

@@ -84,6 +84,8 @@ This book provides an exceptionally comprehensive treatment of mathematics for p
 
 * [lecture] Condensed Matter Physics, Catherine Stampfl, USYD.
 
+* [book] The Oxford Solid State Basics, Steven H. Simon.
+
 * [book] Quantum Field Theory and Condensed Matter - An Introduction, Ramamurti Shankar.
 
 ## Computational Physics

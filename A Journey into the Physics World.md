@@ -14,7 +14,7 @@ Just follow what you need or want, and never give up!
 
 * [lecture] MATH 340: Honors Linear Algebra and Multivariable Calculus, Roohollah Ebrahimian, UMD.
 
-* [lecture] Applied Mathematics Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).
+* [lecture] Applied Mathematics (for Physics) Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).
 
 * [book] Advanced Calculus, Patrick Fitzpatrick, American Mathematical Society, 2009.
 

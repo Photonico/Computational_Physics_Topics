@@ -1,4 +1,4 @@
-# A list of recommended courses for learning Physics
+# A List of Recommended Courses for Learning Physics
 
 Created by Lu Niu
 
@@ -6,7 +6,7 @@ Created by Lu Niu
 
 Just follow what you need or want, and never give up!
 
-## Mathematical methods for Physics
+## Mathematical Methods for Physics
 
 * [lecture] MIT 18.06: Linear Algebra, Gilbert Strang, MIT.
 
@@ -22,7 +22,7 @@ Just follow what you need or want, and never give up!
 
 * [book] Geometry Topology and Physics, Mikio Nakahara.
 
-## Classical mechanics
+## Classical Mechanics
 
 * [lecture] PHYS 411, Graduate Classical Mechanics, Sasha Tchekhovskoy, Northwestern.
 

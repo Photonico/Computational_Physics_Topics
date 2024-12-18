@@ -12,7 +12,7 @@ Just follow what you need or want, and never give up!
 
 * [lecture] MATH 410: Advanced Calculus Ⅰ, Roohollah Ebrahimian, UMD.
 
-* [lecture] MATH 340: Honor Linear Algebra and Calculus for multivariable, Roohollah Ebrahimian, UMD.
+* [lecture] MATH 340: Honors Linear Algebra and Multivariable Calculus, Roohollah Ebrahimian, UMD.
 
 * [lecture] Applied Mathematics Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).
 

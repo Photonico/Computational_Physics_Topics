@@ -1,4 +1,4 @@
-# A List of Recommended Courses for Learning Physics
+# A Journey into the Physics World
 
 Created by Lu Niu
 
@@ -20,13 +20,13 @@ Please never give up!
 
 * [lecture] Applied Mathematics (for Physics) Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).
 
-        This lecture includes Linear Algebra, Complex Analysis, Special Functions, Vector Analysis, ODE, PDE, Fourier Series, and Transforms. It covers foundational mathematical tools widely used in physics.
+    This lecture includes Linear Algebra, Complex Analysis, Special Functions, Vector Analysis, ODE, PDE, Fourier Series, and Transforms. It covers foundational mathematical tools widely used in physics.
 
 * [book] *Advanced Calculus*, Patrick Fitzpatrick, American Mathematical Society, 2009.
 
 * [book] Mathematical Physics 2nd, Sadri Hassani.
 
-        This book provides an exceptionally comprehensive treatment of mathematics for physicists, covering a vast range of topics. Its depth and clarity make it a valuable resource, even for mathematicians seeking to expand their knowledge.
+    This book provides an exceptionally comprehensive treatment of mathematics for physicists, covering a vast range of topics. Its depth and clarity make it a valuable resource, even for mathematicians seeking to expand their knowledge.
 
 ## Classical Mechanics
 

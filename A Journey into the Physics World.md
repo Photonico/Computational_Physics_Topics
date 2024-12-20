@@ -14,13 +14,15 @@ Please never give up!
 
 ## Mathematical Methods for Physics
 
-* [lecture] MATH 410: Advanced Calculus Ⅰ, Roohollah Ebrahimian, UMD.
+* [lecture] [MATH 410: Advanced Calculus Ⅰ](https://www.youtube.com/playlist?list=PLvt4fmEPBjqrxOeNUiIBv4i0yzvP6Tz36), Roohollah Ebrahimian, UMD.
 
-* [lecture] MATH 340: Honors Linear Algebra and Multivariable Calculus, Roohollah Ebrahimian, UMD.
+* [lecture] [MATH 340: Honors Linear Algebra and Multivariable Calculus](https://www.youtube.com/playlist?list=PLciPFwfwQdT9QD6P62J6xBbrs2yJFP3RF), Roohollah Ebrahimian, UMD.
 
-* [lecture] Applied Mathematics (for Physics) Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).
+* [lecture] [Applied Mathematics (for Physics) Ⅰ](https://www.youtube.com/playlist?list=PLS0SUwlYe8cy7eNFtSWru7EtJ_yXM94YH), Hsiu-Hau Lin, NTHU (in Chinese).
 
-    This lecture includes Linear Algebra, Complex Analysis, Special Functions, Vector Analysis, ODE, PDE, Fourier Series, and Transforms. It covers foundational mathematical tools widely used in physics.
+* [lecture] [Applied Mathematics (for Physics) Ⅱ](https://www.youtube.com/playlist?list=PLS0SUwlYe8cxiepObAy7dGDs29AdViZdj), Hsiu-Hau Lin, NTHU (in Chinese).
+
+    This series of lectures includes Linear Algebra, Complex Analysis, Special Functions, Vector Analysis, ODE, PDE, Fourier Series, and Transforms. It covers foundational mathematical tools widely used in physics.
 
 * [book] Advanced Calculus, Patrick Fitzpatrick, American Mathematical Society, 2009.
 
@@ -30,41 +32,43 @@ Please never give up!
 
 ## Classical Mechanics
 
-* [lecture] PHYS 411, Graduate Classical Mechanics, Sasha Tchekhovskoy, Northwestern.
+* [lecture] [PHYS 411, Graduate Classical Mechanics](https://www.youtube.com/playlist?list=PL39mDr1uU6a5iYPIcDi5x_vt8l9FZjCSo), Sasha Tchekhovskoy, Northwestern.
+
+* [book] A Primer of Analytical Mechanics, Franco Strocchi.
 
 * [book] Classical Mechanics, Tom Kibble.
 
 ## Electrodynamics
 
-* [lecture] PHYS 511, Electrodynamics, Edl Schamiloglu, UNM.
+* [lecture] [PHYS 511, Electrodynamics](https://www.youtube.com/playlist?list=PLdlPA9pGVVtYK_qVYsANQrlBbPFo-ZxkK), Edl Schamiloglu, UNM.
 
-* [lecture] Advanced Electromagnetism, Fu-Goul Yee, NTU Taiwan (in Chinese).
+* [lecture] [Advanced Electromagnetism](https://www.youtube.com/playlist?list=PLA7951CBECE76701D), Fu-Goul Yee, NTU Taiwan (in Chinese).
 
-* [book] The Feynman Lectures on Physics vol Ⅱ, Richard Feynman.
+* [book] Introduction to Electrodynamics, David J. Griffiths.
 
 ## Quantum Mechanics
 
-* [lecture] Physics 221AB, Quantum Mechanics Ⅰ & Ⅱ, Robert Littlejohn, UC Berkeley.
+* [lecture] [Physics 221AB, Quantum Mechanics](https://bohr.physics.berkeley.edu/classes/221/2122/221.html), Robert Littlejohn, UC Berkeley.
 
-* [lecture] MIT 8.04, Quantum Physics Ⅰ, Barton Zwiebach, MIT.
+* [lecture] [MIT 8.04, Quantum Physics Ⅰ](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G), Barton Zwiebach, MIT.
 
-* [lecture] MIT 8.05, Quantum Physics Ⅱ, Barton Zwiebach, MIT.
+* [lecture] [MIT 8.05, Quantum Physics Ⅱ](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx), Barton Zwiebach, MIT.
 
-* [lecture] MIT 8.06, Quantum Physics Ⅲ, Barton Zwiebach, MIT.
+* [lecture] [MIT 8.06, Quantum Physics Ⅲ](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L), Barton Zwiebach, MIT.
 
-* [lecture] Quantum Mechanics, Fu-Goul Yee, NTU Taiwan (in Chinese).
-
-* [book] The Feynman Lectures on Physics vol Ⅲ, Richard Feynman.
+* [lecture] [Quantum Mechanics](https://www.youtube.com/playlist?list=PLF4C2C0FE5389B474), Fu-Goul Yee, NTU Taiwan (in Chinese).
 
 * [book] The Principle of Quantum Mechanics, Ramamurti Shankar.
 
 ## Statistical Mechanics
 
-* [lecture] Thermal and Statistical Physics Ⅰ & Ⅱ, Hsiu-Hau Lin, NTHU (in Chinese).
+* [lecture] [Thermal and Statistical Physics Ⅰ](https://www.youtube.com/playlist?list=PLS0SUwlYe8cyk1WY3t4GcL5AjWhE9w_9b), Hsiu-Hau Lin, NTHU (in Chinese).
 
-* [lecture] MIT 8.333, Statistical Physics of Particles, Mehran Kardar, MIT.
+* [lecture] [Thermal and Statistical Physics Ⅱ](https://www.youtube.com/playlist?list=PLS0SUwlYe8cx_e0nB79ZGXJ3TShBxWdIS), Hsiu-Hau Lin, NTHU (in Chinese).
 
-* [lecture] MIT 8.334, Statistical Physics of Fields, Mehran Kardar, MIT.
+* [lecture] [MIT 8.333, Statistical Physics of Particles](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg), Mehran Kardar, MIT.
+
+* [lecture] [MIT 8.334, Statistical Physics of Fields](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7), Mehran Kardar, MIT.
 
 * [book] Statistical Physics of Particles, Mehran Kardar.
 
@@ -74,17 +78,17 @@ Please never give up!
 
 ## Atom and Quantum Optics
 
-* [lecture] Quantum Optics, Alain Aspect, Coursera.
+* [course] Quantum Optics, Alain Aspect, Coursera.
 
-* [lecture] Lectures on Quantum Optics, Carlos Navarrete-Benlloch.
+* [lecture] [Lectures on Quantum Optics](https://www.youtube.com/playlist?list=PLQOPozM-bhZrWIyxwD_sMe9Q0HvwMzJNS), Carlos Navarrete-Benlloch.
 
-* [lecture] MIT 4.21, Atomic and Optical Physics Ⅰ, Wolfgang Ketterle, MIT.
+* [lecture] [MIT 8.421, Atomic and Optical Physics Ⅰ](https://www.youtube.com/playlist?list=PLUl4u3cNGP62FPGcyFJkzhqq9c5cHCK32), Wolfgang Ketterle, MIT.
 
-* [lecture] MIT 4.22, Atomic and Optical Physics Ⅱ, Wolfgang Ketterle, MIT.
+* [lecture] [MIT 8.422, Atomic and Optical Physics Ⅱ](https://www.youtube.com/watch?v=Agu68RGaoWM&list=PLUl4u3cNGP62uOSArqLf4vNLiZtgIRm1K), Wolfgang Ketterle, MIT.
 
 ## Solid Physics and Condensed Matter Physics
 
-* [lecture] Condensed Matter Physics, Catherine Stampfl, USYD.
+* [lecture] [Condensed Matter Physics](https://www.youtube.com/watch?v=98qp-r6lJjg&list=PLcrBQBxtcThFDCKt4dKYC4OIOgNYYC_5Y), Catherine Stampfl, USYD.
 
 * [book] The Oxford Solid State Basics, Steven H. Simon.
 
@@ -92,15 +96,15 @@ Please never give up!
 
 ## Computational Physics
 
-* [lecture] Computational Physics Course in Python, Kristjan Haule, Rutgers.
+* [lecture] [Computational Physics Course in Python](https://www.youtube.com/playlist?list=PLXmUYdQdC9IGv61Y1lhGBH0NsDQRdwcJE), Kristjan Haule, Rutgers.
 
 * [book] Numerical Methods in Physics with Python, Alex Gezerlis.
 
 ## Other
 
-* [lecture] Writing in the Sciences, Kristin Sainani, Stanford.
+* [lecture] [MIT 5.95J, Teaching College-Level Science and Engineering](https://www.youtube.com/playlist?list=PLB1304385546D6F86), Sanjoy Mahajan, MIT.
 
-* [lecture] MIT 5.95J, Teaching College-Level Science And Engineering, Sanjoy Mahajan, MIT.
+* [course] Writing in the Sciences, Kristin Sainani, Coursera.
 
 * [book] On Writing Well, William Zinsser.
   
